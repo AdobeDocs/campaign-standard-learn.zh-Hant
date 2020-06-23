@@ -1,6 +1,6 @@
 ---
 title: 控制面板
-description: 「控制面板」可讓您依例項和白名單IP位址來監控和管理您的SFTP儲存空間。
+description: 「控制面板」可讓您依例項監視和管理SFTP儲存空間，並允許列出IP位址。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,17 +8,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 5%
+source-wordcount: '361'
+ht-degree: 4%
 
 ---
 
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-可 [!UICONTROL Control Panel] 讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項或白名單IP位址管理SFTP儲存。
+>[!NOTE]
+>
+>Adobe Campaign文[!UICONTROL whitelist]件中的「[!UICONTROL blacklist]」和「」已取代[!UICONTROL allow list]「」和[!UICONTROL block list]「」。 產品UI、選項名稱、內部程式碼以及教學課程影片中可能仍會出現這些詞語。 在即將發行的「控制面板」版本中，將會取代它們。
+
+可 [!UICONTROL Control Panel] 讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項或IP位址管理SFTP [!UICONTROL allow list] 儲存。
 
 ## 存取 [!UICONTROL Control Panel]
 
@@ -55,25 +59,34 @@ ht-degree: 5%
 ## 控制面板教學課程
 
 * **管理SFTP伺服器**
-   <br>
-   *瞭解如何監控伺服器容量、白名單IP地址和添加SSH密鑰*
 
-   * [監控伺服器容量、將IP地址列入白名單和添加SSH密鑰](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   *瞭解如何監控伺服器容量、允許列出IP地址和添加SSH密鑰*
+
+   * [監控伺服器容量、允許列出IP地址和添加SSH密鑰](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [生成SSH密鑰](/help/administrating/control-panel/generate-ssh-key.md)
    * [連接到SFTP伺服器](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[委派子網域](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
+* **[委派子網域](/help/administrating/control-panel/subdomain-delegation.md)**
+
    *瞭解如何將子網域完全委派至Adobe Campaign*
-* **[新增SSL憑證](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[新增SSL憑證](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *瞭解如何新增SSL憑證來保護您的子網域。*
-* **[管理SSL憑證](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[管理SSL憑證](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *瞭解如何檢視子網域的SSL憑證狀態，以及要求續約。*
-* **[Google TXT記錄管理](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Google TXT 記錄管理](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *瞭解如何將Google TXT網站驗證記錄新增至您所有透過「促銷活動控制面板」傳送電子郵件至GMAIL位址的子網域。*
 
-* **[故障排除](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[生成和安裝GPG密鑰](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *瞭解如何在指定的例項上產生和安裝新的公開／私有GPG金鑰對，以及如何匯入和安裝公開金鑰至您的Adobe Campaign例項。*
+
+* **[故障排除](/help/administrating/control-panel/trouble-shooting.md)**
+
    *瞭解如何疑難排解控制面板*
 
 ## 其他資源
 
-* [[!UICONCONTROL控制面板幫助中心]](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
+* [控制面板說明中心](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
 
