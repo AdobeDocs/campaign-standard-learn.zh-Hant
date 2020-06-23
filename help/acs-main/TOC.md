@@ -7,12 +7,12 @@ solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#reco
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 檔案
-getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 6%
+source-wordcount: '495'
+ht-degree: 9%
 
 ---
 
@@ -102,15 +102,16 @@ ht-degree: 6%
       + [建立自訂資源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理 {#administrating}
    + [管理用戶訪問權限](/help/administrating/managing-user-access-rights.md)
-   + 控制面板 {#control-panel}
+   + 控制面板{#control-panel}
       + [控制面板概述](/help/administrating/control-panel/control-panel-overview.md)
-      + [監控伺服器容量、將IP地址列入白名單和添加SSH密鑰](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [監控伺服器容量、允許列出IP地址和添加SSH密鑰](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [生成SSH密鑰](/help/administrating/control-panel/generate-ssh-key.md)
       + [連接到SFTP伺服器](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [委派子網域](/help/administrating/control-panel/subdomain-delegation.md)
       + [新增SSL憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [管理SSL憑證](/help/administrating/control-panel/managing-ssl-certificates.md)
-      + [Google TXT記錄管理](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Google TXT 記錄管理](/help/administrating/control-panel/google-txt-record-management.md)
+      + [生成和安裝GPG密鑰](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [故障排除](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [瞭解Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
