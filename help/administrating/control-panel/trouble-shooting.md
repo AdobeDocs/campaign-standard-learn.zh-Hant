@@ -1,6 +1,6 @@
 ---
 title: 開啟控制面板時出現問題
-description: 「控制面板」可讓您依例項和白名單IP位址來監控和管理您的SFTP儲存空間。
+description: 「控制面板」可讓您依例項監視和管理SFTP儲存空間，並允許列出IP位址。
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 0%
+source-wordcount: '336'
+ht-degree: 1%
 
 ---
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 連線至SFTP伺服器需要：
 
-* [!UICONTROL Whitelisting] 您從中連接到SFTP伺服器的IP地址
+* [!UICONTROL allow listing] 您從中連接到SFTP伺服器的IP地址
 * 需要向Adobe Campaign註冊的私密／公用金鑰對
 * 如果直接連接到SFTP伺服器，您還需要SFTP客戶端軟體
 
 ### 實用檔案
 
-* [登入您的SFTP伺服器](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [登入您的 SFTP 伺服器](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
