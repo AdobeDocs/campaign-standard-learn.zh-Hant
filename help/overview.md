@@ -3,7 +3,7 @@ title: Adobe Campaign Standard教學課程——概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用指南包含有關Adobe Campaign Standard許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 21%
@@ -17,15 +17,17 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[控制面板生成和安裝GPG鍵](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[控制面板——產生和安裝GPG金鑰](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *瞭解如何在指定的例項上產生和安裝新的公開／私有GPG金鑰對，以及如何匯入和安裝公開金鑰至您的Adobe Campaign例項。*
 
-* **[外部API活動](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[外部API活動](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *瞭解如何使用外部API活動來設定及執行工作流程。*
 
-* **[描述檔替代——使用目標描述檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *瞭解如何以描述檔將會收到的確切訊息來傳送檢閱證明。*
+* **[描述檔替代——使用目標描述檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)**
 
+   *瞭解如何以描述檔將會收到的確切訊息來傳送檢閱證明。*
 
 ## 員工挑選
 
