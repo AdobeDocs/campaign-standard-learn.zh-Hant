@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: b95fb2360d6336c941e7b92a6e2abb376185a7c3
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -27,11 +27,13 @@ ht-degree: 0%
 以下視訊說明下列設定步驟：
 
 1. **從外部系統** (例如內容管理系統(CRM))接收外部參數：
+
    * 在「外部信號」活動中聲明參數
    * 設定API呼叫以定義參數並觸發工作流程「外部訊號活動」。 如需如何設定API呼叫的詳細資訊，請參閱 [觸發信號活動](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)。
 
 1. **使用外部參數** （事件變數）自訂工作流程：
-觸發工作流程後，這些參數就會被收錄到工作流程的事件變數中，並可在工作流程中使用。 請參 [閱說明檔案](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) ，以取得可使用事件變數自訂的所有活動：
+
+   觸發工作流程後，這些參數就會被收錄到工作流程的事件變數中，並可在工作流程中使用。 請參 [閱說明檔案](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) ，以取得可使用事件變數自訂的所有活動：
 
    * 設定測試活動（19.2中的新功能）
    * 設定讀取對象和電子郵件傳送活動
