@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 4%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 4%
 
 * **管理SFTP伺服器**
 
-   *瞭解如何監控伺服器容量、允許列出IP地址和添加SSH密鑰*
+   *瞭解如何監控伺服器容量、允許列出IP地址和添加SSH密鑰：*
 
    * [監控伺服器容量、允許列出IP地址和添加SSH密鑰](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [生成SSH密鑰](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ ht-degree: 4%
 
    *瞭解如何將Google TXT網站驗證記錄新增至您所有透過「促銷活動控制面板」傳送電子郵件至GMAIL位址的子網域。*
 
-* **[生成和安裝GPG密鑰](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG密鑰管理**
 
-   *瞭解如何在指定的例項上產生和安裝新的公開／私有GPG金鑰對，以及如何匯入和安裝公開金鑰至您的Adobe Campaign例項。*
+   *瞭解如何在指定的促銷活動例項上產生和安裝公開／私密金鑰對，以加密傳出資料，以及在促銷活動例項上匯入和安裝公開金鑰，以解密傳入資料：*
+
+   * [生成並安裝用於資料加密的GPG密鑰](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [使用GPG密鑰加密資料](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [解密資料](./gpg-key-management/decrypting-data.md)
 
 * **[故障排除](/help/administrating/control-panel/trouble-shooting.md)**
 
