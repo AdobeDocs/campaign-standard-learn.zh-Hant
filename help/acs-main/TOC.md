@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 檔案
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 9%
+source-wordcount: '514'
+ht-degree: 8%
 
 ---
 
@@ -111,7 +111,11 @@ ht-degree: 9%
       + [新增SSL憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [管理SSL憑證](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT 記錄管理](/help/administrating/control-panel/google-txt-record-management.md)
-      + [生成和安裝GPG密鑰](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + GPG密鑰管理 {#gpg-key-management}
+         + [GPG密鑰管理——概述](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [生成並安裝用於資料加密的GPG密鑰](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [使用GPG密鑰加密資料](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [解密資料](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [故障排除](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [瞭解Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
