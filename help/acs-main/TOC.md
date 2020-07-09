@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 檔案
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '503'
 ht-degree: 8%
 
 ---
@@ -57,7 +57,6 @@ ht-degree: 8%
    + 行動裝置 {#mobile}
       + 簡訊{#sms}
          + [建立簡訊傳送](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [建立多語言電子郵件和簡訊傳送](/help/communication-channels/create-multilingual-deliveries.md)
          + [將現有的電子郵件、簡訊傳送或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -87,7 +86,6 @@ ht-degree: 8%
    + [在交易電子郵件中設定產品清單](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和資料 {#managing-processes-and-data}
    + [建立工作流程](/help/managing-processes-and-data/create-workflow.md)
-   + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [外部信號活動](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
