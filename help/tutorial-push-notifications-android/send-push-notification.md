@@ -8,10 +8,10 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 * 從下拉式清單中選取適當的行動 **[!UICONTROL Associate a Mobile App to a delivery]** 應用程式，然後按一下 **[!UICONTROL Next]**
 * 按一下計數標籤，它應返回大於0的值。 按一下 **[!UICONTROL Next]**
 * 提供有意義 [!UICONTROL Message title] 的內 [!UICONTROL Message body] 容並按一下 **[!UICONTROL Create]**。
-* 按一下 **[!UICONTROL Prepare]**. 準備完成後，按一下即 **[!UICONTROL Confirm]** 可傳送訊息。
+* 按一下「**[!UICONTROL Prepare]**」。準備完成後，按一下即 **[!UICONTROL Confirm]** 可傳送訊息。
 
 如果一切順利，您應會在模擬器中看到Android應用程式中執行的通知
 
