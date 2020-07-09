@@ -3,10 +3,10 @@ title: Adobe Campaign Standard教學課程——概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用指南包含有關Adobe Campaign Standard許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 21%
+source-wordcount: '308'
+ht-degree: 20%
 
 ---
 
@@ -17,9 +17,9 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[控制面板——產生和安裝GPG金鑰](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG密鑰管理](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *瞭解如何在指定的例項上產生和安裝新的公開／私有GPG金鑰對，以及如何匯入和安裝公開金鑰至您的Adobe Campaign例項。*
+   *瞭解如何在指定的促銷活動例項上產生和安裝公開／私密金鑰對，以加密傳出資料，以及在促銷活動例項上匯入和安裝公開金鑰，以解密傳入資料。*
 
 * **[外部API活動](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
