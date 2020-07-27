@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
@@ -55,8 +55,8 @@ ht-degree: 1%
 
 ### 實用檔案
 
-* [探索[!UICONCONTROL控制面板]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [管理[!UICONCONTROL控制面板]的權限](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [探索 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## 建立與SFTP伺服器（用戶端或API）的連線
 
