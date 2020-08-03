@@ -1,6 +1,6 @@
 ---
 title: 建立測試設定檔
-description: 測試設定檔可讓您定位不符合已定義定位准則的其他收件者。 它們會新增至訊息的讀者群，以偵測任何詐用收件者資料庫的行為，或確保電子郵件送達收件匣。
+description: 測試設定檔可讓您鎖定與定義之目標定位條件不相符的其他收件者。已將他們新增至郵件的對象中，以偵測任何詐用收件者資料庫之行為，或確保電子郵件送達至收件匣中。
 feature: Profiles and Audiences
 topic: null
 kt: 1810
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 72%
 
 ---
 
 
 # 建立測試設定檔 {#creating-a-test-profile}
 
-測試設定檔可讓您定位不符合已定義定位准則的其他收件者。 它們會新增至訊息的讀者群，以偵測任何詐用收件者資料庫的行為，或確保電子郵件送達收件匣。
+測試設定檔可讓您鎖定與定義之目標定位條件不相符的其他收件者。已將他們新增至郵件的對象中，以偵測任何詐用收件者資料庫之行為，或確保電子郵件送達至收件匣中。
 
 此影片說明如何建立測試設定檔
 
