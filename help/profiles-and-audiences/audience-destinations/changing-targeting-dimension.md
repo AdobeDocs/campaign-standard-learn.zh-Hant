@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 3%
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
+>
 >如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
 
 此視訊說明如何在Adobe Campaign Standard中變更主要描述檔表格 [!UICONTROL Platform Audience] 外傳送的定位維度。
