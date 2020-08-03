@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 4%
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。
+>
 >如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
 
 ## 概觀
@@ -38,6 +39,7 @@ Adobe Experience Platform是 [!UICONTROL Data Connector] 專為瞭解Adobe Campa
 >[!NOTE]
 >
 >不支援現成可用的 [!UICONTROL subscription events] 傳輸。 若要傳 [!UICONTROL subscription events]輸，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
+>
 >現有 [!UICONTROL experience events] 的Adobe Experience Platform無法吸收，但持續產生的 [!UICONTROL experience events] 內容會串流至Adobe Experience Platform。
 
 ## 執行資料映射的關鍵步驟
