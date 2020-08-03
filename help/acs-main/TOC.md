@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standa
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 8%
+source-wordcount: '529'
+ht-degree: 10%
 
 ---
 
@@ -33,13 +33,13 @@ ht-degree: 8%
    + [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用Adobe Campaign進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [使用Adobe Campaign成長](/help/getting-started/growing-with-adobe-campaign.md)
-+ 設定檔與閱聽眾 {#profiles-and-audiences}
++ 設定檔與對象 {#profiles-and-audiences}
    + [建立個人檔案和觀眾——概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立描述檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 觀眾目標（測試版）{#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [使用「統一的區段產生器」建立新的觀眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流程中啟動Adobe Experience Platform受眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -50,13 +50,14 @@ ht-degree: 8%
       + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [建立多語言電子郵件或簡訊傳送](/help/communication-channels/create-multilingual-deliveries.md)
       + [將現有的電子郵件、簡訊傳送或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
-      + [A/B測試](/help/communication-channels/email/a-b-testing.md)
+      + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
       + [檢閱電子郵件傳送和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立及傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
    + 行動裝置 {#mobile}
-      + 簡訊{#sms}
+      + SMS{#sms}
          + [建立簡訊傳送](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [建立多語言電子郵件或簡訊傳送](/help/communication-channels/create-multilingual-deliveries.md)
          + [將現有的電子郵件、簡訊傳送或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -76,7 +77,7 @@ ht-degree: 8%
       + [測試並發佈著陸頁面](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [設定著陸頁面範本](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + 設計和個人化內容 {#designing-content}
-   + Email Designer{#email-designer}
+   + 電子郵件設計人員{#email-designer}
       + [概觀](/help/designing-content/email-designer/email-designer-overview.md)
       + [電子郵件內容範本簡介](/help/designing-content/email-designer/email-content-templates.md)
       + [設定行動裝置檢視](/help/designing-content/email-designer/configure-the-mobile-view.md)
@@ -86,6 +87,7 @@ ht-degree: 8%
    + [在交易電子郵件中設定產品清單](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和資料 {#managing-processes-and-data}
    + [建立工作流程](/help/managing-processes-and-data/create-workflow.md)
+   + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [外部信號活動](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -122,7 +124,7 @@ ht-degree: 8%
       + [映射種子表資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [修改資料映射](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [檢查資料提取作業的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
-   + 排版規則{#typology-rules}
+   + Typology Rules{#typology-rules}
       + 疲勞管理{#fatigue-management}
          + [建立疲勞規則](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + 隱私權 {#privacy}
@@ -131,3 +133,5 @@ ht-degree: 8%
    + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立和追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權要求](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign傳遞能力最佳實務指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
