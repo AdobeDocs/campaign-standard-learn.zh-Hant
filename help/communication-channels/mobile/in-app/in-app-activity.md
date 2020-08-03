@@ -13,18 +13,18 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 
 # 在工作流程 [!UICONTROL In-App] 中建立傳送
 
-應用程式內傳送活動通常用來自動傳送訊息給在相 [!UICONTROL In-App] 同工作流程中計算的目標對象。
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 收件者是透過查詢、交叉點等定位活動，在相同工作流程中定義活動上游的位置。
 
-根據工作流執行參數觸發消息準備。 在訊息控制面板中，您可以選擇要求手動確認以傳送訊息（預設為必要）。 您可以手動啟動工作流，或將排程器活動置於工作流中以自動執行。
+根據工作流程執行參數觸發訊息準備。在訊息控制面板中，您可以選擇要求手動確認以傳送訊息（預設為必要）。 您可以手動啟動工作流程，或將排程器活動置於工作流程中以自動執行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 
