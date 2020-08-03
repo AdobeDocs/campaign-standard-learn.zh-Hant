@@ -1,5 +1,5 @@
 ---
-title: 建立推播通知
+title: 自訂推播通知
 description: '瞭解如何在Adobe Campaign Standard(ACS)中建立推播通知。 '
 feature: Push
 topics: Mobile
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 瞭解如何在Adobe [!UICONTROL push notification] Campaign Standard(ACS)中建立：
 
-Adobe Campaign可讓您將個人化和區隔的內容傳送至iOS [!UICONTROL push notifications] 和Android行動裝置。 您有兩個選項：
+Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. 您有兩個選項：
 
 * **[!UICONTROL Send push notification to Campaign profiles]**: 可讓您鎖定已訂閱您行動應用程式並選擇接收的Adobe Campaign CRM設定檔 [!UICONTROL push notifications]。 您可以將個人化欄位插 [!UICONTROL push notification]入您的檔案，例如收件者的名字。
 
