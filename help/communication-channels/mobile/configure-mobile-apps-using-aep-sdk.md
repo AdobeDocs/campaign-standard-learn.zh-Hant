@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
+>
 >有關視 [訊中使用的詳 [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) 細檔案和程式碼範本，請參閱中的設定應用程式。
 
 ## 其他資源
 
 * [設定行動裝置屬性（Adobe Launch檔案）](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience Platform SDK設定行動應用程式（檔案）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [使用Adobe Experience Platform SDK設定行動應用程式（檔案）](https://helpx.adobe.com/tw/campaign/kb/configuring-app-sdk.html)
