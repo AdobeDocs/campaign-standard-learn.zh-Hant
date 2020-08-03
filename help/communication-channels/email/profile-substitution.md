@@ -4,7 +4,7 @@ description: 此影片說明如何使用描述檔替代功能來測試您的電�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
