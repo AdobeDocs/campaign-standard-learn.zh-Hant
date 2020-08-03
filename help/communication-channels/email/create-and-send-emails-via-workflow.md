@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 * [建立電子郵件傳送](/help/communication-channels/email/create-email-from-homepage.md)
 * [建立電子郵件（檔案）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [提供最佳實務](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [提供最佳實務](https://helpx.adobe.com/tw/campaign/kb/delivery-best-practices.html)
