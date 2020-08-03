@@ -1,6 +1,6 @@
 ---
 title: 步驟1 —— 建立Android應用程式並設定使用Firebase Cloud訊息
-description: 在本部分，我們將建立[!DNL Android]應用程式，以接收從Adobe Campaign Standard傳送的[!UICONTROL推播通知]。 為了接收推播通知，應用程式必須向Google的[!DNL Firebase Cloud Service]註冊。
+description: 在本部分，我們將 [!DNL Android] App to receive [!UICONTROL Push notifications] 從Adobe Campaign Standard建立。 為了接收推播通知，應用程式必須向Google的註冊 [!DNL Firebase Cloud Service]。
 feature: Push
 topics: Mobile
 kt: 4825
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '316'
+ht-degree: 2%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 2. 啟動 [!DNL Android Studio]
 3. Click **[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project].**
-4. 選擇 **[!UICONTROL Empty Activity]** 並按一下 **[!UICONTROL Next]。**
+4. 選取 **[!UICONTROL Empty Activity]** 並按一下 **[!UICONTROL Next]。**
 
    ![android-project](assets/android-project.PNG)
 
@@ -42,13 +42,13 @@ ht-degree: 1%
    ![android-project-structure](assets/android-project-structure.PNG)
 
 8. 按一下 **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(這會將專案新增至[!DNL Firebase])
-9. 按一下 **[!UICONTROL Set up Firebase Cloud Messaging].**
+9. 按一下 **[!UICONTROL Set up Firebase Cloud Messaging]。**
 
    ![設定防火牆](assets/android-project-firebase-messaging.PNG)
 
-10. 按一下 **[!UICONTROL Connect to Firebase].**
+10. 按一下 **[!UICONTROL Connect to Firebase]。**
 11. 在您的應用程式連線至Firebase後，按一下 **[!UICONTROL Add FCM to your app]。**
-12. 按一下 **[!UICONTROL Accept Changes].**
+12. 按一下 **[!UICONTROL Accept Changes]。**
 
    當您將FCM新增至應用程式時，精靈需要您的權限才能對專案進行一些變更。
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[請確定您的專案已列在[!DNL Firebase ]主控台中](https://console.firebase.google.com/)
+[確定您的專案已列在主控台 [!DNL Firebase ]中](https://console.firebase.google.com/)
 
 ## 設定設 [!UICONTROL Push Channel] 定
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 
    ![project-settings](assets/firebase-project-settings.PNG)
 
-4. 頁籤 **[!UICONTROL Cloud Messaging]** 中。
+4. Tab to the **[!UICONTROL Cloud Messaging]** tab.
 5. 複製伺服器密鑰
 
    ![server-key](assets/firebase-server-key.PNG)
