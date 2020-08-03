@@ -1,6 +1,6 @@
 ---
 title: Android應用程式的推播通知快速入門
-description: Adobe Campaign可讓您將個人化和分段的推播通知傳送至iOS和Android行動裝置。 這些訊息是在您在Adobe Campaign中設定的行動應用程式上，透過運用Experience Cloud Mobile SDK V4或Experience Platform SDK收到的。 本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的相關步驟。
+description: Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 Android 行動裝置。這些訊息是在您在Adobe Campaign中設定的行動應用程式上，透過運用Experience Cloud Mobile SDK V4或Experience Platform SDK收到的。 本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的相關步驟。
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,14 +11,13 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Android應用程式的推播通知快速入門
 
-Adobe Campaign可讓您將個人化和分段的推播通知傳送至iOS和Android行動裝置。
-這些訊息是在您在Adobe Campaign中設定的行動應用程式上，透過運用Experience Cloud Mobile SDK V4或Experience Platform SDK收到的。
+Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 Android 行動裝置。這些訊息是在您在Adobe Campaign中設定的行動應用程式上，透過運用Experience Cloud Mobile SDK V4或Experience Platform SDK收到的。
 本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的相關步驟。
 
 ## 必要條件
