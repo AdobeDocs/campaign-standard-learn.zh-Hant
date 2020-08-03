@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -60,4 +60,4 @@ ht-degree: 0%
 ## 其他資源
 
 * [委派子網域](/help/administrating/control-panel/subdomain-delegation.md)
-* [子網域和憑證——檔案](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [子網域和憑證——檔案](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
