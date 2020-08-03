@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 5%
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。
+>
 >如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
 
 瞭解如何檢查狀態並修改資料對應。
