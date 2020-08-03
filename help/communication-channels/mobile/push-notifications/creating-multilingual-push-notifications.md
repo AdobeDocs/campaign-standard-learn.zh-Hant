@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 10%
+ht-degree: 18%
 
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 10%
 
 教學課程:
 
-* [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [自訂推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
