@@ -21,6 +21,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
+>
 >如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
 
 Adobe Campaign Standard可讓您使用Adobe Experience Platform使用Adobe Experience Cloud [即時客戶個人檔案中的資料](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) ，建立受眾 [!UICONTROL Unified Segment Builder]。
