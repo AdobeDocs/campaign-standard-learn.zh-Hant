@@ -1,6 +1,6 @@
 ---
 title: 委派子網域
-description: Adobe Campaign控制面板可讓您將子網域完全委派至Adobe Campaign。 若要這麼做，請依照下列步驟進行。
+description: Adobe Campaign控制面板可讓您將子網域完全委派至Adobe Campaign。 請依照下列步驟以執行此操作。
 feature: Control Panel
 topics: null
 kt: 4115
@@ -11,18 +11,18 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
 
 # 委派子網域
 
-Adobe Campaign可 [!UICONTROL Control Panel] 讓您將子網域完全委派至Adobe Campaign。
+Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
 >[!NOTE]
-> 從的子網域委 [!UICONTROL Control Panel] 派將於1月底之前提供beta版，且受
-> 經常更新和修改，恕不另行通知。
+>
+>將於1月底 [!UICONTROL Control Panel] 推出測試版的子網域委派，但必須經常更新和修改，恕不另行通知。
 
 ## 存取 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
@@ -43,4 +43,4 @@ Adobe Campaign可 [!UICONTROL Control Panel] 讓您將子網域完全委派至Ad
 ## 其他資源
 
 * [新增SSL憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
-* [子網域和憑證](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [子網域和憑證](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
