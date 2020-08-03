@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**選擇退出個人資訊銷售(CCPA)**
+>
 >從19.4開始，促銷活動介面和API中會提供「CCPA退出」欄位。 19.3版的Adobe Campaign Standard中，您必須建立此>欄位，才能運用這些資訊。 如需詳細資 [訊，請參閱詳](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) 細檔案。
 >
 > 您可以按一下？ 表徵圖，然後選擇「關於」。
