@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 步驟3 —— 在您的行動應用程式中註冊擴充功能
 
-在本部分，我們將添加代碼來註冊用戶配置檔案、身份、生命週期和信號擴展。 這些擴充功能是 [[!UICONTROL Mobile Core Extensions]的一部分](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)。 我們也需要註冊Adobe Campaign Standard擴充功能，如以下程式碼所示。
+在本部分，我們將添加代碼來註冊用戶配置檔案、身份、生命週期和信號擴展。 這些擴充功能是其中的一 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)部分。 我們也需要註冊Adobe Campaign Standard擴充功能，如以下程式碼所示。
 
 在Studio中開啟您的 [!DNL Android] 專案。 刪除MainApp中的整個代 **碼，但第一行是您的包語句**。
 
