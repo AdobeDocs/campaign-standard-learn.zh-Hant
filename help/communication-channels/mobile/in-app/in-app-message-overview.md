@@ -11,21 +11,21 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '753'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
 
 # 訊息簡 [!UICONTROL In-App] 介 {#introduction}
 
-當使 [!UICONTROL In-App Messaging] 用者在行動應用程式中處於作用中時，頻道可讓您顯示訊息。 此通道需要與行動應用程式整合 [!UICONTROL Adobe Experience Platform SDK]。
+當使 [!UICONTROL In-App Messaging] 用者在行動應用程式中處於作用中時，頻道可讓您顯示訊息。 This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].
 
 本教學課程將說明在Adobe Campaign Standard中設定行動裝置屬性、 [!UICONTROL Launch] 頻道 [!UICONTROL In-App Messaging] 擴充功能，以及如何準備、自訂和傳送 [!UICONTROL In-App] 訊息所需的步驟。 這些連結將引導您前往每個反白顯示主題的教學影片。
 
 ## 必要條件 {#prerequisites}
 
-1. 請確定您可以存取頻 **[!UICONTROL In-App]** 道。 如果您無法存取這些渠道，請連絡您的帳戶團隊。
-1. 確認您的使 **用者** 在Adobe Campaign Standard和中 **擁有必要** 的權限 [!UICONTROL Launch]。
+1. 請確定您可以存取頻 **[!UICONTROL In-App]** 道。 如果您無法存取這些通道，請聯絡您的帳戶團隊。
+1. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and [!UICONTROL Launch].
 
    1. 在Adobe Campaign Standard中，請確定IMS使用者是該和群組的一 [!UICONTROL Standard User] 部 [!UICONTROL Administrator] 分。\
       此步驟可讓使用者登入Adobe Campaign Standard、導覽至Experience Platform SDK行動應用程式頁面，並檢視您在中建立的行動應用程式屬性 [!UICONTROL Launch]。
@@ -57,7 +57,7 @@ ht-degree: 1%
 
 1. 根據行動應用程式設定檔鎖定所有使用者。
 
-   此訊息類型可讓您鎖定在Adobe Campaign中具有行動設定檔的行動應用程式的所有已知或匿名使用者。 此訊息類型僅能使用非個人和非敏感屬性進行個人化，而且不需要Mobile SDK與Adobe Campaign的應用程式內訊息服務之間的安全握手。 因此，個人化策略是根據您從使用者與裝置的互動中學到的。 例如，鎖定在上週啟動應用程式超過5次的所有使用者。
+   此訊息類型可讓您鎖定在Adobe Campaign中具有行動設定檔的行動應用程式的所有已知或匿名使用者。 此訊息類型僅能使用非個人和非敏感屬性進行個人化，而且不需要 Mobile SDK 與 Adobe Campaign 的應用程式內訊息服務之間的安全交握。因此，個人化策略是根據您從使用者與裝置的互動中學到的。 例如，鎖定在上週啟動應用程式超過5次的所有使用者。
 
 1. [**根據其促銷活動設定檔定位使用者&#x200B;**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)。
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 * [應用程式內報表](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [設定行動裝置屬性](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience Platform SDK設定行動應用程式](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [使用Adobe Experience Platform SDK設定行動應用程式](https://helpx.adobe.com/tw/campaign/kb/configuring-app-sdk.html)
 * [準備和傳送應用程式內訊息](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [自訂應用程式內訊息](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
 * [在工作流程中傳送應用程式內訊息](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html)
