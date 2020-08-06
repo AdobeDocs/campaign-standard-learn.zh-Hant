@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 * 為此類命名 *[!DNL MyService]* 並確保其擴展 [!DNL FirebaseMessagingService]
 * 在此 *[!DNL sendNotification]* 類中建立方法。 在此方法中，您需要使用物件來設定通知的內容和頻 [!DNL NotificationCompat.Builder] 道。 若要顯示通知，請 [!DNL NotificationManagerCompat.notify()]呼叫，並傳遞通知和結果的唯一ID [!DNL NotificationCompat.Builder.build()]。
 
-```java {.line-numbers}
+```java
 package com.example.pushmessaging;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -92,7 +92,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 將已建立的服務添加到 [!DNL AndroidManifest.xml]。 最終版 [!DNL AndroidManifest.xml] 本如下所示：
 
-```xml {.line-numbers}
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.pushmessaging">
