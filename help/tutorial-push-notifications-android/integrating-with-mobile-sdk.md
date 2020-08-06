@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * 展開資 [!DNL Gradle Scripts] 料夾。 按兩下 [!DNL build.gradle] 模組。 將下列從屬關係貼上到檔案的從屬關係部 [!DNL build.gradle] 分。 您的 [!DNL build.gradle] 檔案現在應如下所示
 
-```java{.line-numbers}
+```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
@@ -41,14 +41,14 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 開啟 *AndroidManifest.xml* ，並在資訊清單元素後面和應用程式元素之前貼上下列2行。 這可讓您的應用程式與外界通訊
 
-```xml{.line-numbers}
+```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 在應用程式元素中複製下列行[!DNL android:name=".MainApp"]儲存您 [!DNL AndroidManifest.xml]的 [!DNL AndroidManifest.xml] 應該如下所示
 
-```xml{.line-numbers}
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.acspushtutorial">
