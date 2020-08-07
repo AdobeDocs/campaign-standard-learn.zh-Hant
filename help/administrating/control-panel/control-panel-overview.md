@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ ht-degree: 100%
 * **[新增 SSL 憑證](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *瞭解如何新增 SSL 憑證來保護您的子網域。*
-* **[管理 SSL 憑證](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *瞭解如何檢視子網域的 SSL 憑證狀態，以及要求續約。*
 * **[Google TXT 記錄管理](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *您可以透過 Campaign 控制面板，將 Google TXT 網站驗證紀錄新增至所有用於傳送電子郵件至 Gmail 地址的子網域。*
