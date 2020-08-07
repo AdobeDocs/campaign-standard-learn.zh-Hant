@@ -1,6 +1,6 @@
 ---
-title: '開始使用UI '
-description: 本影片提供您Adobe Campaign Standard使用者介面的概觀，以及主要功能與核心功能。
+title: '開始使用 UI '
+description: 本影片說明 Adobe Campaign Standard 使用者介面的概觀，其主要功能與核心功能性。
 feature: User Interface
 topics: Getting started
 kt: 3882
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 0a37f5949b580490ef03f6884cfba01ed09afe86
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# 開始使用UI
+# 開始使用 UI
 
-此影片提供Adobe Campaign Standard使用者介面的概觀，並說明如何導覽至主要功能和核心功能。
+本影片說明 Adobe Campaign Standard 使用者介面的概觀，簡介其主要功能與核心功能性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
 
-## 其他資源
+## 其他資源：
 
-* [關於介面](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [介面說明](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [關於介面](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [介面說明](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
