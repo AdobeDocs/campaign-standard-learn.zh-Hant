@@ -1,6 +1,6 @@
 ---
-title: 使用「外部API」活動設定並執行工作流程
-description: 「外部API」活動是「資料管理」活動。 它可讓您呼叫外部REST API端點。 本活動的目的是將第三方系統的個人化資料納入您的促銷活動。
+title: 使用外部 API 活動設定並執行工作流程
+description: 「外部 API 活動」屬於「資料管理活動」。您可以使用「外部 API 活動」呼叫外部 REST API 端點。此活動的目的是將第三方系統的個人化資料匯入您的行銷活動。
 feature: External API activity
 topics: null
 kt: 2764
@@ -11,33 +11,33 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# 使用 [!UICONTROL External API activity]
+# 使用 [!UICONTROL External API activity] 設定並執行工作流程
 
-是 [!UICONTROL External API activity] 個 [!UICONTROL Data Management activity]。 它可讓您呼叫外部REST API端點。 本活動的目的是將第三方系統的個人化資料納入您的促銷活動。
+[!UICONTROL External API activity] 是 [!UICONTROL Data Management activity]。您可以使用「外部 API 活動」呼叫外部 REST API 端點。此活動的目的是將第三方系統的個人化資料匯入您的行銷活動。
 
 範例使用案例包括：
 
-* 取得最新的賽事日系列，以個人化內容
-* 取得最新的選件集
-* 連接到優惠券生成系統
-* 檢查當地天氣，並使用它個人化內容
+* 取得最新的賽事活動比賽陣容，以個人化內容
+* 取得最新的優惠方案
+* 連接到抵用券產生系統
+* 檢查當地天氣，並藉此個人化內容
 
 此影片示範如何使用 [!UICONTROL External API activity]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity]（06:48分鐘）*
+*[!UICONTROL External API activity](06:48 分鐘)*
 
 >[!NOTE]
 >
->請注意，此活動的用途是擷取促銷活動範圍的資料（最新的選件集、最新的分數等），而非擷取每個描述檔的特定資訊，因為這會導致大量資料傳輸。 如果使用案例需要此項目，建議使用傳輸檔案活動。
+>請注意，此活動的用途是擷取行銷活動的資料 (最新的優惠方案、最新的分數等)，而非擷取每個設定檔的特定資訊，因為這將產生大量資料傳輸。如果使用案例需要此項，建議使用「傳輸檔案活動」。
 
-## 其他資源
+## 其他資源：
 
-* [外部API（檔案）](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [外部 API (文件)](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
 
