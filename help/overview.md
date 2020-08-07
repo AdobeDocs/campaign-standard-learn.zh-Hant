@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,6 @@ Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺�
 * **[外部 API 活動](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *瞭解如何使用外部 API 活動來設定及執行工作流程。*
-
-* **[設定檔替代──使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)**
-
-   *瞭解如何以設定檔將收到的完全相同的訊息呈現，來傳送校樣，以供檢視。*
 
 ## 員工精選
 
