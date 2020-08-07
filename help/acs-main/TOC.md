@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-lea
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
    + [建立設定檔和受眾——概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
-   + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
+   + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 受眾目標 (測試版){#audience-destinations}
       + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [建立電子郵件](/help/communication-channels/email/create-email-from-homepage.md)
       + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [建立多語言電子郵件或 SMS 傳遞](/help/communication-channels/create-multilingual-deliveries.md)
-      + [將現有的電子郵件、簡訊傳送或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + 行動裝置 {#mobile}
       + SMS{#sms}
          + [建立 SMS 傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [建立多語言電子郵件或 SMS 傳遞](/help/communication-channels/create-multilingual-deliveries.md)
-         + [將現有的電子郵件、簡訊傳送或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [在交易式電子郵件設定產品清單](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和資料 {#managing-processes-and-data}
    + [建立工作流程](/help/managing-processes-and-data/create-workflow.md)
-   + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
    + 執行活動 {#execution-activities}
       + [外部訊號活動](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 資料管理活動 {#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [連接到 SFTP 伺服器](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [委派子網域](/help/administrating/control-panel/subdomain-delegation.md)
       + [新增 SSL 憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [管理 SSL 憑證](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT 記錄管理](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG 金鑰管理 {#gpg-key-management}
          + [GPG 金鑰管理──概觀](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權要求](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign傳遞能力最佳實務指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-
