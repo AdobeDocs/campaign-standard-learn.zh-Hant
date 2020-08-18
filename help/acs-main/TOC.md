@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-lea
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
+source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 97%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理行銷活動](/help/getting-started/managing-campaigns.md)
    + [關於設定檔與受眾](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [建立及以電子郵件傳送](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [建立工作流程](/help/managing-processes-and-data/create-workflow.md)
    + [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
