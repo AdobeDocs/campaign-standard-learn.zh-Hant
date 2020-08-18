@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-lea
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 97%
+source-wordcount: '519'
+ht-degree: 96%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 97%
 + 設計及個人化內容 {#designing-content}
    + 電子郵件設計工具{#email-designer}
       + [概觀](/help/designing-content/email-designer/email-designer-overview.md)
+      + [電子郵件設計人員快速入門](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [電子郵件內容範本簡介](/help/designing-content/email-designer/email-content-templates.md)
       + [設定行動檢視](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [預覽您的電子郵件和反垃圾郵件分析](/help/designing-content/email-designer/preview-your-email.md)
