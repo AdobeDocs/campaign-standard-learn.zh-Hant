@@ -1,6 +1,6 @@
 ---
 title: 委派子網域
-description: Adobe Campaign控制面板可讓您將子網域完全委派至Adobe Campaign。 請依照下列步驟以執行此操作。
+description: Adobe Campaign 控制面板可以讓您將子網域完全委派給 Adobe Campaign。請依照下列步驟以執行此操作。
 feature: Control Panel
 topics: null
 kt: 4115
@@ -8,39 +8,39 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 18%
+ht-degree: 96%
 
 ---
 
 
 # 委派子網域
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派給 Adobe Campaign。
 
 >[!NOTE]
->
->將於1月底 [!UICONTROL Control Panel] 推出測試版的子網域委派，但必須經常更新和修改，恕不另行通知。
+> 從 [!UICONTROL Control Panel] 的子網域委派功能將於 1 月底前提供予 beta 版，並
+> 將經常更新和修改，恕不另行通知。
 
 ## 存取 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
-要訪問[[!UICONTROL Subdomain Management] in [!UICONTROL Control Panel]，請轉至：
+若要在 [!UICONTROL Control Panel] 存取 [!UICONTROL Subdomain Management]，請前往：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] >卡 **[!UICONTROL Control Panel]** 片>卡 **[!UICONTROL Subdomains & Certificates]** 片
+* [Experience Cloud 首頁](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]：[!DNL Campaign] > **[!UICONTROL Control Panel]** 卡片 > **[!UICONTROL Subdomains & Certificates]** 卡片
 
    或
-* 直接從URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* 直接從 URL：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 如何委派子網域
 
 以下影片示範如何委派子網域。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*子網域委派（05:07分鐘）*
+*子網域委派 (05:07分鐘)*
 
-## 其他資源
+## 其他資源：
 
-* [新增SSL憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [新增 SSL 憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
 * [子網域和憑證](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
