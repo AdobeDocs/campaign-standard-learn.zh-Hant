@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -99,5 +99,6 @@ MobileCore.lifecyclePause();
 
 ![行動應用程式用戶](assets/mobile-application-subscribers.PNG)
 
->[注意]
+>[!NOTE]
+>
 >如果您未在此標籤STOP中看到註冊Token, [!UICONTROL Mobile Application Subscribers] 然後再繼續進行任何操作。
