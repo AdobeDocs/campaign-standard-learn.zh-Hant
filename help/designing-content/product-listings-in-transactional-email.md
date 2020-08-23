@@ -1,5 +1,5 @@
 ---
-title: 在交易電子郵件中設定產品清單
+title: 在交易式電子郵件設定產品清單
 description: 影片說明在Adobe Campaign Standard(ACS)中設定交易電子郵件產品清單所需的步驟。
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 以下視訊說明在中設定所需的 [!UICONTROL product listings] 步驟 [!UICONTROL transactional emails]。
 
->[注意]
+>[!NOTE]
 >
 >此功能目前稱為視訊中的回圈。
 
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-## 其他資源
+## 其他資源：
 
 * [在交易訊息（檔案）中使用產品清單](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
 * [定義資料收集（檔案）](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
