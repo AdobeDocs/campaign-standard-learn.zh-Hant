@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# 疑難排解
+# 無法拍攝 [!UICONTROL Control Panel]
 
 瞭解使用控制面板時，如何進行問題疑難排解。
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 ### 症狀：執行個體未列於 [!UICONTROL Control Panel]
 
 **原因：**
-可能是，使用者需要新增為 消失的執行個體的*[!UICONTROL user]*&#x200B;產品設定檔`!DNL Campaign-xxx-Administrators/Admin`
+可能是，使用者需要新增為 消失的執行個體的*[!UICONTROL user]*&#x200B;產品設定檔`Campaign-xxx-Administrators/Admin`
 
 **該做什麼：**
 管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔`Campaign-xxx-Admins`。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
@@ -55,8 +55,8 @@ ht-degree: 100%
 
 ### 實用文件
 
-* [探索 [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
-* [管理 [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html) 的權限
+* [探索 [!UICONTROL Control Panel]](https://helpx.adobe.com/tw/campaign/kb/control-panel-overview.html)
+* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/tw/campaign/kb/control-panel-access.html) 的權限
 
 ## 建立與 SFTP 伺服器 (用戶端或 API) 的連線
 
