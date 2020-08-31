@@ -46,7 +46,7 @@ ht-degree: 100%
 您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*檢查[!DNL IMS Org ID](00:26 分鐘)*
+*檢查[!DNL IMS Org ID] (00:26 分鐘)*
 
 ### 管理員權限
 
@@ -54,7 +54,7 @@ ht-degree: 100%
 以下影片說明如何為 Campaign 執行個體新增管理員
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel](01:03 分鐘)*
+*如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel] (01:03 分鐘)*
 
 ## 控制面板教學課程
 
