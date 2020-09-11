@@ -1,6 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard 教學課程
+breadcrumb-title: Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -10,7 +11,7 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
+source-git-commit: 091cd190863a10d0fb04e0f8a3e023a620dc2ab2
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 96%
