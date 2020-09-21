@@ -11,10 +11,10 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + 電子郵件 {#email}
       + [建立電子郵件](/help/communication-channels/email/create-email-from-homepage.md)
       + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [建立多語言電子郵件或 SMS 傳遞](/help/communication-channels/create-multilingual-deliveries.md)
-      + [將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
+      + [新增控制群組至傳送](/help/communication-channels/email/control-groups.md)
+      + [建立多語言電子郵件或 SMS 傳遞](/help/communication-channels/create-multilingual-deliveries.md)
+      + [將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + 人工智慧電子郵件 {#journey-ai}
+         + [預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [預測性參與計分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 行動裝置 {#mobile}
       + SMS{#sms}
          + [建立 SMS 傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
