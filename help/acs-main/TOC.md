@@ -11,10 +11,10 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理行銷活動](/help/getting-started/managing-campaigns.md)
    + [關於設定檔與受眾](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [建立及以電子郵件傳送](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [建立電子郵件](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [建立工作流程](/help/managing-processes-and-data/create-workflow.md)
    + [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [一同與 Adobe Campaign 成長](/help/getting-started/growing-with-adobe-campaign.md)
 + 設定檔與閱聽眾 {#profiles-and-audiences}
-   + [建立設定檔和受眾——概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [建立個人檔案和觀眾——概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
