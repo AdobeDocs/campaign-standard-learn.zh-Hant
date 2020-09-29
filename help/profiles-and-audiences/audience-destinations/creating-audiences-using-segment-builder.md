@@ -1,5 +1,5 @@
 ---
-title: 使用「統一的區段產生器」建立新的觀眾
+title: 使用「統一的區段建立器」建立新的受眾
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 
-# 使用「統一的區段產生器」建立新的觀眾
+# 使用「統一的區段建立器」建立新的受眾
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Adobe Campaign Standard可讓您使用Adobe Experience Platform使用Adobe Exper
 
 ## 其他資源
 
-檔案：
+文件:
 
 * [即時客戶個人檔案概觀](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
 * [區段產生器使用指南](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/segmentation/segment-builder-guide.md)
