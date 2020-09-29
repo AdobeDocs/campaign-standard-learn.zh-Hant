@@ -1,6 +1,6 @@
 ---
 title: 建立個人檔案和觀眾——概觀
-description: 此影片說明如何導覽至現有的描述檔，以及如何在Adobe Campaign Standard(ACS)中建立描述檔和觀眾。
+description: 瞭解如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和觀眾。
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 4%
 
 ---
