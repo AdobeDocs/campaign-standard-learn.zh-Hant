@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -32,5 +32,5 @@ ht-degree: 1%
 
 ## 其他資源
 
-* [促銷活動的一般隱私權准則](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [促銷活動的一般隱私權准則](https://helpx.adobe.com/tw/campaign/kb/campaign-privacy-overview.html)
 * [建立自訂資源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
