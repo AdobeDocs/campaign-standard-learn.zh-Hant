@@ -1,5 +1,5 @@
 ---
-title: 變更定位維度
+title: 變更目標維度
 description: 此影片說明如何在Adobe Campaign Standard的主要描述檔表格外變更平台對象傳送的目標維度。
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 4%
+ht-degree: 15%
 
 ---
 
 
-# 變更定位維度 [!UICONTROL Platform Audience]
+# 變更目標維度 [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ ht-degree: 4%
 
 ## 其他資源
 
-檔案：
+文件:
 
 * [關於 Audience Destinations 服務](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 * [如何建立目標對應](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
@@ -38,5 +38,5 @@ ht-degree: 4%
 
 視訊資源：
 
-* [使用「統一的區段產生器」建立新的觀眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [使用「統一的區段建立器」建立新的受眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [在行銷工作流程中啟動Adobe Experience Platform受眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
