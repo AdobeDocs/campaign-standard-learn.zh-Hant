@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 96%
+ht-degree: 77%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
 Adobe Campaign [!UICONTROL Control Panel] 可以讓您將子網域完全委派給 Adobe Campaign。
 
 >[!NOTE]
-> 從 [!UICONTROL Control Panel] 的子網域委派功能將於 1 月底前提供予 beta 版，並
-> 將經常更新和修改，恕不另行通知。
+>
+>將於1月底 [!UICONTROL Control Panel] 推出測試版的子網域委派，但必須經常更新和修改，恕不另行通知。
 
 ## 存取 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
