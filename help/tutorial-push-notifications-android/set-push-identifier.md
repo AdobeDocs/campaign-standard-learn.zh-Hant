@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,10 @@ ht-degree: 0%
 在Studio中開啟您的 [!DNL Android ]專案。 刪除中的整個代 [!DNL MainActivity] 碼， **但第一行是包語句**。
 
 將下列程式碼貼入 [!DNL MainActivity]:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;
