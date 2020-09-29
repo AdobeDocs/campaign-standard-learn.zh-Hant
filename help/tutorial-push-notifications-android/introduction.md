@@ -1,6 +1,6 @@
 ---
 title: Android應用程式的推播通知快速入門
-description: Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 Android 行動裝置。這些訊息是在您在Adobe Campaign中設定的行動應用程式上，透過運用Experience Cloud Mobile SDK V4或Experience Platform SDK收到的。 本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的相關步驟。
+description: 本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的步驟。
 feature: Push
 topics: Mobile
 kt: 3846
@@ -8,23 +8,23 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 14%
+source-wordcount: '199'
+ht-degree: 9%
 
 ---
 
 # Android應用程式的推播通知快速入門
 
 Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 Android 行動裝置。這些訊息是在您在Adobe Campaign中設定的行動應用程式上，透過運用Experience Cloud Mobile SDK V4或Experience Platform SDK收到的。
-本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的相關步驟。
+本教學課程將逐步引導您完成從Adobe Campaign傳送推播通知以及在Android應用程式中接收這些通知的步驟。
 
 ## 必要條件
 
 * 您應已使用Adobe Campaign Standard Extension設定啟動屬性。 請遵循下列線上說明。
    * [教學影片](https://video.tv.adobe.com/v/26224?quality=12&captions=chi_hant)
-   * [檔案](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
+   * [文件](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * 請確定Adobe Campaign Standard中對應屬性的狀態已設定為。
 * [擁有作用中的Google Firebase帳戶](https://firebase.google.com)
