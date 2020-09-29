@@ -1,5 +1,5 @@
 ---
-title: 瞭解Adobe Experience Platform Data Connector
+title: 瞭解 Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector將XTK資料（在Campaign中收錄的資料）對應至Adobe Experience Platform上的Experience Data Model(XDM)資料，協助現有客戶在Adobe Experience Platform上提供其資料。
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
 
-# 瞭解Adobe Experience Platform [!UICONTROL Data Connector]
+# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Adobe Experience Platform是 [!UICONTROL Data Connector] 專為瞭解Adobe Campa
 2. [對應體驗事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [映射種子表資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [修改資料映射](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [檢查資料提取作業的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [檢查資料擷取作業的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## 其他資源
 
