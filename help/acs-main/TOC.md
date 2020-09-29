@@ -11,10 +11,10 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 92%
+source-wordcount: '540'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 92%
    + [建立個人檔案和觀眾——概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
-   + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
+   + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 受眾目標 (測試版){#audience-destinations}
       + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -64,7 +64,6 @@ ht-degree: 92%
    + 行動裝置 {#mobile}
       + SMS{#sms}
          + [建立 SMS 傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 92%
    + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權要求](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign傳遞能力最佳實務指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
