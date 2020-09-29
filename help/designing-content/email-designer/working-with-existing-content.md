@@ -1,22 +1,22 @@
 ---
-title: 使用現有內容
+title: 使用現有的內容
 description: 此影片說明如何快速從網站擷取您的創意內容並載入電子郵件設計人員。
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 
-# 使用現有內容{#working-with-existing-content}
+# 使用現有的內容{#working-with-existing-content}
 
 ## 從URL匯入內容
 
