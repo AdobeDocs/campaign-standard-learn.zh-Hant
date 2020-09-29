@@ -1,5 +1,5 @@
 ---
-title: 在工作流程中啟動Adobe Experience Platform受眾
+title: 在工作流程啟動 Adobe Experience Platform 受眾
 description: 此影片說明如何使用「讀取對象」活動，在工作流程中啟用「資料服務查詢對象」。
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## 其他資源
 
-檔案：
+文件:
 
 * [在Campaign中啟用Experience Platform觀眾——檔案](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
