@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign Standard 教學課程——概觀
+title: Adobe Campaign Standard 教學課程 - 概觀
 description: Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺行銷活動的策劃、即時互動管理和跨通路執行提供優質環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺�
 
 ## 新增功能
 
-* **[新增控制群組至傳送](/help/communication-channels/email/control-groups.md)**
+* **[新增控制組至傳送](/help/communication-channels/email/control-groups.md)**
 
-   *瞭解如何在定義[!UICONTROL control group]傳送目標時建立。*
+   *瞭解如何在定義傳送目標時建立[!UICONTROL control group]。*
 
 * **[預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *瞭解在Adobe Campaign和Journey AI模型之間同步資料所需的工作流程。 瞭解如何在個別描述檔層級檢視傳送時間分數，以及如何使用傳送時間公式執行電子郵件傳送。*
+   *瞭解在 Adobe Campaign 和 Journey AI 模型之間同步資料所需的工作流程。瞭解如何在個別設定檔層級檢視傳送時間分數，以及如何使用傳送時間公式執行電子郵件傳遞。*
 
 * **[預測性參與計分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *瞭解如何在個別描述檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲憊的使用者，以及如何建立分類規則來管理客戶疲勞。*
+   *瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。*
 
 ## 員工精選
 
@@ -35,11 +35,11 @@ Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺�
 <tr>
   <td>
     <a href="./communication-channels/email/profile-substitution.md"> 
-      <img alt="設定檔替代——使用目標設定檔測試電子郵件訊息 (影片)" src="./assets/substitution_tab.png"/>
+      <img alt="設定檔替代 - 使用目標設定檔測試電子郵件訊息（影片）" src="./assets/substitution_tab.png"/>
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">
-    <strong>設定檔替代——使用目標設定檔測試電子郵件訊息 (影片)</strong>
+    <strong>設定檔替代 - 使用目標設定檔測試電子郵件訊息（影片）</strong>
     </a>
     </div>
     <p>
@@ -48,15 +48,14 @@ Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺�
   </td>
    <td>
     <a href="./administrating/control-panel/control-panel-overview.md">
-      <img alt="控制面板（視訊）" src="./assets/control-panel.png" />
+      <img alt="控制面板（影片）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
-    <strong>控制面板（視訊）</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">    <strong>控制面板（影片）</strong>
     </a>
     </div>
     <p>
-    <em> 使用「控制面板」管理執行個體的設定和追蹤使用實例，以提高管理員的效率。</em>
+    <em> 使用「控制面板」管理執行個體的設定和追蹤使用方式，以提高管理員的效率。</em>
     <p>
   </td>
   <td>
@@ -75,6 +74,6 @@ Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺�
 </tr>
 </table>
 
-## 其他資源：
+## 其他資源
 
 * [文件](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html)
