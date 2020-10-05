@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 2%
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![android-project-structure](assets/android-project-structure.PNG)
 
-8. 按一下 **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(這會將專案新增至[!DNL Firebase])
+8. 按一下 **[!UICONTROL Tools]** > **[!UICONTROL Firebase].** (這會將專案新增至 [!DNL Firebase])
 9. 按一下 **[!UICONTROL Set up Firebase Cloud Messaging]。**
 
    ![設定防火牆](assets/android-project-firebase-messaging.PNG)
@@ -76,7 +76,7 @@ ht-degree: 2%
 6. 登入您的Adobe Campaign Standard實例
 7. Click **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. 選擇適當的 **[!UICONTROL Mobile Application Property]。**
-9. 按一下 **[!DNL Android]區段中&#x200B;**的&#x200B;**[!UICONTROL Push Channel settings]**圖示。
+9. 按一下 **[!DNL Android]區段中** 的 **[!UICONTROL Push Channel settings]** 圖示。
 10. 將伺服器密鑰貼上到伺服器密鑰欄位中。
 
 如果一切順利，您應該會看到SUCCESS訊息。
