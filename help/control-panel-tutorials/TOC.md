@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-lea
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
-index: false
+index: true
 translation-type: tm+mt
-source-git-commit: 92bf4b5538bda4f59121d77d8d207606617b34ee
+source-git-commit: 5feb9aad00d0be3766e60542618c1718a0a8d2e7
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 88%
