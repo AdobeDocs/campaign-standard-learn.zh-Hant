@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# 無法拍攝 [!UICONTROL Control Panel]
+# 疑難排解 [!UICONTROL Control Panel]
 
 瞭解使用控制面板時，如何進行問題疑難排解。
 
@@ -27,38 +27,38 @@ ht-degree: 99%
 ### 症狀：無法登入 Adobe Experience Cloud
 
 **該做什麼：**
-使用者需要找到其 [!DNL IMS Org ID] (xxx)。管理員需要將使用者新增到他們想要管理的每個執行個體的[!UICONTROL product profile][!DNL “Campaign-xxx-Admins”]。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
+使用者需要找到其 [!DNL IMS Org ID] (xxx)。管理員需要將使用者新增到 [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] 他們想要管理的每個執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
 
 ### 症狀：使用者看不到 [!UICONTROL Adobe Experience Cloud Home] 中存取 [!UICONTROL Control Panel] 的連結
 
 **原因：**
-使用者新增為 [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin` 的使用者後，才可以看到連結
+使用者新增為 [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`的使用者後，才可以看到連結
 
 **該做什麼：**
-管理員需要將使用者新增到他們想要管理的每個執行個體的[!UICONTROL product profile]*[!DNL Campaign-xxx-Admins]*。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
+管理員需要將使用者新增到他們想要管理的每個執行個體的 [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]*。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
 
 ### 症狀：執行個體未列於 [!UICONTROL Control Panel]
 
 **原因：**
-可能是，使用者需要新增為 消失的執行個體的*[!UICONTROL user]*&#x200B;產品設定檔`Campaign-xxx-Administrators/Admin`
+可能是使用者需要新增為消失的執行個體的 *[!UICONTROL user]* 產品設定檔 `Campaign-xxx-Administrators/Admin` 
 
 **該做什麼：**
-管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔`Campaign-xxx-Admins`。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
+管理員需要將使用者新增到他們想要管理的每個執行個體的產品設定檔 `Campaign-xxx-Admins`。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為 *[!UICONTROL user]*。
 
 ### 有用的影片
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*檢查[!DNL IMS Org ID](00:26 分鐘)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=chi_hant)
+*檢查[!DNL IMS Org ID]（00:26 分鐘）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何為[!UICONTROL product profile]*[!DNL administrators]*新增管理員，以利使用[!UICONTROL Control Panel](01:03 分鐘)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=chi_hant)
+*如何為[!UICONTROL product profile]*[!DNL administrators]*新增管理員，以利使用[!UICONTROL Control Panel]（01:03 分鐘）*
 
 ### 實用文件
 
 * [探索 [!UICONTROL Control Panel]](https://helpx.adobe.com/tw/campaign/kb/control-panel-overview.html)
-* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/tw/campaign/kb/control-panel-access.html) 的權限
+* [管理 [!UICONTROL Control Panel]的權限](https://helpx.adobe.com/tw/campaign/kb/control-panel-access.html)
 
-## 建立與 SFTP 伺服器 (用戶端或 API) 的連線
+## 建立與 SFTP 伺服器（用戶端或 API）的連線
 
 連線至 SFTP 伺服器需要：
 
