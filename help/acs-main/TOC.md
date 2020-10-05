@@ -11,10 +11,10 @@ getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 98%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 98%
 + 快速入門 {#getting-started}
    + [概觀](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard 簡介](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [功能概觀](/help/getting-started/functional-overview.md)
    + [開始使用 UI](/help/getting-started/getting-started-with-the-ui.md)
    + [設定清單](/help/getting-started/configure-a-list.md)
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
@@ -137,3 +136,5 @@ ht-degree: 98%
    + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權要求](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign傳遞能力最佳實務指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [控制面板](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
