@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」字詞，已由「[!UICONTROL allow list]」及「[!UICONTROL block list]」取代。產品 UI、選項名稱、內部代碼及教學課程影片仍可能出現這些詞語。即將發行的「控制面板」版本，則將徹底取代原先的字詞。
+>Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」字詞，已由「[!UICONTROL allow list]」及「[!UICONTROL block list]」取代。產品 UI、選項名稱、內部代碼及教學課程影片仍可能出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
 
-[!UICONTROL Control Panel] 讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體或 [!UICONTROL allow list] IP 位址管理 SFTP 儲存。
+[!UICONTROL Control Panel] 可以讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體或 [!UICONTROL allow list] IP 位址管理 SFTP 儲存。
 
 ## 存取 [!UICONTROL Control Panel]
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    或
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]：**Campaign** > **[!UICONTROL Control Panel]卡片&#x200B;**
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]：**Campaign** > **[!UICONTROL Control Panel]卡片**
 
    或
 
@@ -45,16 +45,16 @@ ht-degree: 100%
 
 您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*檢查[!DNL IMS Org ID] (00:26 分鐘)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=chi_hant)
+*檢查[!DNL IMS Org ID]（00:26 分鐘）*
 
 ### 管理員權限
 
 必須擁有管理員權限才能存取 [!UICONTROL Control Panel]。
 以下影片說明如何為 Campaign 執行個體新增管理員
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel] (01:03 分鐘)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=chi_hant)
+*如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel]（01:03 分鐘）*
 
 ## 控制面板教學課程
 
@@ -88,7 +88,7 @@ ht-degree: 100%
 
    *瞭解控制面板疑難排解*
 
-## 其他資源：
+## 其他資源
 
 * [控制面板說明中心](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
 
