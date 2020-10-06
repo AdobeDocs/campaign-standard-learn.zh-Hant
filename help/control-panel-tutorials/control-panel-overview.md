@@ -1,6 +1,6 @@
 ---
-title: 控制面板
-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存、管理GPG金鑰或子網域和憑證。
+title: 控制面板 - 概觀
+description: Adobe Campaign控制面板可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存、管理GPG金鑰或子網域和憑證。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,54 +8,77 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 3b6e85fee260723c83306825e5bcf59c58b2b118
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 72%
+source-wordcount: '255'
+ht-degree: 29%
 
 ---
 
+# 控制面板——概述
 
-# [!UICONTROL Control Panel] {#control-panel}
+Adobe Campaign控制面板可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存、管理GPG金鑰或子網域和憑證。
 
->[!NOTE]
->
->Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
+## 新增功能
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[產生並安裝用於資料加密的 GPG 金鑰](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## 存取 [!UICONTROL Control Panel]
+   *瞭解如何產生公用／私用GPG金鑰對，並將公用金鑰安裝至[!UICONTROL Control Panel]，以便在從您的例項傳送資料之前，先加密資料。*
 
-若要存取「控制面板」，請前往 Experience Cloud 首頁：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)：
+* **[使用 GPG 金鑰加密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+   *瞭解如何使用安裝在上的GPG金鑰匯出資料[!UICONTROL Control Panel]。*
 
-   或
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]：**Campaign** > **[!UICONTROL Control Panel]卡片**
+* **[解密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   或
+   *瞭解如何建立公開金鑰，並將其匯入及安裝於[!UICONTROL Campaign]執行個體，以解密傳入的資料。*
 
-* 直接從 URL：[https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+## 員工精選
 
-## 必要條件
-
-開始使用前，請先完成下列必要條件：
-
-### 確認 [!DNL IMS Org ID]
-
-您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*檢查[!DNL IMS Org ID]（00:26 分鐘）*
-
-### 管理員權限
-
-必須擁有管理員權限才能存取 [!UICONTROL Control Panel]。
-以下影片說明如何為 Campaign 執行個體新增管理員
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="將子網域委派至Adobe Campaign（視訊）" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>將子網域委派至Adobe Campaign（視訊）</strong>
+    </a>
+    </div>
+    <p>
+    <em>瞭解如何將子網域完全委派至 Adobe Campaign</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Google TXT記錄管理（影片）" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Google TXT記錄管理（影片）</strong>
+    </a>
+    </div>
+    <p>
+    <em> 瞭解如何透過「促銷活動控制面板」，將Google TXT網站驗證記錄新增至您用來傳送電子郵件至GMAIL位址的所有子網域。</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="連線至SFTP伺服器" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>連接到 SFTP 伺服器</strong>
+    </a>
+    </div>
+    <p>
+    <em>瞭解如何使用用戶端SFTP應用程式，使用您儲存在「控制面板」中的金鑰，連線至您的SFTP伺服器。 </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## 其他資源
 
 * [控制面板說明中心](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
-
