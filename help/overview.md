@@ -2,18 +2,18 @@
 title: Adobe Campaign Standard 教學課程 - 概觀
 description: Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺行銷活動的策劃、即時互動管理和跨通路執行提供優質環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 98%
 
 ---
 
 
-# 概觀
+# Adobe Campaign Standard —— 概觀
 
-Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺行銷活動的策劃、即時互動管理和跨通路執行提供優質環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 
 ## 新增功能
 
