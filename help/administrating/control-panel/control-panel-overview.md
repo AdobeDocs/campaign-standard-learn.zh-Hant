@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: a078367ce8ffece206d3b83bfeefc4df4f8078d6
+workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -45,7 +45,8 @@ ht-degree: 100%
 
 您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *檢查[!DNL IMS Org ID]（00:26 分鐘）*
 
 ### 管理員權限
@@ -53,7 +54,8 @@ ht-degree: 100%
 必須擁有管理員權限才能存取 [!UICONTROL Control Panel]。
 以下影片說明如何為 Campaign 執行個體新增管理員
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *如何為產品設定檔新增管理員「[!UICONTROL Administrators]」，以便使用[!UICONTROL Control Panel]（01:03 分鐘）*
 
 ## 控制面板教學課程
