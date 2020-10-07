@@ -8,7 +8,7 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 7%
@@ -27,6 +27,7 @@ ht-degree: 7%
 此影片說明如何使用活 [!UICONTROL Data Services Query Audience] 動在工作流程中啟 [!UICONTROL Read Audience] 動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *在工作流程中啟動Adobe Experience Platform觀眾（02:37分鐘）*
 
 ## 其他資源
