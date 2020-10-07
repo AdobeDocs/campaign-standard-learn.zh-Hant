@@ -3,13 +3,14 @@ title: 連接到 SFTP 伺服器
 description: 此影片說明如何使用用戶端 SFTP 應用程式，使用您儲存在「控制面板」的金鑰，連線至您的 SFTP 伺服器。
 feature: SFTP Management
 topics: Control Panel
+audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
