@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 0%
@@ -46,7 +46,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >彈回數是聲譽問題的關鍵指標，因為它們可以強調不良資料來源（硬反彈）或ISP的信譽問題（軟反彈）。
-軟體彈回數通常會在傳送電子郵件時發生，而且應允許在重試處理期間解決，才能將其定性為真正的傳遞能力問題。 如果單一ISP的軟反彈率大於30%，而且在24小時內無法解決，建議您向Adobe Campaign傳遞性顧問提出疑問。
+>
+>軟體彈回數通常會在傳送電子郵件時發生，而且應允許在重試處理期間解決，才能將其定性為真正的傳遞能力問題。 如果單一ISP的軟反彈率大於30%，而且在24小時內無法解決，建議您向Adobe Campaign傳遞性顧問提出疑問。
 
 ## 投訴
 
