@@ -1,17 +1,18 @@
 ---
 title: 產生 SSH 金鑰
-description: 您必須產生 SSH 金鑰，才能將其新增至 Adobe Campaign 控制面板。下面的影片說明如何使用終端產生 SSH 金鑰。
+description: 瞭解如何使用終端產生SSH金鑰，以及如何在控制面板中儲存該金鑰的公開版本。
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 67%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## 如何產生 SSH 金鑰
 
-以下視頻介紹如何使用終端生成SSH密鑰。
+瞭解如何使用終端產生SSH金鑰，以及如何在控制面板中儲存該金鑰的公開版本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
