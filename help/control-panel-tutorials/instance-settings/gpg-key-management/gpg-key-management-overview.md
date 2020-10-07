@@ -3,9 +3,10 @@ title: GPG 金鑰管理──概觀
 description: 以下影片說明如何在指定的促銷活動例項上產生和安裝公開／私密金鑰對，以加密傳出資料，以及在促銷活動例項上匯入和安裝公開金鑰，以解密傳入資料。
 feature: Control Panel
 topics: GPG key Management
+audience: administrator
 team: TM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
