@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -30,6 +30,7 @@ ht-degree: 100%
 影片說明如何啟用 Dreamweaver 整合，以及如何使用 Dreamweaver 建立和編輯用於 Adobe Campaign Standard 的內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
+
 *如何在 Adobe Campaign 使用 Dreamweaver 整合 (02:37分鐘)*
 
 ## 其他資源：
