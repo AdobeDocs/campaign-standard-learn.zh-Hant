@@ -3,12 +3,13 @@ title: 監控伺服器容量、允許清單 IP 位址和新增 SSH 金鑰
 description: 「控制面板」可以讓您依執行個體監控及管理 SFTP 儲存，並將 IT 位址新增至允許清單。
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 3266
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
