@@ -1,18 +1,19 @@
 ---
 title: 控制面板快速入門
-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存、管理GPG金鑰或子網域和憑證。
+description: 本文將說明如何存取控制面板，以及使用控制面板的先決條件。
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 68%
+source-wordcount: '215'
+ht-degree: 62%
 
 ---
 
@@ -24,6 +25,8 @@ ht-degree: 68%
 >Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+本文將說明如何存取控制面板，以及使用控制面板的先決條件。
 
 ## 存取 [!UICONTROL Control Panel]
 
@@ -47,8 +50,6 @@ The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor k
 您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*檢查[!DNL IMS Org ID]（00:26 分鐘）*
 
 ### 管理員權限
 
