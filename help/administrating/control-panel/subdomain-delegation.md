@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
@@ -38,6 +38,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可讓您將子網域完全委派給 A
 以下影片示範如何委派子網域。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *子網域委派（05:07 分鐘）*
 
 ## 其他資源
