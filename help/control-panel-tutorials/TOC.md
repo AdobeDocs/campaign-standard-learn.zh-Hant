@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standa
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 83%
+ht-degree: 73%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 83%
 + [控制面板概觀](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入門](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
+   + [監控伺服器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [新增IP範圍至允許清單](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連接到 SFTP 伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [監控伺服器容量、允許清單 IP 位址和新增 SSH 金鑰](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + 子網域和憑證{#subdomains-and-certificates}
    + [委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
