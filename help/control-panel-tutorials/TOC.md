@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign控制面板教學課程
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存，或允許清單IP位址。
+breadcrumb-title: 控制面板教學課程
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 教學課程
@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standa
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 73%
+source-wordcount: '141'
+ht-degree: 60%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 73%
 + [控制面板概觀](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入門](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
-   + [監控伺服器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [監控伺服器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [新增IP範圍至允許清單](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連接到 SFTP 伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
