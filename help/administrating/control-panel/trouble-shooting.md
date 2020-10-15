@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -49,11 +49,11 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*檢查[!DNL IMS Org ID]（00:26 分鐘）*
+*檢查 [!DNL IMS Org ID] （00:26 分鐘）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*如何為[!UICONTROL product profile]*[!DNL administrators]*新增管理員，以利使用[!UICONTROL Control Panel]（01:03 分鐘）*
+*如何為 [!UICONTROL product profile]*[!DNL administrators]*新增管理員，以利使用 [!UICONTROL Control Panel]（01:03 分鐘）*
 
 ### 實用文件
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 註冊私人/公有金鑰組
 * 如果直接連接到 SFTP 伺服器，您還需要 SFTP 用戶端軟體
 
-### 實用文件
+### 實用文件 {#helpful-docs}
 
 * [登入您的 SFTP 伺服器](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
