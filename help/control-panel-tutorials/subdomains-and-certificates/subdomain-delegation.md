@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
@@ -41,9 +41,7 @@ Adobe Campaign [!UICONTROL Control Panel] 可讓您將子網域完全委派給 A
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*子網域委派（05:07 分鐘）*
-
 ## 其他資源
 
-* [新增 SSL 憑證](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [子網域和憑證](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
