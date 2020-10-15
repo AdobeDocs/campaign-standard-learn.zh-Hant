@@ -3,7 +3,7 @@ title: Adobe Campaign Standard 教學課程 - 概觀
 description: Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺行銷活動的策劃、即時互動管理和跨通路執行提供優質環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 98%
@@ -19,7 +19,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 * **[新增控制組至傳送](/help/communication-channels/email/control-groups.md)**
 
-   *瞭解如何在定義傳送目標時建立[!UICONTROL control group]。*
+   *瞭解如何在定義傳送目標時建立 [!UICONTROL control group]。*
 
 * **[預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
@@ -47,11 +47,11 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
       <img alt="控制面板（影片）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">    <strong>控制面板（影片）</strong>
+    <a href="./control-panel-tutorials/control-panel-overview.md">    <strong>控制面板（影片）</strong>
     </a>
     </div>
     <p>
