@@ -11,16 +11,16 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 38%
+ht-degree: 67%
 
 ---
 
 
 # Adobe Campaign Standard快速入門
 
-Adobe Campaign Standard是功能強大的跨通道宣傳管理工具，可協助您調整線上和線下策略，以建立個人化的客戶體驗。
+Adobe Campaign Standard 是功能強大的跨頻道行銷活動管理工具，可以協助您協調線上和離線策略，以建立個人化的客戶體驗。
 
-控制建立、執行和追蹤跨通道宣傳的整個程式，並根據客戶的個人檔案、行為、偏好和需求傳送個人化訊息。 您可以輕鬆協調、建立模型並自動化整個行銷流程，並與其他Adobe解決方案整合。
+控制建立、執行和追蹤跨頻道行銷活動的整個流程，並根據客戶的設定檔、行為、偏好和需求傳送個人化訊息。您可以輕鬆協調、建立模型並自動化整個行銷流程，並與其他Adobe解決方案整合。
 
 有一組教學課程影片可協助您開始使用Adobe Campaign Standard:
 
