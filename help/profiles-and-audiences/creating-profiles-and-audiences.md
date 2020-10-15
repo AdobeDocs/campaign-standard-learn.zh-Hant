@@ -1,6 +1,6 @@
 ---
 title: 建立個人檔案和觀眾——概觀
-description: 瞭解如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和觀眾。
+description: 瞭解如何導覽至現有的設定檔，以及如何在 Adobe Campaign Standard 中建立設定檔和對象。
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 4%
+ht-degree: 25%
 
 ---
 
