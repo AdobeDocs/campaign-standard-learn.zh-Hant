@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign控制面板教學課程
+user-guide-title: Adobe Campaign 控制面板教學課程
 user-guide-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依例項管理SFTP儲存，或允許清單IP位址。
 breadcrumb-title: 控制面板教學課程
 solution-title: Experience League
@@ -12,15 +12,15 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standa
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 60%
+ht-degree: 73%
 
 ---
 
 
-# Adobe Campaign控制面板教學課程 {#control-panel}
+# Adobe Campaign 控制面板教學課程 {#control-panel}
 
 + [控制面板概觀](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入門](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -33,10 +33,10 @@ ht-degree: 60%
    + [委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 記錄管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
-+ 例項設定 {#instance-settings}
++ 執行個體設定 {#instance-settings}
    + GPG 金鑰管理 {#gpg-key-management}
-   + [GPG 金鑰管理 - 概觀](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-   + [產生並安裝用於資料加密的 GPG 金鑰](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   + [使用 GPG 金鑰加密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   + [解密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [GPG 金鑰管理 - 概觀](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [產生並安裝用於資料加密的 GPG 金鑰](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [使用 GPG 金鑰加密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [解密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [控制面板疑難排解](/help/control-panel-tutorials/trouble-shooting.md)
