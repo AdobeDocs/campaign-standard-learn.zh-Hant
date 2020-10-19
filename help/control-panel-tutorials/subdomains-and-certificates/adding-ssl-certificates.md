@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 54%
+source-wordcount: '194'
+ht-degree: 52%
 
 ---
 
@@ -59,7 +59,7 @@ The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase 
 
 *安裝 SSL 憑證 (01:25分鐘)*
 
-## 其他資源：
+## 其他資源
 
-* [委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+* [完整子網域委派（視訊）](./subdomain-delegation.md)
 * [子網域和憑證──文件](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
