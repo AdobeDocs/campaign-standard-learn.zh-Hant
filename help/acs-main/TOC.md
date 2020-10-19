@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 96%
    + [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [一同與 Adobe Campaign 成長](/help/getting-started/growing-with-adobe-campaign.md)
 + 設定檔與閱聽眾 {#profiles-and-audiences}
-   + [建立個人檔案和觀眾——概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [建立設定檔和受眾 – 概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
-   + [使用工作流程匯入描述檔](/help/managing-processes-and-data/importing-profiles.md)
+   + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 受眾目標 (BETA){#audience-destinations}
       + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
