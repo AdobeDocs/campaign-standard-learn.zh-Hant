@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standa
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 73%
+source-wordcount: '148'
+ht-degree: 68%
 
 ---
 
@@ -30,7 +30,8 @@ ht-degree: 73%
    + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連接到 SFTP 伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 子網域和憑證{#subdomains-and-certificates}
-   + [委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [完整子網域委派(beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [使用CNAME（測試版）委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 記錄管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 執行個體設定 {#instance-settings}
