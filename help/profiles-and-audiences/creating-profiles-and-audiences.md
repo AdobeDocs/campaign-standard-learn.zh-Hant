@@ -1,5 +1,5 @@
 ---
-title: 建立個人檔案和觀眾——概觀
+title: 建立設定檔和受眾 – 概觀
 description: 瞭解如何導覽至現有的設定檔，以及如何在 Adobe Campaign Standard 中建立設定檔和對象。
 feature: Profiles and Audiences
 topics: null
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 25%
+ht-degree: 36%
 
 ---
 
 
-# 建立個人檔案和觀眾——概觀
+# 建立設定檔和受眾 – 概觀
 
 Adobe Campaign有兩種類型或設定檔：
 
