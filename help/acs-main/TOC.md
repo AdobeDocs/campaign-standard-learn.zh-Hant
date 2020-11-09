@@ -9,11 +9,11 @@ tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -105,7 +105,7 @@ ht-degree: 98%
       + [建立自訂資源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
-   + [控制面板](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [控制面板](https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
