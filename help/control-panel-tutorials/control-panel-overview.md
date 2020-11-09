@@ -8,11 +8,11 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 
 * **[監控資料庫](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *瞭解如何監控實例的資料庫使用情況。*
+   *瞭解如何監控執行個體的資料庫使用情況。*
 
 * **[使用 CNAME 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
