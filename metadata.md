@@ -6,11 +6,11 @@ solution: Campaign, Campaign Standard
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.zh-Hant
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
