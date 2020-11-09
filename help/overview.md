@@ -1,12 +1,12 @@
 ---
 title: Adobe Campaign Standard 教學課程 - 概觀
-description: Adobe Campaign 為跨通路客戶體驗設計提供絕佳平台，並為視覺行銷活動的策劃、即時互動管理和跨通路執行提供優質環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 * **[監控資料庫](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *瞭解如何監控實例的資料庫使用情況。*
+   *瞭解如何監控執行個體的資料庫使用情況。*
 
 * **[使用 CNAME 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
@@ -43,11 +43,11 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
+    <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/control-panel/control-panel-overview.html">
       <img alt="控制面板（影片）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">    <strong>控制面板（影片）</strong>
+    <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/control-panel/control-panel-overview.html">    <strong>控制面板（影片）</strong>
     </a>
     </div>
     <p>
