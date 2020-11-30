@@ -1,14 +1,15 @@
 ---
 title: 建立設定檔和受眾 – 概觀
-description: 瞭解如何導覽至現有的設定檔，以及如何在 Adobe Campaign Standard 中建立設定檔和對象。
-feature: Profiles and Audiences
+description: 了解如何導覽至現有的設定檔，以及如何在 Adobe Campaign Standard 中建立設定檔和對象。
+feature: profiles, audiences
 topics: null
 kt: 3899
+thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 36%
