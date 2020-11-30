@@ -8,7 +8,7 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Adobe Campaign Standard 是功能強大的跨頻道行銷活動管理工具，�
 * [管理行銷活動](/help/getting-started/managing-campaigns.md)
 * [關於設定檔與受眾](/help/getting-started/understanding-profiles-and-audiences.md)
 * [建立電子郵件](https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-* [建立工作流程](/help/managing-processes-and-data/create-workflow.md)
+* [建立工作流程](/help/managing-processes-and-data/creating-a-workflow.md)
 * [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
 * [一同與 Adobe Campaign 成長](/help/getting-started/growing-with-adobe-campaign.md)
