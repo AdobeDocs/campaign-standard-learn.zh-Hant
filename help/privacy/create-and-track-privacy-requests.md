@@ -4,19 +4,20 @@ description: Adobe Campaign可讓您根據GDPR和CCPA等隱私權行為，建立
 feature: GDPR, CCPA
 topic: null
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
 
-# 手動建立和追蹤隱私權要求
+# 手動建立及追蹤隱私權要求
 
 Adobe Campaign可讓您根據GDPR和CCPA等隱私權行為，建立PII資料的存取和刪除要求。
 
@@ -26,5 +27,5 @@ Adobe Campaign可讓您根據GDPR和CCPA等隱私權行為，建立PII資料的�
 
 ## 其他資源
 
-* [促銷活動的一般隱私權准則](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [ACS的CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Campaign 的一般隱私權指引](https://helpx.adobe.com/tw/campaign/kb/campaign-privacy-overview.html)
+* [ACS的CCPA](https://helpx.adobe.com/tw/campaign/kb/acs-privacy.html#ccpa)
