@@ -4,14 +4,15 @@ description: 在Adobe Campaign中，隱私權要求由工作流程執行。 此�
 feature: GDPR, CCPA
 topic: null
 kt: 1525
+thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 30%
 
 ---
 
@@ -24,5 +25,5 @@ ht-degree: 2%
 
 ## 其他資源
 
-* [促銷活動的一般隱私權准則](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [Adobe Campaign Standard的CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Campaign 的一般隱私權指引](https://helpx.adobe.com/tw/campaign/kb/campaign-privacy-overview.html)
+* [Adobe Campaign Standard的CCPA](https://helpx.adobe.com/tw/campaign/kb/acs-privacy.html#ccpa)
