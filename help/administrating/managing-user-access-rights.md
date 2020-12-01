@@ -1,22 +1,23 @@
 ---
-title: 管理用戶訪問權限
+title: 管理使用者存取權限
 description: 此影片將說明如何定義及管理Adobe Campaign中指派給不同使用者的權限。
 feature: User Access Rights
 topics: null
 kt: 1814
+thumbnail: 24671.jpg
 doc-type: feature video
 activity: setup
 team: DOCS
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 8%
+ht-degree: 22%
 
 ---
 
 
-# 管理用戶訪問權限
+# 管理使用者存取權限
 
 此影片將說明如何定義及管理Adobe Campaign中指派給不同使用者的權限。
 
