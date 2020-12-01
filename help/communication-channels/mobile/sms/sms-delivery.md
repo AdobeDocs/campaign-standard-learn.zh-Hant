@@ -1,22 +1,23 @@
 ---
-title: 建立簡訊傳送
+title: 建立 SMS 傳遞
 description: 此影片說明如何在Adobe Campaign Standard(ACS)中建立SMS傳送。
 feature: SMS
-topics: Mobile
+topics: null
 kt: 1819
+thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
 
-# 建立簡訊傳送{#creating-a-sms-delivery}
+# 建立 SMS 傳遞{#creating-a-sms-delivery}
 
 此影片說明如何在Adobe Campaign Standard中建立SMS傳送。 您也可以使用SMS傳送活動，在工作流程中設定SMS傳送。
 
