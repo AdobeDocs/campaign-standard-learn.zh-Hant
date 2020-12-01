@@ -1,24 +1,25 @@
 ---
-title: 瀏覽報表
+title: 探索報表
 description: 此視訊說明電子郵件傳送的可用不同報表。
 feature: Reporting
 topics: Getting Started
 kt: 3906
+thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 16%
+ht-degree: 58%
 
 ---
 
 
-# 瀏覽報表
+# 探索報表
 
-此影片提供Adobe Campaign Standard報告功能的概觀。
+此影片簡介 Adobe Campaign Standard 的報告功能.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
