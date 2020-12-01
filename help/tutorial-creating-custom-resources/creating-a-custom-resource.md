@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-## 建立自訂資源
+# 建立自訂資源
 
 在此影片中，我們將建立我們第一個稱為客戶的自訂資源。
 
