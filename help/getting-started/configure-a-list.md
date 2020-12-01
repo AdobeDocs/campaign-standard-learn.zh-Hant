@@ -4,14 +4,15 @@ description: '此影片說明如何在Adobe Campaign Standard中變更顯示的�
 feature: UI
 topics: null
 kt: 1821
+thumbnail: 25288.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
