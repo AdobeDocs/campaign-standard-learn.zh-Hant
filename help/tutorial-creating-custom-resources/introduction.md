@@ -1,5 +1,5 @@
 ---
-title: 建立自訂資源
+title: 建立自訂資源——簡介
 description: Adobe Campaign Standard提供擴充資源或建立全新資源的功能。 本多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 
-# 建立自訂資&#x200B;源
+# 建立自訂資&#x200B;源——簡介
 
 [!DNL Adobe Campaign] 隨附預先定義的資料模型，其中資料是透過不同的資源來定義。 [!DNL Campaign] 提供擴充資源或建立全新資源的能力。
 
