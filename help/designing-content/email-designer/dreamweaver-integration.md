@@ -3,11 +3,12 @@ title: 使用 Adobe Dreamweaver 建立內容
 description: 影片說明如何啟用 Dreamweaver 整合，以及如何使用 Dreamweaver 建立和編輯用於 Adobe Campaign Standard 的內容。
 feature: Email Designer
 kt: 1420
+thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
