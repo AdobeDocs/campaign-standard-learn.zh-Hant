@@ -4,14 +4,15 @@ description: 「外部信號活動」用於組織和協調不同的流程，這�
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
@@ -24,14 +25,16 @@ The [!UICONTROL External Signal activity] is used to organize and orchestrate di
 
 這也包含新的 **測試活動** ，您可在其中執行此功能的測試。
 
-以下視訊說明下列設定步驟：
+以下視訊說明下列項目所需的設定步驟：
 
 1. **從外部系統** (例如內容管理系統(CRM))接收外部參數：
+
    * 在「外部信號」活動中聲明參數
    * 設定API呼叫以定義參數並觸發工作流程「外部訊號活動」。 如需如何設定API呼叫的詳細資訊，請參閱 [觸發信號活動](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)。
 
 1. **使用外部參數** （事件變數）自訂工作流程：
-觸發工作流程後，這些參數就會被收錄到工作流程的事件變數中，並可在工作流程中使用。 請參 [閱說明檔案](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) ，以取得可使用事件變數自訂的所有活動：
+
+   觸發工作流程後，這些參數就會被收錄到工作流程的事件變數中，並可在工作流程中使用。 請參 [閱說明檔案](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) ，以取得可使用事件變數自訂的所有活動：
 
    * 設定測試活動（19.2中的新功能）
    * 設定讀取對象和電子郵件傳送活動
@@ -42,4 +45,4 @@ The [!UICONTROL External Signal activity] is used to organize and orchestrate di
 
 ## 其他資源
 
-* [外部信號（文檔）](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [外部信號（文檔）](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
