@@ -4,12 +4,12 @@ description: '此影片說明如何在Adobe Campaign Standard(ACS)中傳送測�
 feature: Email
 topics: null
 kt: 1812
-thumbnail: 24013
+thumbnail: 24013.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ff641108dff9cf10692e6e2b238fee4cae7ab283
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 17%
