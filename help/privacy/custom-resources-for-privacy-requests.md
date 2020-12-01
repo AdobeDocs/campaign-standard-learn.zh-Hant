@@ -4,12 +4,13 @@ description: 設定 Adobe Campaign Standard(ACS) 以處理隱私權要求時，�
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 設定 Adobe Campaign Standard 以處理隱私權要求時，您必須確保在刪除設定檔時，會刪除連結至設定檔的任何自訂資料。此影片會說明如何修改自訂資源，以便符合此需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
