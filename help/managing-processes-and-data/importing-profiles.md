@@ -1,22 +1,23 @@
 ---
-title: 使用工作流程匯入描述檔
+title: 使用工作流程匯入設定檔
 description: 您可以從檔案收集資料以處理資料及／或將資料匯入Adobe Campaign資料庫。 此影片說明如何使用工作流程匯入描述檔資料。
 feature: Data management Activities
 topics: null
 kt: 1818
+thumbnail: 24993.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
 
-# 使用工作流程匯入描述檔{#import-profiles-with-a-workflow}
+# 使用工作流程匯入設定檔{#import-profiles-with-a-workflow}
 
 您可以從檔案收集資料以處理資料及／或將資料匯入Adobe Campaign資料庫。
 
