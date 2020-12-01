@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 本教學課程將逐步說明如何：
 
-步驟1 —— 創 [建自定義資](./creating-a-custom-resource)源步驟2 - [配置螢幕定義](./configuring-a-screen-definition-for-a-custom-resource.md)步驟3 —— 鏈 [接自定義資](./linking-custom-resources.md)源步驟4 - [用資料填充自定義資源](./populate-custom-resources-with-data.md)
+步驟1 —— 創 [建自定義資](./creating-a-custom-resource.md)源步驟2 - [配置螢幕定義](./configuring-a-screen-definition-for-a-custom-resource.md)步驟3 —— 鏈 [接自定義資](./linking-custom-resources.md)源步驟4 - [用資料填充自定義資源](./populate-custom-resources-with-data.md)
 
 ## 開始教學課程
 
-[建立自訂資源](./create-a-custom-resource)
+[建立自訂資源](./create-a-custom-resourc.md)
 
 ## 其他資源
 
