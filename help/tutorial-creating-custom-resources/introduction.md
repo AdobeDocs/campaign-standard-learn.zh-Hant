@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
+source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 開始教學課程
 
-[建立自訂資源](./create-a-custom-resourc.md)
+[建立自訂資源](./creating-a-custom-resource.md)
 
 ## 其他資源
 
