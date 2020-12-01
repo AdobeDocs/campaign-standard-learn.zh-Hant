@@ -4,14 +4,15 @@ description: '您可以從促銷活動、Adobe Campaign 首頁或行銷活動清
 feature: Email
 topics: null
 kt: 1807
+thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 45%
+ht-degree: 47%
 
 ---
 
@@ -28,4 +29,4 @@ ht-degree: 45%
 
 * [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [建立電子郵件（檔案）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [提供最佳實務](https://helpx.adobe.com/tw/campaign/kb/delivery-best-practices.html)
+* [傳遞最佳實務](https://helpx.adobe.com/tw/campaign/kb/delivery-best-practices.html)
