@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard 教學課程
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 教學課程
-tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 文件
-getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -27,8 +27,8 @@ ht-degree: 96%
    + [UI快速入門](/help/getting-started/getting-started-with-the-ui.md)
    + [設定清單](/help/getting-started/configure-a-list.md)
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
-   + [管理行銷活動](/help/getting-started/managing-campaigns.md)
-   + [關於設定檔與受眾](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [管理促銷活動](/help/getting-started/managing-campaigns.md)
+   + [瞭解個人檔案和受眾](/help/getting-started/understanding-profiles-and-audiences.md)
    + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
@@ -65,7 +65,7 @@ ht-degree: 96%
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教學課程：Android 推播通知快速入門](https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [教學課程：Android 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + 應用程式內訊息 {#in-app}
          + [應用程式內訊息簡介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [建立動態報表](/help/reporting/creating-a-dynamic-report.md)
    + [根據自訂設定檔屬性建立報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
-+ 開發 {#developing}
-   + 自訂資源 {#custom-resources-develop}
-      + [建立自訂資源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
-   + [控制面板](https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
