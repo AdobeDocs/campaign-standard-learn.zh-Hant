@@ -4,11 +4,12 @@ description: 瞭解如何在Adobe Campaign Standard(ACS)和Adobe Experience Plat
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2828
+thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 9%
