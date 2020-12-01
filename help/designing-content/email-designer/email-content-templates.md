@@ -4,14 +4,15 @@ description: Adobe Campaign Standard提供18種可完全自訂的現成可回應
 feature: Email Designer
 topics: null
 kt: 1442
+thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
