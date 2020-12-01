@@ -4,14 +4,15 @@ description: GDPR或CCPA要求能夠建立隱私權存取和刪除要求的先�
 feature: GDPR, CCPA
 topic: null
 kt: 1460
+thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -26,4 +27,4 @@ GDPR或CCPA要求能夠建立隱私權存取和刪除要求的先決條件，是
 
 ## 其他資源
 
-* [促銷活動的一般隱私權准則](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [促銷活動的一般隱私權准則](https://helpx.adobe.com/tw/campaign/kb/campaign-privacy-overview.html)
