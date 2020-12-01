@@ -4,11 +4,12 @@ description: null
 feature: Audience Destinations
 topics: ACOP
 kt: 2754
+thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 9%
