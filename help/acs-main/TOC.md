@@ -10,7 +10,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 89%
@@ -30,7 +30,7 @@ ht-degree: 89%
    + [管理促銷活動](/help/getting-started/managing-campaigns.md)
    + [瞭解個人檔案和受眾](/help/getting-started/understanding-profiles-and-audiences.md)
    + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
    + [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [一同與 Adobe Campaign 成長](/help/getting-started/growing-with-adobe-campaign.md)
