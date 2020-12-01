@@ -4,11 +4,12 @@ description: 影片說明在Adobe Campaign Standard(ACS)中設定交易電子郵
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
+thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 4%
@@ -38,7 +39,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-## 其他資源：
+## 其他資源
 
 * [在交易訊息（檔案）中使用產品清單](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
 * [定義資料收集（檔案）](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
