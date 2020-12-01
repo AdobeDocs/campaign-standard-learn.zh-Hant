@@ -4,11 +4,12 @@ description: 此影片說明如何快速從網站擷取您的創意內容並載�
 feature: Email Designer
 topics: Content Creation
 kt: 6295
+thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 7%
