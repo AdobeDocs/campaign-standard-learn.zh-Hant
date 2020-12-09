@@ -8,12 +8,13 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 41%
 
 ---
+
 
 # Android應用程式的推播通知快速入門
 
