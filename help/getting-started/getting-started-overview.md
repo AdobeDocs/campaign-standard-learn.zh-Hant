@@ -7,11 +7,11 @@ kt: null
 doc-type: null
 activity: understand
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,13 +29,13 @@ Adobe Campaign Standard 是功能強大的跨頻道行銷活動管理工具，�
 * [設定清單](/help/getting-started/configure-a-list.md)
 * [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [管理行銷活動](/help/getting-started/managing-campaigns.md)
-* [關於設定檔與受眾](/help/getting-started/understanding-profiles-and-audiences.md)
-* [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [關於設定檔與閱聽眾](/help/getting-started/understanding-profiles-and-audiences.md)
+* [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=zh-Hant)
 * [建立工作流程](/help/managing-processes-and-data/creating-a-workflow.md)
 * [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-* [一同與 Adobe Campaign 成長](/help/getting-started/growing-with-adobe-campaign.md)
+* [與 Adobe Campaign 一同成長](/help/getting-started/growing-with-adobe-campaign.md)
 
 ## 其他資源
 
-* [檔案 – Adobe Campaign Standard 快速入門](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [文件 – Adobe Campaign Standard 快速入門](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/getting-started/about-campaign-standard.html)
