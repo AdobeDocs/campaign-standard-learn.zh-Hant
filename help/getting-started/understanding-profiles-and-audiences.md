@@ -1,6 +1,6 @@
 ---
-title: 瞭解Adobe Campaign Standard中的個人檔案和受眾
-description: 此影片說明設定檔和觀眾的概念，以及如何在Adobe Campaign Standard中建立設定檔和觀眾。
+title: 瞭解 Adobe Campaign Standard 中的設定檔和閱聽眾
+description: 此影片說明設定檔和閱聽眾的概念，以及如何在 Adobe Campaign Standard 中建立設定檔和閱聽眾。
 feature: profiles, audiences
 topics: null
 kt: 3893
@@ -8,20 +8,20 @@ thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 
-# 瞭解Adobe Campaign Standard中的個人檔案和受眾
+# 瞭解 Adobe Campaign Standard 中的設定檔和閱聽眾
 
-本影片說明概念，以及如何建立個人檔案和觀眾。
+本影片說明概念，以及如何建立設定檔和閱聽眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&captions=chi_hant)
 
 ## 其他資源
 
