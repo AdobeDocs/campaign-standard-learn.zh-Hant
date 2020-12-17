@@ -4,16 +4,16 @@ user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 教學課程
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,26 +24,26 @@ ht-degree: 89%
 + 快速入門 {#getting-started}
    + [概觀](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard 簡介](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI快速入門](/help/getting-started/getting-started-with-the-ui.md)
+   + [開始使用 UI](/help/getting-started/getting-started-with-the-ui.md)
    + [設定清單](/help/getting-started/configure-a-list.md)
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
-   + [管理促銷活動](/help/getting-started/managing-campaigns.md)
-   + [瞭解個人檔案和受眾](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [管理行銷活動](/help/getting-started/managing-campaigns.md)
+   + [了解設定檔與閱聽眾](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=zh-Hant)
+   + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=zh-Hant)
    + [報告簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [一同與 Adobe Campaign 成長](/help/getting-started/growing-with-adobe-campaign.md)
+   + [與 Adobe Campaign 一同成長](/help/getting-started/growing-with-adobe-campaign.md)
 + 設定檔與閱聽眾 {#profiles-and-audiences}
-   + [建立設定檔和受眾 – 概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [建立設定檔和閱聽眾 – 概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 受眾目標 (BETA){#audience-destinations}
+   + 閱聽眾目標 (BETA){#audience-destinations}
       + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用「統一的區段建立器」建立新的受眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [在工作流程啟動 Adobe Experience Platform 受眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [使用「統一的區段建立器」建立新的閱聽眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [在工作流程啟動 Adobe Experience Platform 閱聽眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [變更目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通訊通道 {#communication-channels}
    + 電子郵件 {#email}
@@ -65,7 +65,7 @@ ht-degree: 89%
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教學課程：Android 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [教學課程：Android 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
       + 應用程式內訊息 {#in-app}
          + [應用程式內訊息簡介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
 + 管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
-   + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
