@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 瞭解如何為您的 [!UICONTROL control group] 定義 [!UICONTROL delivery]，以及如何在傳送 [!UICONTROL delivery] 後，擷取指派給 [!UICONTROL control group] 的設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
