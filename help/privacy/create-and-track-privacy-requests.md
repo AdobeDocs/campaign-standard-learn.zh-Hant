@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Adobe Campaign 可讓您根據 GDPR 和 CCPA 等隱私權法案，以建立 PII 
 
 此影片示範如何在 Adobe Campaign Standard 使用者介面中手動建立隱私權要求並追蹤其演變。
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## 其他資源
 
