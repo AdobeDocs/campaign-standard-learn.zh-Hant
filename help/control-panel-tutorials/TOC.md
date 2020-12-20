@@ -4,15 +4,15 @@ user-guide-title: Adobe Campaign 控制面板教學課程
 user-guide-description: 「控制面板」可以讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體或允許 IP 位址清單管理 SFTP 儲存。
 breadcrumb-title: 控制面板教學課程
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 文件
 getting-started-url: https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
