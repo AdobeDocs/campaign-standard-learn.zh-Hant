@@ -8,9 +8,9 @@ thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 此影片簡介 Adobe Campaign Standard 的報告功能
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
 ## 其他資源：
 
