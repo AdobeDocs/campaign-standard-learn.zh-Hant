@@ -1,5 +1,5 @@
 ---
-title: 建立設定檔和受眾 – 概觀
+title: 建立設定檔和閱聽眾 – 概觀
 description: 了解如何導覽至現有的設定檔，以及如何在 Adobe Campaign Standard 中建立設定檔和對象。
 feature: profiles, audiences
 topics: null
@@ -17,14 +17,14 @@ ht-degree: 36%
 ---
 
 
-# 建立設定檔和受眾 – 概觀
+# 建立設定檔和閱聽眾 – 概觀
 
 Adobe Campaign有兩種類型或設定檔：
 
 * 已識別的描述檔
 * 測試設定檔
 
-根據一或多個共同准則分組的描述檔稱為 **觀眾**。
+根據一或多個共同准則分組的描述檔稱為&#x200B;**audiences**。
 
 此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和觀眾。
 
