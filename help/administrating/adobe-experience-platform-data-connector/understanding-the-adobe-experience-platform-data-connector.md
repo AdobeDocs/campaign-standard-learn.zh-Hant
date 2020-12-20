@@ -17,21 +17,21 @@ ht-degree: 10%
 ---
 
 
-# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
+# 瞭解Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。
 >
->如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
+>如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
 ## 概觀
 
-Adobe Experience Platform將XTK資料（在Adobe Campaign中擷取的資料）對應至Adobe Experience Platform上的 [!UICONTROL Data Connector][!DNL Experience Data Model] (XDM)資料，協助現有客戶將其資料發佈至Adobe Experience Platform。
+Adobe Experience Platform [!UICONTROL Data Connector]將XTK資料（Adobe Campaign中所收錄的資料）對應至Adobe Experience Platform上的[!DNL Experience Data Model](XDM)資料，協助現有客戶在Adobe Experience Platform上提供其資料。
 
 請注意，此連接器是單向的，會將資料從Adobe Campaign Standard傳送至Adobe Experience Platform。 資料從未從Adobe Experience Platform傳送至Adobe Campaign Standard。
 
-Adobe Experience Platform是 [!UICONTROL Data Connector] 專為瞭解Adobe Campaign Standard並瞭解 [!UICONTROL custom resources] 客戶整體資料架構應如何位於Adobe Experience Platform內的資料工程師而設計。
+Adobe Experience Platform [!UICONTROL Data Connector]適用於瞭解Adobe Campaign Standard [!UICONTROL custom resources]並瞭解客戶整體資料架構應如何位於Adobe Experience Platform內的資料工程師。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
@@ -39,9 +39,9 @@ Adobe Experience Platform是 [!UICONTROL Data Connector] 專為瞭解Adobe Campa
 
 >[!NOTE]
 >
->不支援現成可用的 [!UICONTROL subscription events] 傳輸。 若要傳 [!UICONTROL subscription events]輸，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
+>不支援[!UICONTROL subscription events]的現成傳輸。 若要傳輸[!UICONTROL subscription events]，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
 >
->現有 [!UICONTROL experience events] 的Adobe Experience Platform無法吸收，但持續產生的 [!UICONTROL experience events] 內容會串流至Adobe Experience Platform。
+>現有的[!UICONTROL experience events]無法收錄到Adobe Experience Platform，但持續產生的[!UICONTROL experience events]將會串流到Adobe Experience Platform。
 
 ## 執行資料映射的關鍵步驟
 
