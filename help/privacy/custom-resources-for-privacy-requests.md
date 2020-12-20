@@ -8,9 +8,9 @@ thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 設定 Adobe Campaign Standard 以處理隱私權要求時，您必須確保在刪除設定檔時，會刪除連結至設定檔的任何自訂資料。此影片會說明如何修改自訂資源，以便符合此需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
