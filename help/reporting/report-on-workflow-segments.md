@@ -25,4 +25,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+如需詳細資訊，請參閱[documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
