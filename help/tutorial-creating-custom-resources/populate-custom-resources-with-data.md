@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # 使用資料填入自訂資源
 
-瞭解如何使用工作流程，以檔案中的資料填 [!DNL CSV] 入自訂資源。
+瞭解如何使用工作流程，以[!DNL CSV]檔案中的資料填入自訂資源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-如需如何透過填入自訂資源的詳細資訊 [!DNL API]，請參閱檔案： [與自訂資源互動](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
+如需如何透過[!DNL API]填入自訂資源的詳細資訊，請參閱檔案：[與自訂資源互動](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html.)
