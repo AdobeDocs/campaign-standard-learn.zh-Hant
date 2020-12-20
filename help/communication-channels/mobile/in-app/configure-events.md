@@ -17,13 +17,13 @@ ht-degree: 2%
 ---
 
 
-# Configure [!UICONTROL Events] {#configuring-events}
+# 配置[!UICONTROL Events] {#configuring-events}
 
-在配置消 [!UICONTROL In-App] 息時，您需要定義哪些用戶啟動的操作觸發要顯示的消息。 這些動作稱為 [!UICONTROL events]。 提供三 [!UICONTROL events] 種類別： [!UICONTROL Mobile Application events]、 [!UICONTROL Life Cycle events]和 [!UICONTROL Analytics events]。
+在配置[!UICONTROL In-App]消息時，您需要定義由哪些用戶啟動的動作觸發要顯示的消息。 這些動作稱為[!UICONTROL events]。 [!UICONTROL events]有三種類別可供使用：[!UICONTROL Mobile Application events]、[!UICONTROL Life Cycle events]和[!UICONTROL Analytics events]。
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] 在您 [!UICONTROL custom events] 的行動應用程式中實作。
+[!UICONTROL Mobile Application events] 是在 [!UICONTROL custom events] 您的行動應用程式中實作的。
 
 例如：
 
@@ -32,13 +32,13 @@ ht-degree: 2%
 * 購物車放棄
 * 客戶已購買
 
-您必須在Adobe Campaign中 [!UICONTROL events] 設定這些項目。 以下影片說明如何執行此動作。
+您必須在Adobe Campaign中設定這些[!UICONTROL events]。 以下影片說明如何執行此動作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] 是現成可用的 [!UICONTROL events]。 The following [!UICONTROL events] are available:
+[!UICONTROL Lifecycle events] 是現成可用的 [!UICONTROL events]。以下[!UICONTROL events]可供使用：
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->必須 [!UICONTROL Lifecycle module] 在行動應用程式中設定。 如需如何將生命週期新增至應用 [程式的詳細資訊，請參閱此處](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>[!UICONTROL Lifecycle module]必須在行動應用程式中設定。 如需[如何將生命週期新增至應用程式的詳細資訊，請參閱此處](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要Adobe Analytics授權。 在您設定擴充 [[!DNL Analytics] 功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) ，並將 [Analytics新增至應用程式後](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，這些事件就可在ACS的設定 [!UICONTROL In-App] 中使用。
+>[!UICONTROL Analytics events] 需要Adobe Analytics授權。在您設定[[!DNL Analytics] 擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch)並將[Analytics新增至您的App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)後，這些事件就會在ACS的[!UICONTROL In-App]設定中提供。
 
 ## 其他資源
 
