@@ -32,7 +32,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48 分鐘)*
+*[!UICONTROL External API activity](06:48 分鐘)*
 
 >[!NOTE]
 >
