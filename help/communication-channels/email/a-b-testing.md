@@ -19,7 +19,7 @@ ht-degree: 47%
 
 # A/B 測試
 
-The [!UICONTROL A/B Test] functionality in Adobe Campaign allows you to define two to three email variants. 已將每個變體發送至母體樣本，以確定哪個樣本具有最佳結果。一旦確定後，則會將成功變體發送至剩餘母體。您可以選取更改電子郵件的內容、主旨或寄件者。
+Adobe Campaign的[!UICONTROL A/B Test]功能可讓您定義兩到三個電子郵件變體。 已將每個變體發送至母體樣本，以確定哪個樣本具有最佳結果。一旦確定後，則會將成功變體發送至剩餘母體。您可以選取更改電子郵件的內容、主旨或寄件者。
 
 本影片說明如何設定和傳送A/B測試，以測試主旨行。
 
