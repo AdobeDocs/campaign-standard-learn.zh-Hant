@@ -19,9 +19,9 @@ ht-degree: 18%
 ---
 
 
-# Create an [!UICONTROL In-App] delivery within a workflow
+# 在工作流程中建立[!UICONTROL In-App]傳送
 
-The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
+應用程式內傳送活動通常用來自動傳送[!UICONTROL In-App]訊息給在相同工作流程中計算的目標對象。
 
 收件者是透過查詢、交叉點等定位活動，在相同工作流程中定義活動上游的位置。
 
