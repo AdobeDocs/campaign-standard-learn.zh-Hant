@@ -23,9 +23,9 @@ ht-degree: 15%
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
 >
->如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
+>如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-此視訊說明如何在Adobe Campaign Standard中變更主要描述檔表格 [!UICONTROL Platform Audience] 外傳送的定位維度。
+此視訊說明如何在Adobe Campaign Standard的主要描述檔表格外變更[!UICONTROL Platform Audience]傳送的定位維度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,5 +39,5 @@ ht-degree: 15%
 
 視訊資源：
 
-* [使用「統一的區段建立器」建立新的受眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [使用「統一的區段建立器」建立新的閱聽眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [在行銷工作流程中啟動Adobe Experience Platform受眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
