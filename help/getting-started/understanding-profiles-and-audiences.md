@@ -8,9 +8,9 @@ thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 本影片說明概念，以及如何建立設定檔和閱聽眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
 
 ## 其他資源
 
