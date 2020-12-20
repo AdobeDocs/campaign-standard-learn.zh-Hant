@@ -17,9 +17,9 @@ ht-degree: 15%
 ---
 
 
-# Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# 使用[!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}來設定行動應用程式
 
-若要傳送應用程式內訊 [!UICONTROL push notifications] 息或使用Mobile SDK V5，行動應用程式必須在Adobe Campaign中設定 [!UICONTROL Adobe Experience Platform Launch] 並設定。
+若要使用Mobile SDK V5傳送應用程式內訊息或[!UICONTROL push notifications]，行動應用程式必須在[!UICONTROL Adobe Experience Platform Launch]中設定，並在Adobe Campaign中設定。
 
 以下影片示範在Experience Platform Launch中設定行動應用程式的必要步驟：
 
@@ -27,9 +27,9 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->有關視 [訊中使用的詳 [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) 細檔案和程式碼範本，請參閱中的設定應用程式。
+>如需視訊中使用的詳細檔案和程式碼範本，請參閱[在[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)中設定您的應用程式。
 
 ## 其他資源
 
 * [設定行動裝置屬性（Adobe Launch檔案）](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience Platform SDK設定行動應用程式（檔案）](https://helpx.adobe.com/tw/campaign/kb/configuring-app-sdk.html)
+* [使用Adobe Experience Platform SDK設定行動應用程式（檔案）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
