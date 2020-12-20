@@ -17,17 +17,17 @@ ht-degree: 1%
 ---
 
 
-# 建立 [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# 建立[!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-此 [!UICONTROL Direct Mail] 頻道可讓您擷取要傳送至機構或上傳至SFTP伺服器的收件者區段清單。
+[!UICONTROL Direct Mail]頻道可讓您擷取要傳送至機構或上傳至SFTP伺服器的收件者區段清單。
 
-此影片說明如何設 [!UICONTROL Direct Mail] 定傳送，以及為了能將描述檔新增至傳送而需要哪些 [!UICONTROL Direct Mail] 設定。
+此影片說明如何設定[!UICONTROL Direct Mail]傳送，以及為了能夠將描述檔新增至[!UICONTROL Direct Mail]傳送，需要哪些設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## 在工作流程 [!UICONTROL Direct Mail] 中建立
+## 在工作流程中建立[!UICONTROL Direct Mail]
 
-該渠道可從首頁和工作流程檢視中使用，以定義連貫的跨通道行銷策略。 以下工作流程範例包括 [!UICONTROL Direct Mail activity]。
+該渠道可從首頁和工作流程檢視中使用，以定義連貫的跨通道行銷策略。 以下工作流程範例包括[!UICONTROL Direct Mail activity]。
 
 ![工作流程影像](/help/assets/direct_mail_examplewf.png)
 
