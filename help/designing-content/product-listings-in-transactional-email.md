@@ -17,11 +17,11 @@ ht-degree: 4%
 ---
 
 
-# 在交易 [!UICONTROL product listings] 電子郵件中設定
+# 在交易電子郵件中設定[!UICONTROL product listings]
 
 您可以設定重新定位的電子郵件，其中包含設計電子郵件時未知的產品清單。 這些產品可在執行時期從裝載新增。 例如，您可以自動傳送購物車放棄電子郵件，列出使用者購物車中在放棄之前的所有產品，以及每個產品的影像、價格和連結。
 
-以下視訊說明在中設定所需的 [!UICONTROL product listings] 步驟 [!UICONTROL transactional emails]。
+以下視訊說明在[!UICONTROL transactional emails]中設定[!UICONTROL product listings]所需的步驟。
 
 >[!NOTE]
 >
