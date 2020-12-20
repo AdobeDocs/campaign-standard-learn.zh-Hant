@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# 報告您的[!UICONTROL In-App]傳送{#in-app-message-reporting}
 
-您可以新增特 [!UICONTROL In-App] 定量度，在傳送摘要中檢視傳送相關 [!UICONTROL In-App] 資料。 或者，您也可以使用現成可用 [的應用程式內報表](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)。
+您可以新增[!UICONTROL In-App]特定量度，在傳送摘要中檢視您的[!UICONTROL In-App]傳送相關資料。 或者，您也可以使用方塊外的[應用程式內報表](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
