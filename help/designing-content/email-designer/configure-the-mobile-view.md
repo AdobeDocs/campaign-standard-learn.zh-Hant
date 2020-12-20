@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# 在 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# 在[!UICONTROL Email Designer] {#configure-the-mobile-view}中設定行動檢視
 
 此影片說明如何透過個別編輯行動顯示的所有樣式選項來微調電子郵件的互動式設計。
 
