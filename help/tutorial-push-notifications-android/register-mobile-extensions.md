@@ -18,9 +18,9 @@ ht-degree: 0%
 
 # 步驟3 —— 在您的行動應用程式中註冊擴充功能
 
-在本部分，我們將添加代碼來註冊用戶配置檔案、身份、生命週期和信號擴展。 這些擴充功能是其中的一 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)部分。 我們也需要註冊Adobe Campaign Standard擴充功能，如以下程式碼所示。
+在本部分，我們將添加代碼來註冊用戶配置檔案、身份、生命週期和信號擴展。 這些擴充功能是[[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)的一部分。 我們也需要註冊Adobe Campaign Standard擴充功能，如以下程式碼所示。
 
-在Studio中開啟您的 [!DNL Android] 專案。 刪除MainApp中的整個代 **碼，但第一行是您的包語句**。
+在[!DNL Android]工作室中開啟您的專案。 刪除MainApp **中的整個代碼，但第一行是您的package語句**。
 
 將下列程式碼貼入MainApp
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-第32行需要提供您屬性的[!UICONTROL  Launch] 「環境檔案ID」。 您可從屬性中 [!UICONTROL environment tab] 存取此 [!UICONTROL Launch] 項。
+第32行需要提供[!UICONTROL  Launch]屬性的環境檔案ID。 您可從[!UICONTROL Launch]屬性的[!UICONTROL environment tab]存取此項。
 
 ![launch-id](assets/launch-id-property.PNG)
