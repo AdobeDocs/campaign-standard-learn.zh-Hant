@@ -8,9 +8,9 @@ thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 瞭解在 Adobe Campaign 和 Journey AI 模型之間同步資料所需的工作流程。瞭解如何在個別設定檔層級檢視傳送時間分數，以及如何使用傳送時間公式執行電子郵件傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
 ## 其他資源
 
