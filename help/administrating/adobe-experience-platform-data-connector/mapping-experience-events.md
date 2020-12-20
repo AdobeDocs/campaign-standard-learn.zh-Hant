@@ -17,15 +17,15 @@ ht-degree: 11%
 ---
 
 
-# 對應 [!UICONTROL Experience Events]
+# 映射[!UICONTROL Experience Events]
 
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。
 >
->如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
+>如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-瞭解如何在 [!UICONTROL Experience Events] Adobe Experience Platform(AEP)中對應。
+瞭解如何在Adobe Experience Platform(AEP)中對應[!UICONTROL Experience Events]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
