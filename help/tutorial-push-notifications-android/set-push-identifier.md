@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# 步驟4 —— 設定 [!DNL pushidentifier]
+# 步驟4 —— 設定[!DNL pushidentifier]
 
-此字 **[!DNL pushidentifier]** 串包含通知的裝置Token [!DNL Push] 。 這是由傳送並使用方 [!DNL Firebase] 法傳遞至SDK的相同代 [!DNL MobileCore.setPushIdentifier] 號。
+**[!DNL pushidentifier]**&#x200B;是包含[!DNL Push]通知之裝置Token的字串。 這是[!DNL Firebase]所傳送並使用[!DNL MobileCore.setPushIdentifier]方法傳遞至SDK的相同Token。
 
-在Studio中開啟您的 [!DNL Android ]專案。 刪除中的整個代 [!DNL MainActivity] 碼， **但第一行是包語句**。
+在[!DNL Android ]studio中開啟您的專案。 刪除[!DNL MainActivity] **中的整個代碼，但第一行是您的package語句**。
 
-將下列程式碼貼入 [!DNL MainActivity]:
+將下列程式碼貼入[!DNL MainActivity]:
 
 <!--
 Removed `{.line-numbers}` below
@@ -90,19 +90,19 @@ MobileCore.lifecyclePause();
 
 現在是測試您應用程式的好時機，再做進一步的測試。
 
-* 按一下綠色箭頭或選取，以執行您的應用程式 **[!DNL Run->Run'app']**。
-* 模擬 [!DNL Android] 器應該會啟動，而且您應會看到應用程式以文字 [!DNL "Hello World" ]執行。
-* 開啟窗 [!DNL logcat] 戶。 搜尋「[!DNL Got]」。 您應該會看到從寫入記錄檔 [!DNL Firebase] 中收到的Token，如下所示。 &quot;&quot;後面的長[!DNL Got token]字串是傳 [!DNL pushidentifier ]送至Adobe Campaign的字串。
+* 按一下綠色箭頭或選取&#x200B;**[!DNL Run->Run'app']**，以執行您的應用程式。
+* [!DNL Android]模擬器應該會啟動，您應該會看到應用程式以[!DNL "Hello World" ]文字執行。
+* 開啟[!DNL logcat]窗口。 搜尋「[!DNL Got]」。 您應看到從[!DNL Firebase]寫入記錄檔中收到的代號，如下所示。 &quot;[!DNL Got token]&quot;後面的長字串是傳送至Adobe Campaign的[!DNL pushidentifier ]。
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### 檢查行動應用程式訂閱者
 
 登入您的Adobe Campaign Standard實例。
-導覽 **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**。 開啟適當的行動應用程式。 Tab to the [!UICONTROL Mobile Application Subscribers] tab. 您應該會看到 [!UICONTROL registration token ]清單。
+導覽**[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**。 開啟適當的行動應用程式。 頁籤至[!UICONTROL Mobile Application Subscribers]頁籤。 您應該會看到[!UICONTROL registration token ]已列出。
 
 ![行動應用程式用戶](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->如果您未在此標籤STOP中看到註冊Token, [!UICONTROL Mobile Application Subscribers] 然後再繼續進行任何操作。
+>如果您在[!UICONTROL Mobile Application Subscribers]標籤STOP中未看到註冊Token，然後再繼續執行任何操作。
