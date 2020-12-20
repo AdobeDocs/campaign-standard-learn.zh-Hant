@@ -1,5 +1,5 @@
 ---
-title: 使用「統一的區段建立器」建立新的受眾
+title: 使用「統一的區段建立器」建立新的閱聽眾
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -17,19 +17,19 @@ ht-degree: 9%
 ---
 
 
-# 使用「統一的區段建立器」建立新的受眾
+# 使用「統一的區段建立器」建立新的閱聽眾
 
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
 >
->如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
+>如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-Adobe Campaign Standard可讓您使用Adobe Experience Platform使用Adobe Experience Cloud [即時客戶個人檔案中的資料](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) ，建立受眾 [!UICONTROL Unified Segment Builder]。
+Adobe Campaign Standard可讓您使用Adobe Experience Platform [即時客戶個人檔案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中的資料來建立觀眾。[!UICONTROL Unified Segment Builder]
 
-您可以直接 [!UICONTROL Unified Segment Builder] 透過模組在Adobe Campaign Standard中 [!UICONTROL Audiences ] 存取。 這可讓您直接在清單檢視中管理 [!UICONTROL Audiences] 這些觀眾，您可以直接從Adobe Campaign介面編輯或建立新的Adobe Experience Platform觀眾
+您可以透過[!UICONTROL Audiences ]模組直接在Adobe Campaign Standard中存取[!UICONTROL Unified Segment Builder]。 這可讓您直接在[!UICONTROL Audiences]清單檢視中管理這些觀眾，您可以直接從Adobe Campaign介面編輯或建立新的Adobe Experience Platform觀眾
 
-以下影片說明如何使用Adobe Campaign Standard建立 [!UICONTROL Unified Segment Builder] 新觀眾。
+以下影片說明如何在Adobe Campaign Standard中使用[!UICONTROL Unified Segment Builder]建立新觀眾。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
