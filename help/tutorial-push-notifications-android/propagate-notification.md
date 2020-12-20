@@ -1,5 +1,5 @@
 ---
-title: 步驟5 —— 傳播通知
+title: 第 5 步 – 傳播通知
 description: 在本部分，我們將使用Android Notification Manager.Firebase來傳播從Adobe Campaign收到的訊息。
 feature: Push
 topics: Mobile
@@ -11,21 +11,20 @@ translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # 新增服務以傳送通知
 
-在本部分，我們將使用傳播從Adobe Campaign收到的訊息 [!DNL Android Notification Manager]。 [!DNL Notification manager] 用於通知用戶發生的事件。
-這就是您告訴使用者背景發生了什麼：
+在本部分，我們將使用[!DNL Android Notification Manager]來傳播從Adobe Campaign收到的訊息。 [!DNL Notification manager] 用於通知用戶發生的事件。這就是您告訴使用者背景發生了什麼：
 
-* 啟動 [!DNL Android Studio]
-* 開啟專 *[!DNL ACSPushTutorial]* 案
+* 啟動[!DNL Android Studio]
+* 開啟&#x200B;*[!DNL ACSPushTutorial]*&#x200B;專案
 * 展開專案結構
-* 按一下右鍵包資料夾([!DNL com.example.acspushtutorial])並 [!DNL New ->Java Class]
-* 為此類命名 *[!DNL MyService]* 並確保其擴展 [!DNL FirebaseMessagingService]
-* 在此 *[!DNL sendNotification]* 類中建立方法。 在此方法中，您需要使用物件來設定通知的內容和頻 [!DNL NotificationCompat.Builder] 道。 若要顯示通知，請 [!DNL NotificationManagerCompat.notify()]呼叫，並傳遞通知和結果的唯一ID [!DNL NotificationCompat.Builder.build()]。
+* 按一下右鍵包資料夾([!DNL com.example.acspushtutorial])和[!DNL New ->Java Class]
+* 將此類命名為&#x200B;*[!DNL MyService]* ，並確保其擴展[!DNL FirebaseMessagingService]
+* 在此類中建立&#x200B;*[!DNL sendNotification]*&#x200B;方法。 在此方法中，您需要使用[!DNL NotificationCompat.Builder]物件來設定通知的內容和頻道。 若要顯示通知，請呼叫[!DNL NotificationManagerCompat.notify()]，並傳遞通知的唯一ID和[!DNL NotificationCompat.Builder.build()]結果。
 
 <!--
 Removed `{.line-numbers}` below
@@ -92,9 +91,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## 修改 [!DNL AndroidManifest.xml]
+## 修改[!DNL AndroidManifest.xml]
 
-將已建立的服務添加到 [!DNL AndroidManifest.xml]。 最終版 [!DNL AndroidManifest.xml] 本如下所示：
+將已建立的服務添加到[!DNL AndroidManifest.xml]。 最終[!DNL AndroidManifest.xml]應如下所示：
 
 <!--
 Removed `{.line-numbers}` below
@@ -138,4 +137,4 @@ Removed `{.line-numbers}` below
 
 ## 執行應用程式
 
-按一下工具列或選單 **上的綠色箭頭** ，即可執行應用 [!DNL Run] 程式。
+按一下工具列上的&#x200B;**綠色箭頭**&#x200B;或[!DNL Run]選單，以執行應用程式。
