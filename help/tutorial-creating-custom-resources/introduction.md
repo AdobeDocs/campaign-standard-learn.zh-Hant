@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 為此，我們將擴充現成資源並新增自訂表格，以豐富 [!DNL Campaign] 資料模型。我們將新增客戶和訂單表格。
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 本教學課程將逐步說明如何：
 
