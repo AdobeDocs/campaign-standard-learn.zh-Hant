@@ -37,5 +37,5 @@ ht-degree: 100%
 ## 其他資源：
 
 * [Adobe Campaign Dreamweaver安裝疑難排解](https://helpx.adobe.com/tw/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver 文件](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Adobe Dreamweaver 文件](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [安裝 Adobe 應用程式的附加元件和擴充功能](https://helpx.adobe.com/tw/creative-cloud/kb/installingextensionsandaddons.html)
