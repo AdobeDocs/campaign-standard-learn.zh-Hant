@@ -4,7 +4,7 @@ description: 此影片說明如何使用設定檔替代功能來測試您的電�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 ## 其他資源：
 
-* [使用目標設定檔測試訊息 (文檔)](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [使用目標設定檔測試訊息 (文檔)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [設計 A/B 測試電子郵件](/help/communication-channels/email/a-b-testing.md)
 * [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
