@@ -25,7 +25,7 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## 讓現有的HTML內容相容 {#making-existing-html-content-compatible}
+## 使現有HTML內容相容{#making-existing-html-content-compatible}
 
 電子郵件設計人員需要特定的標籤，這些標籤必須套用，才能讓標準HTML內容上傳至Adobe Campaign時完全相容且可編輯。
 
