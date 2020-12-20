@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # 廣播應用程式內訊息
 
-您可以廣播應用程式內訊息，針對行動應用程式的所有使用者（無論Adobe Campaign是否有其個人檔案資訊）進行定位。 若要廣播訊息，您必須在設定應 **[!UICONTROL Target all users of a mobile app template]** 用程式內訊息時使用。
+您可以廣播應用程式內訊息，針對行動應用程式的所有使用者（無論Adobe Campaign是否有其個人檔案資訊）進行定位。 若要廣播訊息，您在設定應用程式內訊息時必須使用&#x200B;**[!UICONTROL Target all users of a mobile app template]**。
 
 此類別中的一些相關使用案例包括：
 
