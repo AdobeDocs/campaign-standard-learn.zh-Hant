@@ -1,5 +1,5 @@
 ---
-title: 在工作流程啟動 Adobe Experience Platform 受眾
+title: 在工作流程啟動 Adobe Experience Platform 閱聽眾
 description: 此影片說明如何使用「讀取對象」活動，在工作流程中啟用「資料服務查詢對象」。
 feature: Audience Destinations
 topics: ACOP
@@ -17,15 +17,15 @@ ht-degree: 7%
 ---
 
 
-# 在行銷工作流程的工作流程中啟用Adobe Experience [!UICONTROL Adobe Experience Platform Audiences] Platform受眾
+# 在行銷工作流程的[!UICONTROL Adobe Experience Platform Audiences]工作流程中啟用Adobe Experience Platform觀眾
 
 >[!NOTE]
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
 >
->如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
+>如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-此影片說明如何使用活 [!UICONTROL Data Services Query Audience] 動在工作流程中啟 [!UICONTROL Read Audience] 動。
+此影片說明如何使用[!UICONTROL Read Audience]活動在工作流程中啟動[!UICONTROL Data Services Query Audience]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
