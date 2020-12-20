@@ -17,9 +17,9 @@ ht-degree: 6%
 ---
 
 
-# Target users based on their [!DNL Campaign] profile
+# 根據[!DNL Campaign]設定檔定位使用者
 
-您可以使用Adobe Campaign Standard中提供的CRM設定檔屬性個人化訊息，鎖定已知的行動應用程式使用者（已登入具有PII的應用程式的使用者）。 此範本對於支援跨通道協調使用案例最有用，因為您已針對其他通道（例如電子郵件或推播）的使用者，而且根據使用者的回應，您想要透過訊息與他們互動 [!UICONTROL In-App] 。
+您可以使用Adobe Campaign Standard中提供的CRM設定檔屬性個人化訊息，鎖定已知的行動應用程式使用者（已登入具有PII的應用程式的使用者）。 此範本對於支援跨通道協調使用案例最有用，因為您已針對電子郵件或推播等其他通道的使用者，而且您想要透過[!UICONTROL In-App]訊息與他們互動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
