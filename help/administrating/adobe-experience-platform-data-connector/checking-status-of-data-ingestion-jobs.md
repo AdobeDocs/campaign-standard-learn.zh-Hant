@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >此功能目前為測試版，可能會經常更新和修改，恕不另行通知。
 >
->如果您計畫實 [!UICONTROL Adobe Customer Support] 作此功能，請聯絡。
+>如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
 瞭解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取到Adobe Experience Platform。
 
