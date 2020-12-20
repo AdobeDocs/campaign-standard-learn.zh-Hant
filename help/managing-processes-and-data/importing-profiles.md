@@ -21,7 +21,7 @@ ht-degree: 10%
 
 您可以從檔案收集資料以處理資料及／或將資料匯入Adobe Campaign資料庫。
 
-此影片說明如何使用工作 [!UICONTROL Data Management] 流程中的活動來匯入描述檔資料。
+此影片說明如何使用工作流程中的[!UICONTROL Data Management]活動來匯入描述檔資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
