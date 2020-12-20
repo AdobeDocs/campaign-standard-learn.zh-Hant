@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## 其他資源
 
