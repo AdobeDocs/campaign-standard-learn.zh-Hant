@@ -5,12 +5,12 @@ feature: Control Panel
 topics: null
 audience: administrator
 kt: 5188
-thumbnail: 33686.jpg
+thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 08fc21ce3bdf8b520d13cab3ba09ba9447bb885c
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
