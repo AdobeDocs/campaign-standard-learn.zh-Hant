@@ -1,7 +1,7 @@
 ---
 title: 外部信號活動——使用參數調用工作流
 description: 「外部信號活動」用於組織和協調不同的流程，這些流程是同一客戶歷程中不同工作流程的一部分。 它允許從另一個工作流程開始，以支援更複雜的客戶歷程，同時更能監控和回應問題。
-feature: External Signal Activity
+feature: 外部訊號活動
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 19%
 
 這也包含新的&#x200B;**Test**&#x200B;活動，您可在其中執行此功能的測試。
 
-以下視訊說明下列項目所需的設定步驟：
+以下視訊說明下列設定步驟：
 
 1. **從外部** 系統接收外部參數，例如內容管理系統(CRM):
 
@@ -45,4 +45,4 @@ ht-degree: 19%
 
 ## 其他資源
 
-* [外部信號（文檔）](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [外部信號（文檔）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
