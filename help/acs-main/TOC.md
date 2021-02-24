@@ -10,10 +10,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
 translation-type: tm+mt
-source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
+source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 100%
+source-wordcount: '507'
+ht-degree: 98%
 
 ---
 
@@ -56,6 +56,7 @@ ht-degree: 100%
       + [將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + [交付能力最佳實踐指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
       + AI 支援電子郵件 {#journey-ai}
          + [預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [預測性參與計分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
