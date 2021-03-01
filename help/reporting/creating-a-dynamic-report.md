@@ -1,7 +1,7 @@
 ---
 title: 建立動態報表
 description: 了解如何建立報表。
-feature: Dynamic Reporting
+feature: 動態報表
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -10,15 +10,15 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 30%
+source-wordcount: '67'
+ht-degree: 29%
 
 ---
 
 
 # 建立[!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign的[!UICONTROL Dynamic Reports]設計為彈性的自由格式環境，讓您可以在其中探索資料。 它可讓您將維度、量度和時間範圍結合為任何組合，並提供無限的劃分和比較。
+Adobe Campaign的[!UICONTROL Dynamic Reports]設計為靈活的自由格式環境，可讓您在其中探索資料。 它可讓您將維度、量度和時間範圍結合為任何組合，並提供無限的劃分和比較。
 
 了解如何建立報表。
 
