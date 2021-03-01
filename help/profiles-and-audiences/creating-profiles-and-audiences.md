@@ -1,7 +1,7 @@
 ---
 title: 建立設定檔和閱聽眾 – 概觀
 description: 了解如何導覽至現有的設定檔，以及如何在 Adobe Campaign Standard 中建立設定檔和對象。
-feature: profiles, audiences
+feature: 個人檔案，觀眾
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
@@ -11,22 +11,22 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 36%
+source-wordcount: '89'
+ht-degree: 35%
 
 ---
 
 
 # 建立設定檔和閱聽眾 – 概觀
 
-Adobe Campaign有兩種類型或設定檔：
+Adobe Campaign有兩種類型或個人檔案：
 
 * 已識別的描述檔
 * 測試設定檔
 
 根據一或多個共同准則分組的描述檔稱為&#x200B;**audiences**。
 
-此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和觀眾。
+此影片說明如何導覽至現有的個人檔案，以及如何建立Adobe Campaign Standard的個人檔案和觀眾。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
