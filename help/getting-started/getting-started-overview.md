@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard 快速入門
 description: 本影片說明 Adobe Campaign Standard 使用者介面的概觀，其主要功能與核心功能性。
-feature: User Interface
+feature: 使用者介面
 topics: null
 kt: null
 doc-type: null
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 98%
 
 ---
 
