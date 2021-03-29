@@ -1,17 +1,17 @@
 ---
 title: 與 Adobe Campaign 一同成長
 description: 此影片著重說明真正跨頻道協調的潛在後續步驟。
-feature: multi channel orchestration
+feature: 多通道協調
 topics: null
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '35'
 ht-degree: 100%
 
 ---
