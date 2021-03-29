@@ -1,17 +1,17 @@
 ---
 title: 報告簡介
 description: 此影片簡介 Adobe Campaign Standard 的報告功能
-feature: reporting
+feature: 報告
 topics: null
 kt: 3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '54'
+workflow-type: ht
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
