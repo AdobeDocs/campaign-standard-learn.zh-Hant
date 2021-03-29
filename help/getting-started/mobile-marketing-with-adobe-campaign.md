@@ -1,17 +1,17 @@
 ---
 title: 使用 Adobe Campaign 進行行動行銷
 description: 此影片說明哪些 Adobe Campaign Standard 功能可以支援您的行動行銷策略。
-feature: mobile
+feature: 行動裝置
 topics: null
 kt: 3976
 thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '51'
+workflow-type: ht
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
