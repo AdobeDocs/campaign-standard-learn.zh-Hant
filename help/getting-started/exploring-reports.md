@@ -1,17 +1,17 @@
 ---
 title: 探索報告
 description: 此影片說明可用的不同報告，這些報告都可立即用於電子郵件傳送。
-feature: Reporting
+feature: 報告
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '53'
+workflow-type: ht
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
