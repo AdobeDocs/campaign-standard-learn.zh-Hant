@@ -8,10 +8,10 @@ thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
-source-wordcount: '196'
+workflow-type: ht
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
