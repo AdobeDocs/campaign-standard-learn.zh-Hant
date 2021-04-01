@@ -1,15 +1,16 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: adobe campaign
-type: 教學課程
 solution: Campaign, Campaign Standard
+version: Standard
+type: 教學課程
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.zh-Hant
 index: true
-translation-type: ht
-source-git-commit: 140cc2966bdbeded0dcd09e85353732c5fc4dc7e
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 1f9aeba0e0e76570663364db3191a52876726266
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
