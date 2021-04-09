@@ -1,5 +1,4 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
@@ -10,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
 translation-type: tm+mt
-source-git-commit: d83ef6bcf615f9dc10af800bd6f0ef2aa58a7a45
+source-git-commit: c285a5493dad114c817d78692400f4056c707db4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
