@@ -9,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
 translation-type: tm+mt
-source-git-commit: c285a5493dad114c817d78692400f4056c707db4
+source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
@@ -100,7 +100,7 @@ ht-degree: 98%
    + [建立動態報表](/help/reporting/creating-a-dynamic-report.md)
    + [根據自訂設定檔屬性建立報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
-+ 整合
++ 整合{#integrations}
    + [追蹤您在Adobe Analytics的送貨成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + 管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
