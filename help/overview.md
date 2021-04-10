@@ -3,7 +3,7 @@ title: Adobe Campaign Standard 教學課程 - 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: 10fe2451d77a0366ef7885da0426551b1843a1cb
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 82%
@@ -21,7 +21,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
    *瞭解如何設定Campaign Standard與分析整合。瞭解如何使用從Campaign Standard接收的資料以及哪些KPI可用，在Analytics中建立報表。*
 
-* ** [使用事務性消息的觸發器](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+* **[使用事務性消息的觸發器](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
    *瞭解如何設定和使用交易式訊息觸發器。*
 
