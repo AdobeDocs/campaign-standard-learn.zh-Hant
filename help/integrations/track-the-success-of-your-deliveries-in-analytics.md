@@ -7,10 +7,9 @@ topics: Integrations
 kt: 6526
 thumbnail: 332576.jpg
 doc-type: feature video
-activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 37d4309174d4176789399ceb5e68472a633eae66
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 2%
