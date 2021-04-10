@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [建立動態報表](/help/reporting/creating-a-dynamic-report.md)
    + [根據自訂設定檔屬性建立報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
-+ 整合{#integrations}
++ 與其他解決方案整合 {#integrations}
    + [追蹤您在Adobe Analytics的送貨成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + 使用事務性消息{#triggers}的觸發器
+      + [概觀](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [在Experience Cloud中建立觸發器](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [在Campaign Standard中建立觸發事件](/help/integrations/create-a-trigger-event.md)
+      + [使用即時事件資料配置事務性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + 管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
    + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
