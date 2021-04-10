@@ -6,10 +6,10 @@ topics: Integrations
 kt: 6524
 thumbnail: 332624.jpg
 doc-type: article
-role: administrator
+role: feature video
 team: TM
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: 10fe2451d77a0366ef7885da0426551b1843a1cb
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 3%
