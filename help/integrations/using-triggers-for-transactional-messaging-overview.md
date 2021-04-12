@@ -5,11 +5,11 @@ feature: 觸發器
 topics: Integrations
 kt: 6525
 doc-type: article
-role: administrator
-activity: use
+role: Administrator
+level: Experienced
 team: TM
 translation-type: tm+mt
-source-git-commit: f8fceeaaf26439b8fc11fe5039ce6bb3474f43dc
+source-git-commit: ff12895a1249472434aba794d71ba6f944076f22
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
