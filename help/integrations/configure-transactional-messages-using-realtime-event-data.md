@@ -7,10 +7,11 @@ kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
 role: administrator
+level: advanced
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: b13a0c7bffbeeffa2aaee0320f40bb3363860b4b
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
