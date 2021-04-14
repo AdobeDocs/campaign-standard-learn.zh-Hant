@@ -1,18 +1,18 @@
 ---
 title: 使用 CNAME 委派子網域
-description: 瞭解如何將子網域完全委派至 Adobe Campaign
-feature: Subdomain Delegation
+description: 瞭解如何將子網域完全委派至 Adobe Campaign。
+feature: 子網域委派
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 47%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 47%
 
 >[!IMPORTANT]
 >
-> 使用CNAME進行子網域委派是測試版，而且會經常更新和修改，恕不另行通知。
+> 使用 CNAME 進行子網域委派為測試版，且會經常更新及修改，恕不另行通知。
 
-若要開始使用Adobe Campaign傳送電子郵件或發佈登陸頁面，您必須設定新的子網域。
+若要開始傳送電子郵件或發佈登陸頁面給 Adobe Campaign，您必須設定新的子網域。
 
 瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。
 
@@ -31,5 +31,5 @@ ht-degree: 47%
 
 ## 其他資源
 
-* [完整子網域委派（視訊）](./subdomain-delegation.md)
-* [設定新子網域（檔案）](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [完整子網域委派 (影片)](./subdomain-delegation.md)
+* [設定新的子網域 (文件)](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
