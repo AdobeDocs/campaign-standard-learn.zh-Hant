@@ -2,20 +2,19 @@
 title: 執行隱私權要求
 description: 在 Adobe Campaign 中，隱私權要求由工作流程執行。此影片說明哪些工作流程存取和刪除要求，以及執行要求時會發生什麼事情。
 feature: GDPR, CCPA
-topic: null
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
+translation-type: tm+mt
+source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
 ---
-
 
 # 執行隱私權要求
 
