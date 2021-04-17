@@ -1,21 +1,23 @@
 ---
 title: 外部信號活動——使用參數調用工作流
-description: 「外部信號活動」用於組織和協調不同的流程，這些流程是同一客戶歷程中不同工作流程的一部分。 它允許從另一個工作流程開始，以支援更複雜的客戶歷程，同時更能監控和回應問題。
-feature: 外部訊號活動
+description: 「瞭解如何從另一個工作流程開始，以支援更複雜的客戶歷程，同時更能監控和回應問題。」
+feature: 執行活動
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 17%
+source-wordcount: '306'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL External Signal activity ]-使用參數呼叫工作流程
 
