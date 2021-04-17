@@ -1,21 +1,23 @@
 ---
 title: 電子郵件設計工具快速入門
-description: 本影片說明電子郵件設計工具的一般功能，以及如何從草稿開始設計電子郵件。
-feature: Email Designer
+description: 瞭解電子郵件設計人員的一般功能，以及如何從頭設計電子郵件。
+feature: 電子郵件設計
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
-
 
 # 開始使用 [!UICONTROL Email Designer]
 
