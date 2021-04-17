@@ -1,21 +1,23 @@
 ---
 title: 建立直接郵件
-description: 直效郵件仍是全球行銷人員的重要通道，他們現在可以與線上互動一起策劃這些離線互動。 推動數位通訊的引擎（例如電子郵件和行動裝置）現在也可以個人化直效郵件者。
-feature: direct mail
+description: 瞭解如何建立直效郵件。
+feature: 直接郵件
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
-
 
 # 建立[!UICONTROL Direct Mail] {#create-a-direct-mail}
 
