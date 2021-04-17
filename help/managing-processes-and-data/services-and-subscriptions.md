@@ -1,25 +1,27 @@
 ---
 title: 管理服務與訂閱
-description: Adobe Campaign可讓您透過一組服務來建立和管理電子報和跨通道通訊。 此影片將示範如何在Adobe Campaign Standard(ACS)中建立服務並管理其訂閱。
-feature: Subscriptions and Services
+description: 瞭解如何建立服務及管理訂閱。
+feature: 訂閱
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 31%
+source-wordcount: '155'
+ht-degree: 36%
 
 ---
 
-
 # 管理服務與訂閱{#managing-services-and-subscriptions}
 
-Adobe Campaign可讓您透過一組服務來建立和管理電子報和跨通道通訊。訊息只能傳送給訂閱服務（選擇加入）的設定檔。 建立訊息時，會使用專用篩選器來識別這些設定檔。
+Adobe Campaign可讓您透過一套服務來建立和管理電子報和跨通道通訊。訊息只能傳送給訂閱服務（選擇加入）的設定檔。 建立訊息時，會使用專用篩選器來識別這些設定檔。
 
 您可以設定訂閱機制，讓客戶有機會訂閱這些服務，尤其是透過電子郵件及登錄頁面訂閱的客戶。
 
