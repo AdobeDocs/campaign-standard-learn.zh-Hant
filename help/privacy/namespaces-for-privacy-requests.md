@@ -2,20 +2,19 @@
 title: 在 Adobe Campaign Standard (ACS) 中建立隱私權要求的命名空間
 description: GDPR 或 CCPA 要求能夠建立隱私權存取和刪除要求的先決條件，是用於識別 Adobe Campaign 資料庫中資料主體的命名空間定義。此影片說明如何建立隱私權要求的命名空間。
 feature: GDPR, CCPA
-topic: null
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
+translation-type: tm+mt
+source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
 ---
-
 
 # 建立隱私權要求的命名空間
 
