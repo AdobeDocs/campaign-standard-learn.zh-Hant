@@ -1,36 +1,38 @@
 ---
 title: 觀眾目標——概觀
-description: 在Adobe Campaign Standard(ACS)中運用Adobe Experience Platform(AEP)Audiences
-feature: Audience Destinations
+description: 瞭解如何運用Adobe Campaign Standard(ACS)的Adobe Experience Platform(AEP)觀眾
+feature: 人員核心服務整合
 topics: ACOP
 kt: 2755
 thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 10%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
 
-
 # [!UICONTROL Audience Destinations] （測試版）-概觀
 
-## 在Adobe Campaign Standard中運用Adobe Experience Platform觀眾
+## 在Adobe Campaign Standard運用Adobe Experience Platform觀眾
 
 >[!NOTE]
 >
->此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
+>此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基於Adobe Experience Platform，需要特定配置。
 >
 >如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
 
-本教學課程說明如何在Adobe Campaign Standard中，將Adobe Experience Platform的集中化和整合的個人檔案資料運用於行銷宣傳。
+本教學課程說明如何將Adobe Experience Platform的集中式和整合式個人檔案資料運用在Adobe Campaign Standard的行銷宣傳中。
 
-Adobe Campaign Standard中的[!UICONTROL Audiences]模組可讓您使用[Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html)中的資料建立區段，該資料位於[即時客戶個人檔案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中。
+Adobe Campaign Standard的[!UICONTROL Audiences]模組允許您使用[即時客戶概要檔案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中[Adobe Experience Platform-資料服務](https://www.adobe.io/apis/experienceplatform/home/services.html)中的資料建立段。
 
 下列教學課程影片將引導您完成不同的步驟：
 
@@ -41,4 +43,3 @@ Adobe Campaign Standard中的[!UICONTROL Audiences]模組可讓您使用[Adobe E
 ## 其他資源
 
 *[瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-
