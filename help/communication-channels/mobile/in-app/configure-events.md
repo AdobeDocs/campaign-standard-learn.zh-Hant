@@ -1,21 +1,23 @@
 ---
 title: 設定事件
-description: '在Adobe Campaign Standard(ACS)事件中設定應用程式內訊息時，定義使用者啟動的動作會觸發要顯示的訊息。 '
-feature: In-App
+description: 「瞭解事件如何定義使用者啟動的動作，以觸發應用程式內訊息的顯示。 」
+feature: 應用程式中
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '215'
 ht-degree: 2%
 
 ---
-
 
 # 配置[!UICONTROL Events] {#configuring-events}
 
@@ -32,7 +34,7 @@ ht-degree: 2%
 * 購物車放棄
 * 客戶已購買
 
-您必須在Adobe Campaign中設定這些[!UICONTROL events]。 以下影片說明如何執行此動作。
+您必須在Adobe Campaign配置這些[!UICONTROL events]。 以下影片說明如何執行此動作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
 
@@ -60,7 +62,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要Adobe Analytics授權。在您設定[[!DNL Analytics] 擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch)並將[Analytics新增至您的App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)後，這些事件就會在ACS的[!UICONTROL In-App]設定中提供。
+>[!UICONTROL Analytics events] 需要取得Adobe Analytics執照。在您設定[[!DNL Analytics] 擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch)並將[Analytics新增至您的App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)後，這些事件就會在ACS的[!UICONTROL In-App]設定中提供。
 
 ## 其他資源
 
