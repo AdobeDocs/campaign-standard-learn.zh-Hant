@@ -1,21 +1,23 @@
 ---
 title: 使用外部 API 活動設定並執行工作流程
-description: 「外部 API 活動」屬於「資料管理活動」。您可以使用「外部 API 活動」呼叫外部 REST API 端點。此活動的目的是將第三方系統的個人化資料匯入您的行銷活動。
-feature: External API activity
+description: 瞭解您要呼叫外部REST API端點，將第三方系統的個人化資料拉入您的促銷活動。
+feature: 資料管理活動
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # 使用 [!UICONTROL External API activity] 設定並執行工作流程
 
@@ -32,7 +34,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48 分鐘)*
+*[!UICONTROL External API activity](06:48 分鐘)*
 
 >[!NOTE]
 >
@@ -41,4 +43,3 @@ ht-degree: 100%
 ## 其他資源：
 
 * [外部 API (文件)](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-
