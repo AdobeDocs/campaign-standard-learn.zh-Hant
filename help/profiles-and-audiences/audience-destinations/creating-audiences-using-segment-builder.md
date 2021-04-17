@@ -1,39 +1,41 @@
 ---
 title: 使用「統一的區段建立器」建立新的閱聽眾
-description: null
-feature: Audience Destinations
+feature: 人員核心服務整合
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: ce52a988-5072-401b-9a8b-112e42504022
+description: 瞭解如何使用「統一區段產生器」建立新的觀眾。
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 9%
+source-wordcount: '241'
+ht-degree: 8%
 
 ---
-
 
 # 使用「統一的區段建立器」建立新的閱聽眾
 
 >[!NOTE]
 >
->此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 以Adobe Experience Platform為基礎，需要特定組態。
+>此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基於Adobe Experience Platform，需要特定配置。
 >
 >如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-Adobe Campaign Standard可讓您使用Adobe Experience Platform [即時客戶個人檔案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中的資料來建立觀眾。[!UICONTROL Unified Segment Builder]
+Adobe Campaign Standard允許您使用Adobe Experience Cloud的[即時客戶資料](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)資料，使用Adobe Experience Platform的[!UICONTROL Unified Segment Builder]來建立觀眾。
 
-您可以透過[!UICONTROL Audiences ]模組直接在Adobe Campaign Standard中存取[!UICONTROL Unified Segment Builder]。 這可讓您直接在[!UICONTROL Audiences]清單檢視中管理這些觀眾，您可以直接從Adobe Campaign介面編輯或建立新的Adobe Experience Platform觀眾
+您可以直接通過[!UICONTROL Audiences ]模組訪問Adobe Campaign Standard內的[!UICONTROL Unified Segment Builder]。 這可讓您直接在[!UICONTROL Audiences]清單檢視中管理這些觀眾，您可以直接從Adobe Campaign介面編輯或建立新的Adobe Experience Platform觀眾
 
-以下影片說明如何在Adobe Campaign Standard中使用[!UICONTROL Unified Segment Builder]建立新觀眾。
+以下影片說明如何在Adobe Campaign Standard內使用[!UICONTROL Unified Segment Builder]建立新觀眾。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*如何使用「統一區段產生器」在Adobe Campaign Standard中建立新觀眾（最少02:47）*
+*如何使用「統一區段產生器」在Adobe Campaign Standard建立新觀眾（最少02:47）*
 
 ## 其他資源
 
