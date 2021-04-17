@@ -1,6 +1,6 @@
 ---
 title: 建立電子郵件傳遞
-description: '您可以從促銷活動、Adobe Campaign 首頁或行銷活動清單中建立電子郵件。您也可以從工作流程建立單一傳送和循環寄送的電子郵件。此影片說明如何從首頁建立電子郵件傳遞。 '
+description: '瞭解如何從首頁建立電子郵件傳送。 '
 landing-page-description: 此影片說明如何從首頁建立電子郵件傳遞。
 feature: 電子郵件
 topics: null
@@ -9,14 +9,16 @@ thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 36%
 
 ---
-
 
 # 建立電子郵件傳遞 {#create-an-email-delivery}
 
