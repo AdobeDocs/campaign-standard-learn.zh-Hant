@@ -1,21 +1,23 @@
 ---
 title: 設定檔替代──使用目標設定檔測試電子郵件訊息
-description: 此影片說明如何使用設定檔替代功能來測試您的電子郵件訊息。
-feature: Email
+description: 瞭解如何使用描述檔替代功能來測試您的電子郵件訊息。
+feature: '電子郵件  '
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '177'
+ht-degree: 92%
 
 ---
-
 
 # [!UICONTROL Profile Substitution] - 使用目標設定檔測試電子郵件訊息
 
