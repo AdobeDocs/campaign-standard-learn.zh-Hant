@@ -1,23 +1,25 @@
 ---
 title: 在工作流程建立應用程式內傳遞
 seo-title: 在工作流程中建立應用程式內傳送
-description: 應用程式內傳送活動通常用來自動傳送應用程式內訊息給在相同工作流程中計算的目標對象。
+description: 「瞭解如何使用應用程式內傳送活動，將應用程式內訊息自動傳送至工作流程中計算的目標對象。」
 seo-description: 應用程式內傳送活動通常用來自動傳送應用程式內訊息給在相同工作流程中計算的目標對象。
-feature: In-App
+feature: 應用程式中
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 18%
+source-wordcount: '206'
+ht-degree: 17%
 
 ---
-
 
 # 在工作流程中建立[!UICONTROL In-App]傳送
 
