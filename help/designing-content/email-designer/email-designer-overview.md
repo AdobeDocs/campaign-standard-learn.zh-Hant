@@ -1,21 +1,23 @@
 ---
 title: 電子郵件設計工具概觀
-description: 本影片說明電子郵件設計工具的一般功能，以及如何從草稿開始設計電子郵件。本頁列出 Adobe Campaign 電子郵件設計工具的所有可用功能的影片
-feature: Email Designer
+description: 瞭解電子郵件設計人員的一般功能，以及如何從頭設計電子郵件。
+feature: 電子郵件設計
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 85%
 
 ---
-
 
 # [!UICONTROL Email Designer] 概觀
 
