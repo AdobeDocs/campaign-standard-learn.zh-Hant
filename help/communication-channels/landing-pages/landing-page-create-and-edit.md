@@ -1,25 +1,27 @@
 ---
 title: 建立及編輯登陸頁面
-description: Adobe Campaign隨附著著陸頁面，這些是線上表單，可用來擷取受眾的資訊、提供服務訂閱、顯示資料以及擴充資料庫。 著陸頁面也可用於取得或更新現有的描述檔。 這些影片說明如何在Adobe Campaign Standard中建立、編輯和測試著陸頁面。
-feature: Landing Pages
+description: 「瞭解如何在Adobe Campaign Standard建立、編輯和測試著陸頁面。」
+feature: 登錄頁面
 topics: null
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: '89'
+ht-degree: 17%
 
 ---
 
-
 # 建立及編輯登陸頁面 {#create-and-edit-a-landing-page}
 
-Adobe Campaign可讓您建立線上表單的登陸頁面，這些表單可用來擷取受眾的資訊、提供服務訂閱、顯示資料以及擴充資料庫。 著陸頁面也可用於取得或更新現有的描述檔。
+Adobe Campaign可讓您建立登陸頁面，這些登陸頁面是線上表單，可用來擷取受眾的資訊、提供服務訂閱、顯示資料，以及擴充資料庫。 著陸頁面也可用於取得或更新現有的描述檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
 
