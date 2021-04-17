@@ -1,25 +1,27 @@
 ---
 title: 檢視電子郵件傳遞和報告
-description: 此影片說明如何檢閱個人化的電子郵件傳送，並探索Adobe Campaign Standard(ACS)中提供的不同報表。
-feature: Reporting
+description: 瞭解如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard提供的不同報表。
+feature: 報告
 topics: null
 kt: 3904
 thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
+exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 21%
+source-wordcount: '81'
+ht-degree: 23%
 
 ---
 
-
 # 檢視電子郵件傳遞和報告
 
-此影片說明如何檢閱個人化的電子郵件傳送，並探索Adobe Campaign Standard中提供的不同報表。
+此視訊說明如何檢閱個人化的電子郵件傳送，並探索在Adobe Campaign Standard提供的不同報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
