@@ -1,21 +1,23 @@
 ---
 title: 建立工作流程
-description: 此影片將示範如何在Adobe Campaign Standard中建立和編輯工作流程。
-feature: workflows
+description: 瞭解如何建立和編輯工作流程。
+feature: 工作流程
 topics: null
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
+role: Business Practitioner, Developer, Administrator
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '86'
+ht-degree: 10%
 
 ---
-
 
 # 建立工作流程 {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
@@ -26,7 +28,7 @@ ht-degree: 8%
 * 將資料匯入促銷活動資料庫
 * 技術流程，例如資料庫清理、追蹤資訊的復原等。
 
-此影片將示範如何在Adobe Campaign Standard中建立和編輯工作流程。
+此影片將示範如何在Adobe Campaign Standard建立和編輯工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
