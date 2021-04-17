@@ -1,21 +1,23 @@
 ---
 title: 使用現有的內容
 description: 此影片說明如何快速從網站擷取您的創意內容並載入電子郵件設計人員。
-feature: Email Designer
+feature: 電子郵件設計
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---
-
 
 # 使用現有的內容{#working-with-existing-content}
 
@@ -27,7 +29,7 @@ ht-degree: 7%
 
 ## 使現有HTML內容相容{#making-existing-html-content-compatible}
 
-電子郵件設計人員需要特定的標籤，這些標籤必須套用，才能讓標準HTML內容上傳至Adobe Campaign時完全相容且可編輯。
+電子郵件設計人員需要特定的標籤功能，必須套用這些標籤才能讓標準HTML內容上傳至Adobe Campaign完全相容且可編輯。
 
 您可在下列連結下找到詳細的檔案：
 
