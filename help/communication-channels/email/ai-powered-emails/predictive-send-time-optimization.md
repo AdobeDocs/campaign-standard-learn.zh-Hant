@@ -1,21 +1,23 @@
 ---
 title: 預測性傳送時間最佳化
 description: 瞭解在 Adobe Campaign 和 Journey AI 模型之間同步資料所需的工作流程。瞭解如何在個別設定檔層級檢視傳送時間分數，以及如何使用傳送時間公式執行電子郵件傳遞。
-feature: predictive send time
+feature: 傳送時間最佳化
 topics: null
 kt: 6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
+exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
+role: Business Practitoner, Developer, Administrator
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 98%
 
 ---
-
 
 # 預測性傳送時間最佳化
 
