@@ -1,20 +1,22 @@
 ---
 title: 使用 Adobe Dreamweaver 建立內容
-description: 影片說明如何啟用 Dreamweaver 整合，以及如何使用 Dreamweaver 建立和編輯用於 Adobe Campaign Standard 的內容。
-feature: Email Designer
+description: 瞭解啟用Dreamweaver整合所需的內容，以及如何使用Dreamweaver為Adobe Campaign Standard建立和編輯內容。
+feature: 電子郵件設計
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
-
 
 # 使用 Adobe Dreamweaver 建立內容
 
