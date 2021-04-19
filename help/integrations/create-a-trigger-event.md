@@ -6,18 +6,18 @@ topics: Integrations
 kt: 7470
 thumbnail: 332625.jpg
 doc-type: feature video
-role: administrator
-level: advanced
+role: Administrator
+level: Experienced
 activity: set-up
 team: TM
+exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
 translation-type: tm+mt
-source-git-commit: 344a49d45cda7e3a44599a3057e0cffc277b1baf
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
 
 ---
-
 
 # 在Campaign Standard中建立觸發器
 
