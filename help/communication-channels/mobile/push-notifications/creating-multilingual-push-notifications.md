@@ -1,7 +1,7 @@
 ---
 title: 建立多語言推播通知
 description: '瞭解如何建立多語言推播通知。 '
-feature: 推播
+feature: Push
 topics: Mobile
 kt: 1375
 thumbnail: 23304.jpg

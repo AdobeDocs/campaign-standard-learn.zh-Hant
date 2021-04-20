@@ -1,7 +1,7 @@
 ---
 title: 透過工作流程建立並傳送電子郵件
 description: '瞭解如何從首頁建立一次性電子郵件傳送。 '
-feature: 電子郵件
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

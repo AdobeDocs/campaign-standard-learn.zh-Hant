@@ -1,7 +1,7 @@
 ---
 title: 建立測試設定檔
 description: 瞭解如何定位不符合定義之定位准則的收件者，以偵測任何詐用您的收件者資料庫，或確保電子郵件送達收件匣。
-feature: 測試設定檔
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

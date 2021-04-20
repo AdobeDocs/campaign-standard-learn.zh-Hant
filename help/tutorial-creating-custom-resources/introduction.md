@@ -1,7 +1,7 @@
 ---
 title: 建立自訂資源 – 簡介
 description: Adobe Campaign Standard 提供擴充資源或建立全新資源的功能。這個多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
-feature: 自訂資源
+feature: Custom Resources
 topics: null
 kt: 2999
 thumbnail: 27715.jpg

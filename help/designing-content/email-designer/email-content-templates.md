@@ -1,7 +1,7 @@
 ---
 title: 電子郵件內容範本簡介
 description: 瞭解如何建立電子郵件內容範本。
-feature: 電子郵件設計
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

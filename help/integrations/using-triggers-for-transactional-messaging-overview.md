@@ -1,7 +1,7 @@
 ---
 title: 使用事務性消息傳遞的觸發器——概述
 description: 瞭解如何設定和使用交易式訊息觸發器。
-feature: 觸發器
+feature: Triggers
 topics: Integrations
 kt: 6525
 doc-type: article

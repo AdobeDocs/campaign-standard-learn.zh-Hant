@@ -1,7 +1,7 @@
 ---
 title: 測試並發佈登陸頁面
 description: 瞭解如何測試在Adobe Campaign Standard建立的登陸頁面，以及如何發佈。
-feature: 登錄頁面
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

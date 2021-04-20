@@ -1,7 +1,7 @@
 ---
 title: 在電子郵件設計器中設定行動裝置檢視
 description: 「瞭解如何透過個別編輯行動顯示的所有樣式選項來微調電子郵件的互動式設計。」
-feature: 電子郵件設計
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

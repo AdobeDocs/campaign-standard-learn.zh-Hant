@@ -1,7 +1,7 @@
 ---
 title: 預覽您的電子郵件和反垃圾郵件分析
 description: 「瞭解如何預覽電子郵件和反垃圾郵件分析。」
-feature: 電子郵件設計
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

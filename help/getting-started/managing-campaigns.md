@@ -1,7 +1,7 @@
 ---
 title: 管理行銷活動
 description: 瞭解如何建立和管理促銷活動。
-feature: '行銷活動 '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

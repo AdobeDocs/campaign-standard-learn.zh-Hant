@@ -1,7 +1,7 @@
 ---
 title: 在交易式電子郵件設定產品清單
 description: 瞭解在交易電子郵件中設定產品清單時需要執行哪些步驟。
-feature: 交易式訊息、電子郵件
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

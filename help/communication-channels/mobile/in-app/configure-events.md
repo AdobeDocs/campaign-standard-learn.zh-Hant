@@ -1,7 +1,7 @@
 ---
 title: 設定事件
 description: 「瞭解事件如何定義使用者啟動的動作，以觸發應用程式內訊息的顯示。 」
-feature: 應用程式中
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

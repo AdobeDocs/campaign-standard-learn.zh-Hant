@@ -1,7 +1,7 @@
 ---
 title: 使用 Adobe Dreamweaver 建立內容
 description: 瞭解啟用Dreamweaver整合所需的內容，以及如何使用Dreamweaver為Adobe Campaign Standard建立和編輯內容。
-feature: 電子郵件設計
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video

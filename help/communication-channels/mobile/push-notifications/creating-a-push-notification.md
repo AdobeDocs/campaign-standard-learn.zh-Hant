@@ -1,7 +1,7 @@
 ---
 title: 自訂推播通知
 description: '瞭解如何建立推播通知。 '
-feature: 推播
+feature: Push
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg

@@ -1,7 +1,7 @@
 ---
 title: 設定清單
 description: 「瞭解如何在Adobe Campaign Standard變更顯示的欄、順序和清單檢視的排序順序。  」
-feature: 概覽
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

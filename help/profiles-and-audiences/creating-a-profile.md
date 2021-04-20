@@ -1,7 +1,7 @@
 ---
 title: '建立設定檔 '
 description: 瞭解如何建立個人檔案以及如何將其新增至觀眾。
-feature: 個人檔案、觀眾
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: 監控資料庫
 description: 瞭解如何監控執行個體的資料庫使用情況。
-feature: 資料庫監控
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

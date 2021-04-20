@@ -2,7 +2,7 @@
 title: 追蹤您在Adobe Analytics的送貨成功
 description: 瞭解如何設定Campaign Standard與分析整合。 瞭解如何使用從Campaign Standard收到的資料以及哪些KPI可用，在Analytics中建立報表。
 product: adobe analytics, campaign
-feature: 應用程式設定
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

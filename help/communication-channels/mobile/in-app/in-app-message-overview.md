@@ -1,7 +1,7 @@
 ---
 title: 應用程式內訊息簡介
 description: 「瞭解如何針對客戶在行動應用程式中的即時行為，向使用者呈現與情境相關的應用程式內訊息。」
-feature: 應用程式中
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

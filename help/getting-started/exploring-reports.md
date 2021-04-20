@@ -1,7 +1,7 @@
 ---
 title: 探索報告
 description: 瞭解電子郵件傳送的可用不同報表。
-feature: 報告
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

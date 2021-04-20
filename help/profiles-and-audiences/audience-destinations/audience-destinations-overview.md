@@ -1,7 +1,7 @@
 ---
 title: 觀眾目標——概觀
 description: 瞭解如何運用Adobe Campaign Standard(ACS)的Adobe Experience Platform(AEP)觀眾
-feature: 人員核心服務整合
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

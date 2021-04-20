@@ -1,7 +1,7 @@
 ---
 title: 電子郵件設計工具快速入門
 description: 瞭解電子郵件設計人員的一般功能，以及如何從頭設計電子郵件。
-feature: 電子郵件設計
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

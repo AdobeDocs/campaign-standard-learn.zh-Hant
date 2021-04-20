@@ -1,7 +1,7 @@
 ---
 title: 在工作流程啟動 Adobe Experience Platform 閱聽眾
 description: 此影片說明如何使用「讀取對象」活動，在工作流程中啟用「資料服務查詢對象」。
-feature: 人員核心服務整合
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

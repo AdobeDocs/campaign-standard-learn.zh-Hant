@@ -1,7 +1,7 @@
 ---
 title: 根據其 Campaign 設定檔定位使用者
 description: 瞭解如何以CRM設定檔屬性個人化的訊息鎖定已知的行動應用程式使用者。
-feature: 應用程式中
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

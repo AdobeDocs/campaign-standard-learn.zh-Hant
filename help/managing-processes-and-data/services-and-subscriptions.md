@@ -1,7 +1,7 @@
 ---
 title: 管理服務與訂閱
 description: 瞭解如何建立服務及管理訂閱。
-feature: 訂閱
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

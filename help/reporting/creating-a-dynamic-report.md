@@ -1,7 +1,7 @@
 ---
 title: 建立動態報表
 description: 了解如何建立報表。
-feature: 報告
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

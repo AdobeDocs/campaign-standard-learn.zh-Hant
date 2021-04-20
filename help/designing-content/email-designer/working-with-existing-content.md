@@ -1,7 +1,7 @@
 ---
 title: 使用現有的內容
 description: 此影片說明如何快速從網站擷取您的創意內容並載入電子郵件設計人員。
-feature: 電子郵件設計
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

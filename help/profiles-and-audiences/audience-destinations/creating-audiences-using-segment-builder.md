@@ -1,6 +1,6 @@
 ---
 title: 使用「統一的區段建立器」建立新的閱聽眾
-feature: 人員核心服務整合
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

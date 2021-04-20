@@ -1,7 +1,7 @@
 ---
 title: 瞭解Adobe Campaign Standard的個人檔案和受眾
 description: 瞭解描述檔和受眾的概念，並瞭解如何建立描述檔和受眾。
-feature: 個人檔案、觀眾
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

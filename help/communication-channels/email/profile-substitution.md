@@ -1,7 +1,7 @@
 ---
 title: 設定檔替代──使用目標設定檔測試電子郵件訊息
 description: 瞭解如何使用描述檔替代功能來測試您的電子郵件訊息。
-feature: '電子郵件  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

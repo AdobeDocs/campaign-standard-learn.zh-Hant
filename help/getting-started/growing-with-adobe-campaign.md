@@ -1,7 +1,7 @@
 ---
 title: 與 Adobe Campaign 一同成長
 description: 瞭解真正跨通道協調的潛在後續步驟。
-feature: 跨通道協調
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

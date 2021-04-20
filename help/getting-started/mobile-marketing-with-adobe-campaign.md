@@ -1,7 +1,7 @@
 ---
 title: 使用 Adobe Campaign 進行行動行銷
 description: 瞭解哪些Adobe Campaign Standard功能可支援您的行動行銷策略。
-feature: 簡訊、推播、應用程式內
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg

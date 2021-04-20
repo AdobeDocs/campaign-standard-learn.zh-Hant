@@ -2,7 +2,7 @@
 title: Adobe Campaign Standard (ACS) 的隱私權請求 - 概覽
 description: 本教學課程說明如何透過 Adobe Campaign Standard (ACS) 介面建立隱私權請求。
 feature: GDPR, CCAP
-topic: 隱私權
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

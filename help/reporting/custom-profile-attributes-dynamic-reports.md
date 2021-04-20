@@ -1,7 +1,7 @@
 ---
 title: 建立以報表為基礎的自訂描述檔屬性
 description: 瞭解如何根據自訂描述檔屬性建立報表。
-feature: 報告
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

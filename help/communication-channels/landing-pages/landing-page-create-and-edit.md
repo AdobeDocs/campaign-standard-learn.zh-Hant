@@ -1,7 +1,7 @@
 ---
 title: 建立及編輯登陸頁面
 description: 「瞭解如何在Adobe Campaign Standard建立、編輯和測試著陸頁面。」
-feature: 登錄頁面
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

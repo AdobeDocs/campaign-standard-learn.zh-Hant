@@ -1,7 +1,7 @@
 ---
 title: 傳送測試、準備及傳送電子郵件
 description: 「瞭解如何傳送測試電子郵件、準備並傳送電子郵件。 」
-feature: '電子郵件  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

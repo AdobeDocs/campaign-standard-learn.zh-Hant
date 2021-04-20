@@ -1,7 +1,7 @@
 ---
 title: 使用外部 API 活動設定並執行工作流程
 description: 瞭解您要呼叫外部REST API端點，將第三方系統的個人化資料拉入您的促銷活動。
-feature: 資料管理活動
+feature: Data Management Activity
 topics: null
 kt: 2764
 thumbnail: 28200.jpg

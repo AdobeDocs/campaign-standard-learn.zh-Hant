@@ -1,7 +1,7 @@
 ---
 title: 建立多語言電子郵件或簡訊傳送
 description: '瞭解如何簡化傳送多語言宣傳的複雜作業。 '
-feature: 電子郵件、簡訊
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

@@ -1,7 +1,7 @@
 ---
 title: 設定登陸頁面範本
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: 登錄頁面
+feature: Landing Pages
 topics: null
 kt: 1817
 thumbnail: 25200.jpg

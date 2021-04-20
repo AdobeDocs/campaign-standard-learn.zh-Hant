@@ -2,7 +2,7 @@
 title: 建立電子郵件傳遞
 description: '瞭解如何從首頁建立電子郵件傳送。 '
 landing-page-description: 此影片說明如何從首頁建立電子郵件傳遞。
-feature: 電子郵件
+feature: Email
 topics: null
 kt: 1807
 thumbnail: 23721.jpg

@@ -1,7 +1,7 @@
 ---
 title: 將現有的電子郵件、SMS 傳遞或範本轉換為多語言版本
 description: 「瞭解如何將現有的電子郵件、簡訊傳送或傳送範本轉換為多語言版本。」
-feature: 電子郵件、簡訊
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

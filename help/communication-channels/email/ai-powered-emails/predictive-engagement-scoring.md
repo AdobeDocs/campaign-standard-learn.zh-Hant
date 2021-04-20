@@ -1,7 +1,7 @@
 ---
 title: 預測性參與計分
 description: 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
-feature: 預測性參與計分
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

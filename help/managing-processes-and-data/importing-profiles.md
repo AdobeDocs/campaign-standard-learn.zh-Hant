@@ -1,7 +1,7 @@
 ---
 title: 使用工作流程匯入設定檔
 description: 瞭解如何使用工作流程匯入描述檔資料。
-feature: 資料管理
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

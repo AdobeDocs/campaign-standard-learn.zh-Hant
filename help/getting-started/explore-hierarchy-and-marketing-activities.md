@@ -1,7 +1,7 @@
 ---
 title: 探索階層與行銷活動
 description: 「瞭解方案和促銷活動的階層、如何建立行銷方案，以及如何在方案中建立行銷活動。」
-feature: 促銷活動、方案
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

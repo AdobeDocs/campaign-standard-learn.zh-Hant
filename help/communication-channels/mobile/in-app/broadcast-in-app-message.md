@@ -1,7 +1,7 @@
 ---
 title: '"廣播應用程式內訊息 "'
 description: 瞭解Broadcast範本如何讓您鎖定行動應用程式的所有使用者。
-feature: 應用程式中
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

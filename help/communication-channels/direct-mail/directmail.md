@@ -1,7 +1,7 @@
 ---
 title: 建立直接郵件
 description: 瞭解如何建立直效郵件。
-feature: 直接郵件
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

@@ -1,7 +1,7 @@
 ---
 title: 根據工作流程細分建立報告
 description: 「報告工作流程區段」提供在動態報告中新增工作流程區段代碼的功能。
-feature: 報告
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

@@ -3,7 +3,7 @@ title: 在工作流程建立應用程式內傳遞
 seo-title: 在工作流程中建立應用程式內傳送
 description: 「瞭解如何使用應用程式內傳送活動，將應用程式內訊息自動傳送至工作流程中計算的目標對象。」
 seo-description: 應用程式內傳送活動通常用來自動傳送應用程式內訊息給在相同工作流程中計算的目標對象。
-feature: 應用程式中
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg

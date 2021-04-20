@@ -1,7 +1,7 @@
 ---
 title: A/B 測試
 description: 「瞭解如何設定和傳送A/B測試，以測試主旨行。 」
-feature: 'A/B 測試  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

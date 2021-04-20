@@ -1,7 +1,7 @@
 ---
 title: 建立設定檔和閱聽眾 – 概觀
 description: 瞭解如何導覽至現有的設定檔，以及如何建立設定檔和觀眾。
-feature: 個人檔案、觀眾
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

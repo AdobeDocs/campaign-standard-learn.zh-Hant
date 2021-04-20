@@ -1,7 +1,7 @@
 ---
 title: 檢視電子郵件傳遞和報告
 description: 瞭解如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard提供的不同報表。
-feature: 報告
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg
