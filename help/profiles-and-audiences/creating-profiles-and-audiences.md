@@ -1,8 +1,7 @@
 ---
 title: 建立設定檔和閱聽眾 – 概觀
 description: 瞭解如何導覽至現有的設定檔，以及如何建立設定檔和觀眾。
-feature: Profiles, Audiences
-topics: null
+feature: 個人檔案、觀眾
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 16%
