@@ -1,16 +1,16 @@
 ---
 title: 第 2 步 – 整合行動 SDK
 description: 在本部分，我們將整合Android應用程式與Mobile SDK。 將行動SDK與Android應用程式整合
-feature: Push
-topics: Mobile
+feature: 推播
 kt: 4826
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---
