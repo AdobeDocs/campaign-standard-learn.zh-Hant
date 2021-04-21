@@ -1,8 +1,7 @@
 ---
 title: 外部信號活動——使用參數調用工作流
-description: 「瞭解如何從另一個工作流程開始，以支援更複雜的客戶歷程，同時更能監控和回應問題。」
-feature: Execution Activity
-topics: Workflows
+description: 瞭解如何從另一個工作流程開始，以支援更複雜的客戶歷程，同時更能監控和回應問題。
+feature: 執行活動
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 9%
