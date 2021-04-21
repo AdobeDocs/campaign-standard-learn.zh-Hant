@@ -1,8 +1,7 @@
 ---
 title: 應用程式內訊息簡介
-description: 「瞭解如何針對客戶在行動應用程式中的即時行為，向使用者呈現與情境相關的應用程式內訊息。」
-feature: In App
-topics: Mobile
+description: 瞭解如何針對客戶在行動應用程式中的即時行為，向使用者呈現與情境相關的應用程式內訊息。
+feature: 應用程式中
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 12%
