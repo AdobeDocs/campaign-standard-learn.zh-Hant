@@ -1,8 +1,7 @@
 ---
 title: 建立工作流程
 description: 瞭解如何建立和編輯工作流程。
-feature: Workflows
-topics: null
+feature: 工作流程
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 10%
