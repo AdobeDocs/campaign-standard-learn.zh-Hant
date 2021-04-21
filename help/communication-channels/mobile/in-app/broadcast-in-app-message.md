@@ -1,8 +1,7 @@
 ---
 title: '"廣播應用程式內訊息 "'
 description: 瞭解Broadcast範本如何讓您鎖定行動應用程式的所有使用者。
-feature: In App
-topics: Mobile
+feature: 應用程式中
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 7%
