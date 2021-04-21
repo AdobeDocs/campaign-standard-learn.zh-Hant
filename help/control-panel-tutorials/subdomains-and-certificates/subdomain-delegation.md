@@ -1,22 +1,20 @@
 ---
 title: 完全子網域委派
 description: Adobe Campaign 控制面板可以讓您將子網域完全委派給 Adobe Campaign。請依照下列步驟以執行此操作。
-feature: Subdomains and certificates
-topics: null
-audience: administrator
+feature: 子網域和憑證
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 97%
 
 ---
-
 
 # 完全子網域委派
 
