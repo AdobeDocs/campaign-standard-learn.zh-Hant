@@ -1,8 +1,7 @@
 ---
 title: 根據其 Campaign 設定檔定位使用者
 description: 瞭解如何以CRM設定檔屬性個人化的訊息鎖定已知的行動應用程式使用者。
-feature: In App
-topics: Channels
+feature: 應用程式中
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 6%
