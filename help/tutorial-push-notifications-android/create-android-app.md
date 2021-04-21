@@ -1,24 +1,23 @@
 ---
 title: 步驟1 —— 建立Android應用程式並設定使用Firebase Cloud訊息
-description: 在本部分，我們將建立從Adobe Campaign Standard傳送的 [!DNL Android] App to receive [!UICONTROL Push notifications] 。 若要接收推播通知，應用程式必須向Google的 [!DNL Firebase Cloud Service]註冊。
-feature: Push
-topics: Mobile
+description: 在本部分，我們將建立從Adobe Campaign Standard發送的 [!DNL Android] App to receive [!UICONTROL Push notifications] 。 若要接收推播通知，應用程式必須向Google的 [!DNL Firebase Cloud Service]註冊。
+feature: 推播
 kt: 4825
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 translation-type: tm+mt
-source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 2%
+source-wordcount: '317'
+ht-degree: 3%
 
 ---
 
-
 # 步驟1 —— 建立[!DNL Android]應用程式並配置為使用[!DNL Firebase Cloud Messaging]
 
-在本部分，您將建立[!DNL Android]應用程式，以接收從Adobe Campaign Standard傳送的[!UICONTROL Push notifications]。 若要接收推播通知，應用程式必須向Google的[!DNL Firebase Cloud Service]註冊。
+在此部分，您將建立[!DNL Android]應用程式以接收從Adobe Campaign Standard發送的[!UICONTROL Push notifications]。 若要接收推播通知，應用程式必須向Google的[!DNL Firebase Cloud Service]註冊。
 
 1. 登入您的[!DNL Firebase]帳戶。
 
@@ -83,4 +82,4 @@ ht-degree: 2%
 
 ![推播頻道設定](assets/push-channel-settings.PNG)
 
-總之，我們建立了[!DNL Android App] ，並將[!DNL Android App]與[!DNL Firebase]連接。 然後，我們將[!DNL Android]應用程式的伺服器金鑰貼入Adobe Campaign Standard的行動應用程式，以[!DNL Android App]連線Adobe Campaign中的行動應用程式。
+總之，我們建立了[!DNL Android App] ，並將[!DNL Android App]與[!DNL Firebase]連接。 然後，我們將[!DNL Android]應用程式的伺服器金鑰貼入Adobe Campaign Standard的行動應用程式，將[!DNL Android App]連線至Adobe Campaign的行動應用程式。
