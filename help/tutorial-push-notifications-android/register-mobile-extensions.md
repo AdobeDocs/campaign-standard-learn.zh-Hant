@@ -1,24 +1,23 @@
 ---
-title: 步驟3 —— 在您的行動應用程式中註冊擴充功能
+title: 步驟 3－在您的行動應用程式中註冊延伸功能
 description: 在本部分，我們將添加代碼來註冊UserProfile、Identity、Lifecycle和Signal擴展。
-feature: Push
-topics: Mobile
+feature: 推播
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
 
+# 步驟 3－在您的行動應用程式中註冊延伸功能
 
-# 步驟3 —— 在您的行動應用程式中註冊擴充功能
-
-在本部分，我們將添加代碼來註冊用戶配置檔案、身份、生命週期和信號擴展。 這些擴充功能是[[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)的一部分。 我們也需要註冊Adobe Campaign Standard擴充功能，如以下程式碼所示。
+在本部分，我們將添加代碼來註冊用戶配置檔案、身份、生命週期和信號擴展。 這些擴充功能是[[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)的一部分。 我們還需要註冊Adobe Campaign Standard分機，如下面的程式碼所示。
 
 在[!DNL Android]工作室中開啟您的專案。 刪除MainApp **中的整個代碼，但第一行是您的package語句**。
 
