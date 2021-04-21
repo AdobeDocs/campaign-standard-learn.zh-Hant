@@ -1,8 +1,7 @@
 ---
 title: 在Campaign Standard中建立觸發器
 description: 瞭解如何在Campaign Standard中建立觸發事件。
-feature: Triggers
-topics: Integrations
+feature: 觸發器
 kt: 7470
 thumbnail: 332625.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ activity: set-up
 team: TM
 exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
 translation-type: tm+mt
-source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
