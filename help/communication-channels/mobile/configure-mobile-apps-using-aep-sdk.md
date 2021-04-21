@@ -1,8 +1,7 @@
 ---
 title: 使用 Adobe Experience Platform SDK 設定行動應用程式
 description: 瞭解如何在Adobe Experience Platform Launch設定行動應用程式，以及如何在Adobe Campaign設定。
-feature: In App, Push, Channel Configuration, Mobile SDK Integration
-topics: null
+feature: 在應用程式中、推播、頻道設定、行動SDK整合
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Administrator
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 15%
