@@ -1,21 +1,20 @@
 ---
 title: 使用資料填入自訂資源
 description: 瞭解如何使用工作流程，從CSV檔案將資料填入自訂資源。
-feature: custom resources
-topics: null
+feature: 自訂資源
 kt: 3003
 thumbnail: 27714.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
 translation-type: tm+mt
-source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # 使用資料填入自訂資源
 
