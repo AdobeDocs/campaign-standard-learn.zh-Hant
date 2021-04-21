@@ -1,8 +1,7 @@
 ---
 title: 預覽您的電子郵件和反垃圾郵件分析
 description: 「瞭解如何預覽電子郵件和反垃圾郵件分析。」
-feature: Email Design
-topics: null
+feature: 電子郵件設計
 kt: 2393
 thumbnail: 25921.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 45c6fc1b-1276-4f21-97f6-1af3929e0514
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 36%
