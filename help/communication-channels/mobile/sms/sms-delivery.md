@@ -2,7 +2,6 @@
 title: 建立 SMS 傳遞
 description: 瞭解如何建立簡訊傳送。
 feature: SMS
-topics: null
 kt: 1819
 thumbnail: 25265.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 11%
