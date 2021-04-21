@@ -1,16 +1,17 @@
 ---
 title: 步驟4 —— 設定密碼符
 description: '**pushIdentifier**是包含推播通知之裝置Token的字串。 這是Firebase所傳送並使用MobileCore.setPushIdentifier方法傳遞至SDK的相同Token。'
-feature: Push
-topics: MOBILE
+feature: 推播
+topic: 行動
 kt: 4828
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
