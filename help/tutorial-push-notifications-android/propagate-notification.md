@@ -1,23 +1,23 @@
 ---
 title: 第 5 步 – 傳播通知
-description: 在本部分，我們將使用Android Notification Manager.Firebase來傳播從Adobe Campaign收到的訊息。
-feature: Push
-topics: Mobile
+description: 在本部分，我們將使用Android Notification Manager來傳播從Adobe Campaign收到的訊息。Firebase
+feature: 推播
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '155'
+ht-degree: 2%
 
 ---
 
 # 新增服務以傳送通知
 
-在本部分，我們將使用[!DNL Android Notification Manager]來傳播從Adobe Campaign收到的訊息。 [!DNL Notification manager] 用於通知用戶發生的事件。這就是您告訴使用者背景發生了什麼：
+在本部分，我們將使用[!DNL Android Notification Manager]傳播從Adobe Campaign收到的消息。 [!DNL Notification manager] 用於通知用戶發生的事件。這就是您告訴使用者背景發生了什麼：
 
 * 啟動[!DNL Android Studio]
 * 開啟&#x200B;*[!DNL ACSPushTutorial]*&#x200B;專案
