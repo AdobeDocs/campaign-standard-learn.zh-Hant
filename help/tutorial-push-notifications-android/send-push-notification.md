@@ -1,24 +1,23 @@
 ---
 title: 第6部分——傳送推播通知以測試您的作品
 description: 第6部分——傳送推播通知以測試您的作品
-feature: Push
-topics: Mobile
+feature: 推播
 kt: 4830
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 2%
+source-wordcount: '139'
+ht-degree: 3%
 
 ---
 
-
 # 第6部分——傳送[!UICONTROL Push Notification]以測試您的作品
 
-我們現在需要使用Adobe Campaign建立並傳送[!UICONTROL Push Notification]。. 若要建立簡單的推播通知以用於測試，請遵循下列步驟。
+我們現在需要使用Adobe Campaign來建立並傳送[!UICONTROL Push Notification]。. 若要建立簡單的推播通知以用於測試，請遵循下列步驟。
 
 * 登入您的Adobe Campaign Standard實例
 * 按一下&#x200B;**[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
