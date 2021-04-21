@@ -1,8 +1,7 @@
 ---
 title: 設定事件
 description: 「瞭解事件如何定義使用者啟動的動作，以觸發應用程式內訊息的顯示。 」
-feature: In App
-topics: Mobile
+feature: 應用程式中
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 2%
