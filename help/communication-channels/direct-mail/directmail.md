@@ -1,8 +1,7 @@
 ---
 title: 建立直接郵件
 description: 瞭解如何建立直效郵件。
-feature: Direct Mail
-topics: null
+feature: 直接郵件
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 1%
