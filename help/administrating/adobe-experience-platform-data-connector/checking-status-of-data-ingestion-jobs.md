@@ -1,22 +1,21 @@
 ---
-title: '檢查資料提取作業的狀態 '
+title: 檢查資料提取作業的狀態
 description: 瞭解如何檢查狀態並修改資料對應。
 feature: Adobe Experience Platform Data Connector
-topics: null
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
-
 
 # 檢查資料提取作業的狀態
 
@@ -26,7 +25,7 @@ ht-degree: 9%
 >
 >如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-瞭解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取到Adobe Experience Platform。
+瞭解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取至Adobe Experience Platform。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
