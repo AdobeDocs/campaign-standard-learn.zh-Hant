@@ -1,8 +1,7 @@
 ---
 title: 使用工作流程匯入設定檔
 description: 瞭解如何使用工作流程匯入描述檔資料。
-feature: Data Management
-topics: null
+feature: 資料管理
 kt: 1818
 thumbnail: 24993.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 13%
