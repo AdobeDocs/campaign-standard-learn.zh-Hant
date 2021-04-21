@@ -1,22 +1,22 @@
 ---
 title: 在Experience Cloud中建立觸發器
 description: 瞭解如何在Experience Cloud中設定觸發器。
-feature: Triggers
-topics: Integrations
+feature: 觸發器
+topic: 整合
 kt: 6524
 thumbnail: 332624.jpg
 doc-type: article
 role: Administrator
 level: Experienced
 team: TM
+exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
 translation-type: tm+mt
-source-git-commit: aef37b14e9b0678dd249f10d6ac0b9d410eeaa7c
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '55'
 ht-degree: 3%
 
 ---
-
 
 # 在Experience Cloud中建立觸發器
 
