@@ -1,8 +1,7 @@
 ---
 title: 報告您的應用程式內傳遞
-description: 「瞭解如何針對客戶在行動應用程式中的即時行為，向使用者呈現與情境相關的應用程式內訊息。」
-feature: In App
-topics: Mobile
+description: 瞭解如何針對客戶在行動應用程式中的即時行為，向使用者呈現與情境相關的應用程式內訊息。
+feature: 應用程式中
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
