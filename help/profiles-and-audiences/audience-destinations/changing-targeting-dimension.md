@@ -1,8 +1,7 @@
 ---
 title: 變更目標維度
 description: 此視訊說明如何在Adobe Campaign Standard的主要描述檔表格外變更平台對象傳送的目標維度。
-feature: People Core Service Integration
-topics: ACOP
+feature: 人員核心服務整合
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 14%
