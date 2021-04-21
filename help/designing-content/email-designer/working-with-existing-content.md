@@ -1,8 +1,7 @@
 ---
 title: 使用現有的內容
 description: 此影片說明如何快速從網站擷取您的創意內容並載入電子郵件設計人員。
-feature: Email Design
-topics: Content Creation
+feature: 電子郵件設計
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 7%
