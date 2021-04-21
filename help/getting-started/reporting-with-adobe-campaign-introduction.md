@@ -1,8 +1,7 @@
 ---
 title: 報告簡介
 description: 瞭解Adobe Campaign Standard的報告功能
-feature: Reporting
-topics: null
+feature: 報告
 kt: 3974
 thumbnail: 29461.jpg
 doc-type: value video
@@ -12,7 +11,7 @@ exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 83%
