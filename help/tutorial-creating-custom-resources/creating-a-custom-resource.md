@@ -1,21 +1,20 @@
 ---
 title: 建立自訂資源
 description: 瞭解如何建立稱為客戶的自訂資源。
-feature: Custom Resources
-topics: null
+feature: 自訂資源
 kt: 3000
 thumbnail: 27716.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 22%
+source-wordcount: '37'
+ht-degree: 27%
 
 ---
-
 
 # 建立自訂資源
 
