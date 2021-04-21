@@ -1,21 +1,21 @@
 ---
 title: 使用事務性消息傳遞的觸發器——概述
 description: 瞭解如何設定和使用交易式訊息觸發器。
-feature: Triggers
-topics: Integrations
+feature: 觸發器
+topic: 整合
 kt: 6525
 doc-type: article
 role: Administrator
 level: Experienced
 team: TM
+exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 translation-type: tm+mt
-source-git-commit: ff12895a1249472434aba794d71ba6f944076f22
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 1%
 
 ---
-
 
 # 使用事務性消息傳遞的觸發器——概述
 
