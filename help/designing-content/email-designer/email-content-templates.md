@@ -1,8 +1,7 @@
 ---
 title: 電子郵件內容範本簡介
 description: 瞭解如何建立電子郵件內容範本。
-feature: Email Design
-topics: null
+feature: 電子郵件設計
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 14%
