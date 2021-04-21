@@ -1,8 +1,7 @@
 ---
 title: 透過工作流程建立並傳送電子郵件
 description: '瞭解如何從首頁建立一次性電子郵件傳送。 '
-feature: Email
-topics: null
+feature: 電子郵件
 kt: 4319
 thumbnail: 31465.jpg
 role: Business Practitioner
@@ -12,7 +11,7 @@ activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 62%
