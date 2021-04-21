@@ -1,22 +1,21 @@
 ---
 title: 新增 SSL 憑證
 description: Adobe Campaign 控制面板可以讓您新增 SSL 憑證，以保護您的子網域。
-feature: Control Panel
-topics: null
+feature: 控制面板
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 52%
+source-wordcount: '196'
+ht-degree: 55%
 
 ---
-
 
 # 新增 SSL 憑證
 
@@ -61,5 +60,5 @@ ht-degree: 52%
 
 ## 其他資源
 
-* [完整子網域委派（視訊）](./subdomain-delegation.md)
+* [完整子網域委派 (影片)](./subdomain-delegation.md)
 * [子網域和憑證──文件](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
