@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '549'
 ht-degree: 93%
 
 ---
@@ -103,6 +103,7 @@ ht-degree: 93%
    + [追蹤您在Adobe Analytics的送貨成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 使用事務性消息{#triggers}的觸發器
       + [概觀](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [設定觸發器的啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在Experience Cloud中建立觸發器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在Campaign Standard中建立觸發事件](/help/integrations/create-a-trigger-event.md)
       + [使用即時事件資料配置事務性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
