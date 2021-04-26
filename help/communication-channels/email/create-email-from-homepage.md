@@ -1,6 +1,6 @@
 ---
 title: 建立電子郵件傳遞
-description: '瞭解如何從首頁建立電子郵件傳送。 '
+description: '了解如何從首頁建立電子郵件傳遞。 '
 landing-page-description: 此影片說明如何從首頁建立電子郵件傳遞。
 feature: '電子郵件 '
 kt: 1807
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 36%
+ht-degree: 45%
 
 ---
 
