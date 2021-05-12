@@ -11,7 +11,7 @@ exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ce167645baa65a7f54b94bf1c1bfd07829c29331
+source-git-commit: ec1917e613aeb220bd83a053bfc71b37ea2b4a6c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 10%
