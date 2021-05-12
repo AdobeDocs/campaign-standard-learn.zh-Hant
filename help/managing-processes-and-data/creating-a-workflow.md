@@ -11,9 +11,9 @@ exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: ce167645baa65a7f54b94bf1c1bfd07829c29331
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 10%
 
 ---
@@ -33,4 +33,4 @@ ht-degree: 10%
 
 ## 其他資源
 
-* [關於工作流程和資料管理](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
