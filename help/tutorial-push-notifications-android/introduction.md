@@ -7,9 +7,8 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -33,9 +32,9 @@ Adobe Campaign 可讓您將個人化和分段的推送通知傳送至 iOS 和 An
 
 ## 教學課程步驟
 
-* [第 1 步 – 建立 Android 應用程式](/help/tutorial-push-notifications-android/create-android-app.md)
-* [第 2 步 – 整合行動 SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
-* [步驟 3－在您的行動應用程式中註冊延伸功能](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [第 4 步 – 設定推播識別碼](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [第 5 步 – 傳播通知](/help/tutorial-push-notifications-android/propagate-notification.md)
-* [步驟 6－推送通知](/help/tutorial-push-notifications-android/send-push-notification.md)
+* [步驟 1 – 建立 Android 應用程式](/help/tutorial-push-notifications-android/create-android-app.md)
+* [步驟 2 – 整合行動裝置 SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [步驟 3－在您的行動應用程式中註冊擴充功能](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
+* [步驟 4 – 設定推播識別碼](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [步驟5 – 傳播通知](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [步驟 6－傳送推播通知](/help/tutorial-push-notifications-android/send-push-notification.md)
