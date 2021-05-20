@@ -10,9 +10,8 @@ team: TM
 exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
