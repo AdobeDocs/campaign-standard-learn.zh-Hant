@@ -8,9 +8,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-translation-type: tm+mt
 source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
