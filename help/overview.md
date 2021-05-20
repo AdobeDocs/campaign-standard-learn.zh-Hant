@@ -3,14 +3,13 @@ title: Adobe Campaign Standard 教學課程 - 概觀
 description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: 概觀
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +19,13 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 新增功能
 
-* **[追蹤您在Adobe Analytics的送貨成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *瞭解如何設定Campaign Standard與分析整合。瞭解如何使用從Campaign Standard接收的資料以及哪些KPI可用，在Analytics中建立報表。*
+   *瞭解如何設定 Campaign Standard 與 Analytics 整合。瞭解如何使用從 Campaign Standard 接收的資料以及可以使用哪些 KPI，在 Analytics 中建立報告。*
 
-* **[使用事務性消息的觸發器](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+* **[使用異動訊息的觸發因子](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
-   *瞭解如何設定和使用交易式訊息觸發器。*
+   *瞭解如何設定和使用異動訊息的觸發因子。*
 
 ## 員工精選
 
@@ -62,7 +61,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
       <img alt="教學課程：Android 推播通知快速入門" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>教學課程：Android 推播通知快速入門</strong>
     </a>
     </div>
