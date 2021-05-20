@@ -1,6 +1,6 @@
 ---
 title: 探索報告
-description: 瞭解電子郵件傳送的可用不同報表。
+description: 瞭解各種可用於電子郵件傳遞的開箱即用型報告。
 feature: 報告
 kt: 3906
 thumbnail: 23021.jpg
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -26,6 +25,6 @@ ht-degree: 72%
 
 ## 其他資源
 
-* [建立動態報表](/help/reporting/creating-a-dynamic-report.md)
+* [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
 * [使用自訂設定檔屬性建立動態報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
 * [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
