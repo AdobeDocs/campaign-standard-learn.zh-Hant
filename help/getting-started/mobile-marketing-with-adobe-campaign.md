@@ -1,6 +1,6 @@
 ---
-title: 使用 Adobe Campaign 進行行動行銷
-description: 瞭解哪些Adobe Campaign Standard功能可支援您的行動行銷策略。
+title: 使用 Adobe Campaign 進行行動裝置行銷
+description: 瞭解哪些 Adobe Campaign Standard 功能可以支援您的行動裝置行銷策略。
 feature: 簡訊、推播、應用程式內
 kt: 3976
 thumbnail: 29468.jpg
@@ -10,11 +10,10 @@ team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: Business Practitioner, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +27,4 @@ ht-degree: 71%
 
 * [使用 Adobe Campaign 的應用程式內傳訊](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
 * [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [SMS 傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
+* [簡訊傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
