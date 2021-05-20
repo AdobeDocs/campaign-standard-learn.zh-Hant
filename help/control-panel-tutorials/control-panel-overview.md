@@ -9,9 +9,8 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
 ht-degree: 100%
 
