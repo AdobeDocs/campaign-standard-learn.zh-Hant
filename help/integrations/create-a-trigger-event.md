@@ -1,7 +1,7 @@
 ---
-title: 在Campaign Standard中建立觸發器
-description: 瞭解如何在Campaign Standard中建立觸發事件。
-feature: 觸發器
+title: 在 Campaign Standard 中建立觸發因子
+description: 瞭解如何在 Campaign Standard 中建立觸發因子事件。
+feature: 觸發因子
 kt: 7470
 thumbnail: 332625.jpg
 doc-type: feature video
@@ -10,16 +10,15 @@ level: Experienced
 activity: set-up
 team: TM
 exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在Campaign Standard中建立觸發器
+# 在 Campaign Standard 中建立觸發因子
 
-瞭解如何在Campaign Standard中建立觸發事件。
+瞭解如何在 Campaign Standard 中建立觸發因子事件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12)
