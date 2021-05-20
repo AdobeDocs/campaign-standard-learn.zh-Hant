@@ -1,7 +1,7 @@
 ---
 title: 設定清單
-description: 瞭解如何在Adobe Campaign Standard更改顯示的列、順序和清單視圖的排序順序。
-feature: 受眾
+description: 瞭解如何在 Adobe Campaign Standard 中變更顯示的欄位、順序和清單檢視排序。
+feature: 閱聽眾
 kt: 1821
 thumbnail: 25288.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: DOC
 exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
