@@ -9,9 +9,8 @@ audience: administrator
 activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
