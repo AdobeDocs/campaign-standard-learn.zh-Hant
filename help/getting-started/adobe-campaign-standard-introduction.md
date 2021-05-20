@@ -10,9 +10,8 @@ team: PMM
 exl-id: 8058722e-27e2-43e2-bf60-e3d99ce90a5d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
 ht-degree: 100%
 
