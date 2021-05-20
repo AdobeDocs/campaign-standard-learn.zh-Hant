@@ -1,7 +1,7 @@
 ---
-title: 報告簡介
-description: 瞭解Adobe Campaign Standard的報告功能
-feature: 報告
+title: 報告功能簡介
+description: 瞭解 Adobe Campaign Standard 的報告功能
+feature: 報告功能
 kt: 3974
 thumbnail: 29461.jpg
 doc-type: value video
@@ -10,11 +10,10 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: Business Practitioner, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -26,6 +25,6 @@ ht-degree: 83%
 
 ## 其他資源：
 
-* [建立動態報表](/help/reporting/creating-a-dynamic-report.md)
-* [使用自訂設定檔屬性建立動態報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+* [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
+* [使用自訂設定檔屬性建立動態報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
 * [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
