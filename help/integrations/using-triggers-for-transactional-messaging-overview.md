@@ -1,7 +1,7 @@
 ---
-title: 使用事務性消息傳遞的觸發器——概述
-description: 瞭解如何設定和使用交易式訊息觸發器。
-feature: 觸發器
+title: 使用異動訊息傳遞的觸發因子 - 概覽
+description: 瞭解如何設定和使用異動訊息傳遞的觸發因子。
+feature: 觸發因子
 topic: 整合
 kt: 6525
 doc-type: article
@@ -9,26 +9,25 @@ role: Administrator
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 使用事務性消息傳遞的觸發器——概述
+# 使用異動訊息傳遞的觸發因子 - 概覽
 
-在下列教學課程中，您將學習如何設定和使用交易訊息的觸發器。
+在下列教學課程中，您將學習如何設定和使用異動訊息傳遞的觸發因子。
 
-在事務性消息中使用觸發器之前，您需要：
+在異動訊息傳遞中使用觸發因子前，您需要：
 
-1. [設定觸發器的啟動](/help/integrations/configure-launch-for-triggers.md)
-2. [在Experience Cloud中建立觸發器](/help/integrations/create-a-trigger-in-experience-cloud.md)
-3. [在Campaign Standard中建立觸發事件](/help/integrations/create-a-trigger-event.md)
+1. [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
+2. [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
+3. [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
 
-在配置觸發器後，它允許您使用即時事件資料](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)配置事務性消息。[
+在設定觸發因子後，您可](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)使用即時事件資料設定異動訊息[。
 
 ## 其他資源
 
-* [關於Adobe Experience Cloud觸發器](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en#integrating-with-adobe-cloud)
+* [關於 Adobe Experience Cloud 觸發因子](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=zh-Hant#integrating-with-adobe-cloud)
