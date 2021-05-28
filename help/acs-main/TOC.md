@@ -8,10 +8,10 @@ tutorials-title: 教學課程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
 workflow-type: tm+mt
 source-wordcount: '558'
-ht-degree: 98%
+ht-degree: 94%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 # Adobe Campaign Standard 教學課程 {#tutorials}
 
 + [概覽](/help/overview.md)
-+ 快速入門 {#getting-started}
++ 開始使用{#getting-started}
    + [Adobe Campaign Standard 簡介](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [開始使用 UI](/help/getting-started/getting-started-with-the-ui.md)
    + [設定清單](/help/getting-started/configure-a-list.md)
@@ -77,7 +77,7 @@ ht-degree: 98%
       + [建立及編輯登陸頁面](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [測試並發佈登陸頁面](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [設定登陸頁面範本](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ 設計及個人化內容 {#designing-content}
++ 設計並個人化內容{#designing-content}
    + 電子郵件設計工具{#email-designer}
       + [概覽](/help/designing-content/email-designer/email-designer-overview.md)
       + [電子郵件設計工具快速入門](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -87,7 +87,7 @@ ht-degree: 98%
       + [使用現有的內容](/help/designing-content/email-designer/working-with-existing-content.md)
       + [使用 Adobe Dreamweaver 建立內容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在異動電子郵件設定產品清單](/help/designing-content/product-listings-in-transactional-email.md)
-+ 管理流程和資料 {#managing-processes-and-data}
++ 流程和資料管理{#managing-processes-and-data}
    + [建立工作流程](/help/managing-processes-and-data/creating-a-workflow.md)
    + 執行活動 {#execution-activities}
       + [外部訊號活動](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
@@ -98,16 +98,16 @@ ht-degree: 98%
    + [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
    + [根據自訂設定檔屬性建立報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
-+ 與其他解決方案整合 {#integrations}
++ 與其他解決方案整合{#integrations}
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + 使用異動訊息的觸發因子 {#triggers}
+   + 對交易式訊息{#triggers}使用觸發器
       + [概覽](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
       + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [配置Microsoft® Dynamics 365以與Campaign Standard整合](/help/integrations/configure-dynamics-365.md)
-+ 系統管理 {#administrating}
++ 管理{#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
    + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
