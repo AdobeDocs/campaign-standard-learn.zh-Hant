@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -98,16 +98,16 @@ ht-degree: 94%
    + [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
    + [根據自訂設定檔屬性建立報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
-+ 與其他解決方案整合{#integrations}
++ 與其他解決方案整合 {#integrations}
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + 對交易式訊息{#triggers}使用觸發器
+   + 使用異動訊息的觸發因子 {#triggers}
       + [概覽](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
       + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [配置Microsoft® Dynamics 365以與Campaign Standard整合](/help/integrations/configure-dynamics-365.md)
-+ 管理{#administrating}
+   + [設定 Microsoft® Dynamics 365 以與 Campaign Standard 整合](/help/integrations/configure-dynamics-365.md)
++ 系統管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
    + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
