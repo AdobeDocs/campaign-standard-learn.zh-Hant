@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
