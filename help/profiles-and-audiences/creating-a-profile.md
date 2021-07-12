@@ -1,25 +1,24 @@
 ---
 title: '建立設定檔 '
-description: 瞭解如何建立個人檔案以及如何將其新增至觀眾。
-feature: Profiles, Audiences
+description: 了解如何建立設定檔及如何將其新增至對象。
+feature: 設定檔, 閱聽眾
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: a2a816e2-9e6d-4f67-9d4e-c6413eaa81f4
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 7%
+ht-degree: 13%
 
 ---
 
-# 建立描述檔
+# 建立設定檔
 
-此影片說明如何建立描述檔，以及如何將其新增至觀眾。
+此影片說明如何建立設定檔，以及如何將其新增至對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12)
