@@ -1,6 +1,6 @@
 ---
 title: 設定檔替代──使用目標設定檔測試電子郵件訊息
-description: 瞭解如何使用描述檔替代功能來測試您的電子郵件訊息。
+description: 了解如何使用設定檔替代功能測試您的電子郵件訊息。
 feature: '電子郵件  '
 kt: 4667
 thumbnail: 32368.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 92%
