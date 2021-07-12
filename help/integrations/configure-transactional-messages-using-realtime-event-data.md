@@ -5,13 +5,13 @@ feature: 觸發因子
 kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
-role: Administrator
+role: Admin
 level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
 
