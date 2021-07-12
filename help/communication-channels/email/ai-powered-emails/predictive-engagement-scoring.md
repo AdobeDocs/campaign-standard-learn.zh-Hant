@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
-role: Business Practitoner, Developer, Administrator
+role: Business Practitoner, Developer, Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 98%
