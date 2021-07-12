@@ -4,10 +4,10 @@ description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，�
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: 概觀
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
 
@@ -61,7 +61,7 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
       <img alt="教學課程：Android 推播通知快速入門" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>教學課程：Android 推播通知快速入門</strong>
     </a>
     </div>
