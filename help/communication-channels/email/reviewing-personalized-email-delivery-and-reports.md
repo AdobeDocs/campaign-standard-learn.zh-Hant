@@ -1,6 +1,6 @@
 ---
 title: 檢視電子郵件傳遞和報告
-description: 瞭解如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard提供的不同報表。
+description: 了解如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard中提供的不同報表。
 feature: 報告
 kt: 3904
 thumbnail: 21389.jpg
@@ -8,10 +8,9 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 23%
@@ -20,7 +19,7 @@ ht-degree: 23%
 
 # 檢視電子郵件傳遞和報告
 
-此視訊說明如何檢閱個人化的電子郵件傳送，並探索在Adobe Campaign Standard提供的不同報表。
+此影片說明如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard中提供的不同報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
@@ -28,5 +27,5 @@ ht-degree: 23%
 
 * [從首頁建立電子郵件](/help/communication-channels/email/create-email-from-homepage.md)
 * [傳送測試、準備和傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-* [建立動態報表](/help/reporting/creating-a-dynamic-report.md)
-* [使用自訂描述檔屬性建立動態報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+* [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
+* [使用自訂設定檔屬性建立動態報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
