@@ -1,26 +1,25 @@
 ---
 title: 使用 Adobe Experience Platform SDK 設定行動應用程式
-description: 瞭解如何在Adobe Experience Platform Launch設定行動應用程式，以及如何在Adobe Campaign設定。
-feature: 在應用程式中、推播、頻道設定、行動SDK整合
+description: 了解如何在Adobe Experience Platform Launch中設定行動應用程式，以及如何在Adobe Campaign中進行設定。
+feature: 應用程式內、推送、通道設定、行動SDK整合
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 15%
 
 ---
 
-# 使用[!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}來設定行動應用程式
+# 使用[!UICONTROL Adobe Experience Platform SDK]配置移動應用程式 {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-若要使用Mobile SDK V5傳送應用程式內訊息或[!UICONTROL push notifications]，行動應用程式必須在[!UICONTROL Adobe Experience Platform Launch]中設定並在Adobe Campaign設定。
+若要使用行動SDK V5傳送應用程式內訊息或[!UICONTROL push notifications]，行動應用程式必須在[!UICONTROL Adobe Experience Platform Launch]中設定，並在Adobe Campaign中設定。
 
 以下影片示範在Experience Platform Launch中設定行動應用程式的必要步驟：
 
@@ -28,9 +27,9 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->如需視訊中使用的詳細檔案和程式碼範本，請參閱[在[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)中設定您的應用程式。
+>如需詳細檔案和影片中使用的程式碼範本，請參閱[在[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)中設定應用程式。
 
 ## 其他資源
 
-* [設定行動裝置屬性(Adobe啟動檔案)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience PlatformSDK設定行動應用程式（檔案）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [設定行動屬性(AdobeLaunch檔案)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [使用Adobe Experience Platform SDK設定行動應用程式（檔案）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
