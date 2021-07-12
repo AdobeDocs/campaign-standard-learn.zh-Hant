@@ -1,6 +1,6 @@
 ---
 title: 建立直接郵件
-description: 瞭解如何建立直效郵件。
+description: 了解如何建立直接郵件。
 feature: 直接郵件
 kt: 1430
 thumbnail: 23417.jpg
@@ -8,27 +8,26 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
 # 建立[!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-[!UICONTROL Direct Mail]頻道可讓您擷取要傳送至機構或上傳至SFTP伺服器的收件者區段清單。
+[!UICONTROL Direct Mail]通道可讓您擷取要傳送至代理或上傳至SFTP伺服器的收件者分段清單。
 
-此影片說明如何設定[!UICONTROL Direct Mail]傳送，以及為了能夠將描述檔新增至[!UICONTROL Direct Mail]傳送，需要哪些設定。
+此影片說明如何設定[!UICONTROL Direct Mail]傳送，以及若要將設定檔新增至[!UICONTROL Direct Mail]傳送，需要哪些設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
 ## 在工作流程中建立[!UICONTROL Direct Mail]
 
-該渠道可從首頁和工作流程檢視中使用，以定義連貫的跨通道行銷策略。 以下工作流程範例包括[!UICONTROL Direct Mail activity]。
+管道可從首頁和工作流程檢視中使用，以定義連貫的跨管道行銷策略。 下列範例工作流程包含[!UICONTROL Direct Mail activity]。
 
 ![工作流程影像](/help/assets/direct_mail_examplewf.png)
 
