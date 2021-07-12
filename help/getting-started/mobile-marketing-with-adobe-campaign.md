@@ -8,10 +8,10 @@ doc-type: value video
 activity: understand
 team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
