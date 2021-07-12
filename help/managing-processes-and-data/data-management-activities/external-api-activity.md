@@ -1,6 +1,6 @@
 ---
 title: 使用外部 API 活動設定並執行工作流程
-description: 瞭解您要呼叫外部REST API端點，將第三方系統的個人化資料拉入您的促銷活動。
+description: 了解如何呼叫外部REST API端點，將第三方系統的個人化資料提取到您的行銷活動中。
 feature: 資料管理活動
 kt: 2764
 thumbnail: 28200.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 87%
