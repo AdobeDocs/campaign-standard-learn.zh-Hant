@@ -8,37 +8,36 @@ doc-type: feature video
 activity: using
 team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 7%
 
 ---
 
-# 在行銷工作流程的[!UICONTROL Adobe Experience Platform Audiences]工作流程中啟用Adobe Experience Platform觀眾
+# 在行銷工作流程[!UICONTROL Adobe Experience Platform Audiences]的工作流程中啟用Adobe Experience Platform對象
 
 >[!NOTE]
 >
->此功能目前為測試版，可能會經常更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基於Adobe Experience Platform，需要特定配置。
+>此功能目前仍在測試階段，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
->如果您計畫實施此功能，請聯絡[!UICONTROL Adobe Customer Support]。
+>如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-此影片說明如何使用[!UICONTROL Read Audience]活動在工作流程中啟動[!UICONTROL Data Services Query Audience]。
+此影片說明如何使用[!UICONTROL Read Audience]活動，在工作流程中啟動[!UICONTROL Data Services Query Audience]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
-*在工作流程中啟動Adobe Experience Platform觀眾（02:37分鐘）*
+*在工作流程中啟用Adobe Experience Platform對象（02:37分鐘）*
 
 ## 其他資源
 
 文件:
 
-* [在促銷活動中啟用Experience Platform對象——檔案](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [在Campaign中啟用Experience Platform對象 — 檔案](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
-視訊資源：
+影片資源：
 
-* [使用統一區段產生器在Adobe Campaign Standard建立新觀眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [變更平台對象之傳送的定位維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [使用「統一區段產生器」在Adobe Campaign Standard中建立新對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [變更平台對象傳送作業的目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
