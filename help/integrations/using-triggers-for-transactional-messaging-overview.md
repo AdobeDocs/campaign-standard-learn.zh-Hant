@@ -5,12 +5,12 @@ feature: 觸發因子
 topic: 整合
 kt: 6525
 doc-type: article
-role: Administrator
+role: Admin
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
