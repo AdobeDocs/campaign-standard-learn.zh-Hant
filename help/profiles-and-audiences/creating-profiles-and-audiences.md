@@ -1,38 +1,37 @@
 ---
-title: 建立設定檔和閱聽眾 – 概觀
-description: 瞭解如何導覽至現有的設定檔，以及如何建立設定檔和觀眾。
-feature: 個人檔案、觀眾
+title: 建立設定檔和閱聽眾 – 概覽
+description: 了解如何導覽至現有的個人資料，以及如何建立個人資料和受眾。
+feature: 設定檔, 閱聽眾
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 16%
+ht-degree: 35%
 
 ---
 
-# 建立設定檔和閱聽眾 – 概觀
+# 建立設定檔和閱聽眾 – 概覽
 
-Adobe Campaign有兩種類型或個人檔案：
+Adobe Campaign有兩種類型或設定檔：
 
-* 已識別的描述檔
+* 已識別的設定檔
 * 測試設定檔
 
-根據一或多個共同准則分組的描述檔稱為&#x200B;**audiences**。
+根據一或多個通用標準分組的設定檔稱為&#x200B;**audiences**。
 
-此影片說明如何導覽至現有的個人檔案，以及如何建立Adobe Campaign Standard的個人檔案和觀眾。
+此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
 ## 其他資源
 
-* [建立描述檔](/help/profiles-and-audiences/creating-a-profile.md)
+* [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
 * [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
-* [使用工作流導入配置檔案](/help/managing-processes-and-data/importing-profiles.md)
+* [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
