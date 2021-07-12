@@ -1,17 +1,16 @@
 ---
 title: '"廣播應用程式內訊息 "'
-description: 瞭解Broadcast範本如何讓您鎖定行動應用程式的所有使用者。
-feature: 應用程式中
+description: 了解廣播範本如何讓您鎖定行動應用程式的所有使用者。
+feature: 應用程式內
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 7%
@@ -20,16 +19,16 @@ ht-degree: 7%
 
 # 廣播應用程式內訊息
 
-您可以廣播應用程式內訊息，針對行動應用程式的所有使用者(不論Adobe Campaign是否有其個人檔案資訊)。 若要廣播訊息，您在設定應用程式內訊息時必須使用&#x200B;**[!UICONTROL Target all users of a mobile app template]**。
+您可以廣播應用程式內訊息，鎖定行動應用程式的所有使用者(無論Adobe Campaign是否有其設定檔資訊)。 若要廣播訊息，在設定應用程式內訊息時需要使用&#x200B;**[!UICONTROL Target all users of a mobile app template]**。
 
 此類別中的一些相關使用案例包括：
 
-* 將行動應用程式教學課程傳送至首次使用的應用程式啟動器或
-* 新功能版本的公告
+* 將行動應用程式教學課程傳送至首次應用程式啟動器或
+* 新功能發行公告
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*使用[!UICONTROL SDKV5 Mobile property]*
+*使用建立廣播應用程式內訊息[!UICONTROL SDKV5 Mobile property]*
 
 ## 其他資源
 
