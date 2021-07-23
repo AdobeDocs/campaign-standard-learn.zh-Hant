@@ -8,9 +8,9 @@ tutorials-title: 教學課程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
-source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: ht
-source-wordcount: '558'
+source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+workflow-type: tm+mt
+source-wordcount: '557'
 ht-degree: 100%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 100%
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
    + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
-   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
+   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [對應體驗事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
