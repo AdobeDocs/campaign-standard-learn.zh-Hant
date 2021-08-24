@@ -10,9 +10,9 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 37%
 
 ---
@@ -29,12 +29,12 @@ Adobe Campaign可讓您透過一組服務來建立和管理電子報和跨通道
 * 訂閱及/或取消訂閱確認機制。
 * 訂閱歷史記錄。
 
-此影片將示範如何建立服務及管理其訂閱。
+此影片會示範如何建立服務及管理其訂閱。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
 
 ## 其他資源
 
-* [訂閱服務](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
-* [建立服務](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html)
-* [監控訂閱](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html)
+* [訂閱服務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en)
+* [建立服務](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html?lang=en)
+* [監控訂閱](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html?lang=en)
