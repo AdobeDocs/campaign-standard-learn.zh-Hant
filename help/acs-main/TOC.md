@@ -8,10 +8,10 @@ tutorials-title: 教學課程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 100%
    + [設定清單](/help/getting-started/configure-a-list.md)
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理行銷活動](/help/getting-started/managing-campaigns.md)
-   + [瞭解設定檔與閱聽眾](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [關於設定檔與閱聽眾](/help/getting-started/understanding-profiles-and-audiences.md)
    + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=zh-Hant)
    + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=zh-Hant)
    + [報告功能簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動裝置行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [與 Adobe Campaign 一同成長](/help/getting-started/growing-with-adobe-campaign.md)
 + 設定檔與閱聽眾 {#profiles-and-audiences}
-   + [建立設定檔和閱聽眾 – 概覽](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [建立設定檔和受眾 - 概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
@@ -48,7 +48,7 @@ ht-degree: 100%
       + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
-      + [新增控制組至傳遞](/help/communication-channels/email/control-groups.md)
+      + [新增控制組至傳送](/help/communication-channels/email/control-groups.md)
       + [建立多語言電子郵件或簡訊傳遞](/help/communication-channels/create-multilingual-deliveries.md)
       + [將現有的電子郵件、簡訊傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -80,12 +80,12 @@ ht-degree: 100%
 + 設計並個人化內容{#designing-content}
    + 電子郵件設計工具{#email-designer}
       + [概覽](/help/designing-content/email-designer/email-designer-overview.md)
-      + [電子郵件設計工具快速入門](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [開始使用電子郵件設計工具](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [電子郵件內容範本簡介](/help/designing-content/email-designer/email-content-templates.md)
       + [設定行動裝置檢視](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [預覽您的電子郵件和反垃圾郵件分析](/help/designing-content/email-designer/preview-your-email.md)
-      + [使用現有的內容](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [使用 Adobe Dreamweaver 建立內容](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [使用現有內容](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [使用Adobe Dreamweaver建立內容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在異動電子郵件設定產品清單](/help/designing-content/product-listings-in-transactional-email.md)
 + 流程和資料管理{#managing-processes-and-data}
    + [建立工作流程](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -96,8 +96,8 @@ ht-degree: 100%
 + 報告{#reporting}
    + [探索報告](/help/getting-started/exploring-reports.md)
    + [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
-   + [根據自訂設定檔屬性建立報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-   + [根據工作流程細分建立報告](/help/reporting/report-on-workflow-segments.md)
+   + [根據自訂設定檔屬性建立報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
 + 與其他解決方案整合 {#integrations}
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 使用異動訊息的觸發因子 {#triggers}
@@ -115,7 +115,7 @@ ht-degree: 100%
       + [瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [對應體驗事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [對應種子表格資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [映射種子表資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [修改資料對應](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [檢查資料擷取作業的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + 態樣規則{#typology-rules}
@@ -126,4 +126,4 @@ ht-degree: 100%
    + [建立隱私權要求的命名空間](/help/privacy/namespaces-for-privacy-requests.md)
    + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
-   + [執行隱私權要求](/help/privacy/execute-privacy-requests.md)
+   + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
