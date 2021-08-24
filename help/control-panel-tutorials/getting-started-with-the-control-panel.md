@@ -1,6 +1,6 @@
 ---
-title: 控制面板快速入門
-description: 本文將說明如何存取控制面板，以及使用控制面板的先決條件。
+title: 開始使用「控制面板」
+description: 了解如何存取控制面板，以及使用控制面板的先決條件。
 feature: 控制面板
 audience: administrator
 kt: 6385
@@ -9,27 +9,26 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 65%
+source-wordcount: '208'
+ht-degree: 41%
 
 ---
 
-# [!UICONTROL Control Panel] {#control-panel}快速入門
+# 開始使用[!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
->Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品 UI、選項名稱、內部程式碼及教學課程影片可能仍會出現這些詞語。這些用詞將在未來的「控制面板」版本被取代。
+>Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品UI、選項名稱、內部程式碼和教學課程影片中可能仍會出現這些詞語。 這些用詞將在未來的「控制面板」版本被取代。
 
-[!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理任務，如按實例管理[!DNL SFTP]儲存、管理[!DNL GPG]鍵或[!UICONTROL subdomains]和[!UICONTROL certificates]。
+[!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依執行個體管理[!DNL SFTP]儲存、管理[!DNL GPG]金鑰或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
-本文將說明如何存取控制面板，以及使用控制面板的先決條件。
+了解如何存取控制面板，以及使用控制面板的先決條件。
 
-## 存取 [!UICONTROL Control Panel]
+## 訪問[!UICONTROL Control Panel]
 
-若要存取「控制面板」，請前往 Experience Cloud 首頁：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)：
+若要存取「控制面板」，請前往「Experience Cloud首頁」：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -46,7 +45,7 @@ ht-degree: 65%
 
 ### 確認 [!DNL IMS Org ID]
 
-您要瞭解您的 [!DNL IMS org ID]。以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
+以下影片說明您可以在何處查詢執行個體的[!DNL IMS org ID]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -59,4 +58,4 @@ ht-degree: 65%
 
 ## 其他資源
 
-* [控制面板說明中心](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
+* [控制面板說明中心](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant)
