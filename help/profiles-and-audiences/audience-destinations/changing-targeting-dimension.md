@@ -10,10 +10,10 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->此功能目前仍在測試階段，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
@@ -33,11 +33,11 @@ ht-degree: 14%
 
 文件:
 
-* [關於 Audience Destinations 服務](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
-* [如何建立目標對應](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
-* [如何建立傳遞範本](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
+* [對象目標（測試版）（檔案）](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html?lang=en)
+* [如何建立目標對應](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html?lang=en)
+* [如何建立傳遞範本](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en)
 
 影片資源：
 
-* [使用「統一區段建立器」建立新的閱聽眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [使用統一的區段產生器建立對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [在行銷工作流程中啟用Adobe Experience Platform對象](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
