@@ -8,10 +8,10 @@ tutorials-title: 教學課程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant
 getting-started-title: 文件
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '557'
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 閱聽眾目標 (BETA){#audience-destinations}
       + [概覽](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用「統一區段建立器」建立新的閱聽眾](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [使用統一的區段產生器建立對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流程啟動 Adobe Experience Platform 閱聽眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [變更目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通訊通道 {#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 0%
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
       + [新增控制組至傳送](/help/communication-channels/email/control-groups.md)
       + [建立多語言電子郵件或簡訊傳遞](/help/communication-channels/create-multilingual-deliveries.md)
-      + [將現有的電子郵件、簡訊傳遞或範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [將現有的電子郵件、簡訊傳送或傳送範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
@@ -59,11 +59,11 @@ ht-degree: 0%
          + [預測性參與度評分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 行動裝置 {#mobile}
       + SMS{#sms}
-         + [建立簡訊傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [建立 SMS 傳送](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教學課程：Android 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
+         + [教學課程：Android 推播通知快速入門™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
       + 應用程式內訊息 {#in-app}
          + [應用程式內訊息簡介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 0%
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
-      + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [使用即時事件資料設定交易式訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [設定 Microsoft® Dynamics 365 以與 Campaign Standard 整合](/help/integrations/configure-dynamics-365.md)
 + 系統管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
@@ -117,7 +117,7 @@ ht-degree: 0%
       + [對應體驗事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [映射種子表資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [修改資料對應](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [檢查資料擷取作業的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [檢查資料擷取工作的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + 態樣規則{#typology-rules}
       + 疲勞管理{#fatigue-management}
          + [建立疲勞規則](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
