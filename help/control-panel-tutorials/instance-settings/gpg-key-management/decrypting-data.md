@@ -1,6 +1,6 @@
 ---
 title: 解密資料
-description: 下面的影片說明如何建立公開金鑰，並將其匯入及安裝於 Campaign 執行個體，以解密資料。
+description: 了解如何建立公開金鑰，並將其匯入及安裝至Campaign執行個體，以解密資料。
 feature: 控制面板
 audience: administrator
 kt: 5545
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '86'
+ht-degree: 70%
 
 ---
 
