@@ -10,16 +10,16 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 使用 [!UICONTROL External API activity] 設定並執行工作流程
 
-[!UICONTROL External API activity] 是 [!UICONTROL Data Management activity]。您可以使用「外部 API 活動」呼叫外部 REST API 端點。此活動的目的是將第三方系統的個人化資料匯入您的行銷活動。
+[!UICONTROL External API activity] 是 [!UICONTROL Data Management activity]。您可以使用「外部 API 活動」呼叫外部 REST API 端點。此活動的目的是將第三方系統的個人化資料匯入您的促銷活動。
 
 範例使用案例包括：
 
@@ -36,8 +36,8 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->請注意，此活動的用途是擷取行銷活動的資料 (最新的優惠方案、最新的分數等)，而非擷取每個設定檔的特定資訊，因為這將產生大量資料傳輸。如果使用案例需要此項，建議使用「傳輸檔案活動」。
+>活動的用途是擷取促銷活動範圍的資料，而非擷取每個設定檔的特定資訊，因為這會導致大量資料傳輸。 如果使用案例需要設定檔特定資訊，建議使用傳輸檔案活動。
 
 ## 其他資源：
 
-* [外部 API (文件)](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [外部 API (文件)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)
