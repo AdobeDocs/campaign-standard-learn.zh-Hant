@@ -10,16 +10,16 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 49%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 建立測試設定檔 {#creating-a-test-profile}
 
-測試設定檔可讓您鎖定與定義之目標定位條件不相符的其他收件者。已將他們新增至郵件的對象中，以偵測任何詐用收件者資料庫之行為，或確保電子郵件送達至收件匣中。
+測試設定檔可讓您鎖定與定義之目標定位條件不相符的其他收件者。它們會新增至訊息的對象中，以偵測任何詐用收件者資料庫的行為，或確保電子郵件送達收件匣中。
 
 此影片說明如何建立測試設定檔
 
