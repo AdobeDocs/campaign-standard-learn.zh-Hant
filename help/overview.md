@@ -1,21 +1,21 @@
 ---
 title: Adobe Campaign Standard 教學課程 - 概觀
-description: Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: 概觀
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe Campaign Standard – 概觀
 
-Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視性行銷活動的策劃、即時互動管理和跨通路執行提供了環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 
 ## 新增功能
 
@@ -41,15 +41,15 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
     </a>
     </div>
     <p>
-    <em>瞭解如何以設定檔將收到的完全相同的訊息呈現，來傳送校樣，以供檢視。</em>
+    <em>了解如何以設定檔收到的完全相符的訊息，傳送校樣以供檢閱。</em>
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant">
       <img alt="控制面板（影片）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/control-panel/control-panel-overview.html">    <strong>控制面板（影片）</strong>
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">    <strong>控制面板（影片）</strong>
     </a>
     </div>
     <p>
@@ -57,16 +57,16 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/zh-Hant/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
       <img alt="教學課程：Android 推播通知快速入門" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-    <strong>教學課程：Android 推播通知快速入門</strong>
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <strong>教學課程：Android 推播通知快速入門™</strong>
     </a>
     </div>
     <p>
-    <em>本教學課程將逐步帶您瞭解從 Adobe Campaign 傳送推播通知以及在 Android 應用程式接收這些通知的相關步驟。</em>
+    <em>本教學課程會逐步帶您了解從Adobe Campaign傳送推播通知以及在Android™應用程式中接收這些通知的相關步驟。  </em>
     <p>
   </td>
 </tr>
@@ -74,4 +74,4 @@ Adobe Campaign 為跨通路客戶體驗的設計提供了平台，並為可視�
 
 ## 其他資源
 
-* [文件](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/campaign-standard-home.html)
+* [文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
