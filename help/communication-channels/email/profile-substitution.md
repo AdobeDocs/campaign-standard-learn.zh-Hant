@@ -1,5 +1,5 @@
 ---
-title: 設定檔替代──使用目標設定檔測試電子郵件訊息
+title: 設定檔替代 — 使用目標設定檔測試電子郵件訊息
 description: 了解如何使用設定檔替代功能測試您的電子郵件訊息。
 feature: '電子郵件  '
 kt: 4667
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 92%
+ht-degree: 72%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-如需詳細資訊，請參閱詳細的 [產品文件](https://docs.adobe.com/content/help/zh-Hant/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)。
+如需詳細資訊，請參閱詳細的 [產品文件](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)。
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ ht-degree: 92%
 
 ## 其他資源：
 
-* [使用目標設定檔測試訊息 (文檔)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [使用目標設定檔測試訊息 (文檔)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [設計 A/B 測試電子郵件](/help/communication-channels/email/a-b-testing.md)
 * [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
