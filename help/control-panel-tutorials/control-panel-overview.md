@@ -1,5 +1,5 @@
 ---
-title: 控制面板- 概觀
+title: 控制面板 - 概觀
 description: Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
 landing-page-description: 「控制面板」可讓「Campaign」管理員執行管理任務，例如管理 SFTP 儲存、GPG 金鑰或子網域和憑證。
 feature: 控制面板
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -36,11 +36,11 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="將子網域委派至 Adobe Campaign（影片）" src="./assets/31390.jpg"/>
+      <img alt="將子網域委派至Adobe Campaign（影片）" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>將子網域委派至 Adobe Campaign（影片）</strong>
+    <strong>將子網域委派至Adobe Campaign（影片）</strong>
     </a>
     </div>
     <p>
@@ -66,8 +66,8 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>連接到 SFTP 伺服器</strong>
-    </a>
+    <strong>連結到 SFTP 伺服器</strong>
+     </a>
     </div>
     <p>
     <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
@@ -78,4 +78,4 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 
 ## 其他資源
 
-* [控制面板說明中心](https://docs.adobe.com/content/help/zh-Hant/control-panel/using/control-panel-home.html)
+* [控制面板說明中心](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hant)
