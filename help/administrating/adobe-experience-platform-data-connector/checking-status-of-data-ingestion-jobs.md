@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 9%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->此功能目前仍在測試階段，可能會不時更新和修改，恕不另行通知。
+>此功能為測試版，可能會不時更新和修改，恕不另行通知。
 >
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
