@@ -10,9 +10,9 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '154'
 ht-degree: 12%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 12%
 
 了解如何在Adobe Campaign Standard(ACS)中建立[!UICONTROL push notification]:
 
-Adobe Campaign可讓您將個人化和分段的[!UICONTROL push notifications]傳送至iOS和Android行動裝置。 您有兩個選項：
+Adobe Campaign可讓您將個人化和分段的[!UICONTROL push notifications]傳送至iOS和Android™行動裝置。 您有兩個選項：
 
 * **[!UICONTROL Send push notification to Campaign profiles]**:可讓您鎖定已訂閱您行動應用程式且已選擇接收的Adobe Campaign CRM設定檔 [!UICONTROL push notifications]。您可以將個人化欄位插入[!UICONTROL push notification]中，例如收件者的名字。
 
@@ -35,8 +35,8 @@ Adobe Campaign可讓您將個人化和分段的[!UICONTROL push notifications]�
 
 文件:
 
-* [關於推播通知](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [準備和傳送推播通知](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [關於推播通知](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [準備和傳送推播通知](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 教學課程：
 
