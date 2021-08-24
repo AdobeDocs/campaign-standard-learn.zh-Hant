@@ -1,7 +1,7 @@
 ---
 title: 在異動電子郵件設定產品清單
 description: 了解在交易式電子郵件中設定產品清單所需的步驟。
-feature: 交易式訊息、電子郵件
+feature: 交易式訊息，電子郵件
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 4%
