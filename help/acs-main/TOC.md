@@ -8,7 +8,7 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-source-git-commit: fe27dd3f40204d3eede1a7ccdc5ddf33a8745072
+source-git-commit: 3d11a2d81dab20b449c50d133f1c4fd4376356b5
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 81%
