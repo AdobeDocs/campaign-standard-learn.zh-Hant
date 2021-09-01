@@ -3,15 +3,15 @@ user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hant&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: 教學課程
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant
-getting-started-title: 文件
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
+source-git-commit: fe27dd3f40204d3eede1a7ccdc5ddf33a8745072
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 83%
+source-wordcount: '536'
+ht-degree: 81%
 
 ---
 
@@ -127,3 +127,4 @@ ht-degree: 83%
    + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
++ [疑難排解Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
