@@ -10,8 +10,8 @@ getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '542'
+ht-degree: 80%
 
 ---
 
