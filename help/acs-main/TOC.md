@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: ht
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
+workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -127,4 +127,4 @@ ht-degree: 100%
    + [修改隱私權請求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權請求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
-+ [疑難排解Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
++ [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)

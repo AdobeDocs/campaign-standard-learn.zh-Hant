@@ -1,7 +1,7 @@
 ---
-user-guide-title: 疑難排解Adobe Campaign Standard
-user-guide-description: 尋找如何疑難排解Adobe Campaign Standard問題的說明。
-breadcrumb-title: 疑難排解Adobe Campaign Standard
+user-guide-title: 疑難排解 Adobe Campaign Standard
+user-guide-description: 尋找如何疑難排解 Adobe Campaign Standard 問題的說明。
+breadcrumb-title: 疑難排解 Adobe Campaign Standard
 breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
@@ -10,12 +10,12 @@ level: Experienced
 source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 1%
+ht-degree: 47%
 
 ---
 
 
-# 疑難排解Adobe Campaign Standard {#troubleshooting}
+# 疑難排解 Adobe Campaign Standard {#troubleshooting}
 
 + [概覽](/help/troubleshoot/overview.md)
 + [檢視設定檔時發生技術錯誤](/help/troubleshoot/technical-error-while-viewing-profile.md)
