@@ -1,7 +1,7 @@
 ---
 title: 建立自訂資源 – 簡介
-description: 本多部分教學課程會逐步引導您完成建立及連結自訂資源的必要步驟。
-feature: '資料模型 '
+description: 這個多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 [!DNL Adobe Campaign] 隨附預先定義的資料模型，其中資料會透過不同資源加以定義。[!DNL Campaign] 可讓使用者擴充現有資源或建立新資源。
 
-本多部分教學課程會逐步引導您完成建立及連結自訂資源的必要步驟。
+這個多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
 已學習如何：
 
 * 建立自訂資源
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 ## 先決條件
 
-若要建立自訂資源，您必須擁有管理使用者權限。
+為了能夠建立自訂資源，您必須擁有系統管理使用者權限。
 
 ## 教學課程概觀
 
-若要使用客戶訂購內容的其他資訊，以便用於行銷和再行銷，[!DNL Campaign]資料模型必須借由新增自訂表格來擴充。 對於此使用案例，必須建立客戶和訂單表。
+若要使用客戶訂購內容的其他資訊，以便用於行銷和再行銷，[!DNL Campaign]資料模型必須借由新增自訂表格來擴充。 對於此使用案例，必須建立客戶和訂單表格。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
