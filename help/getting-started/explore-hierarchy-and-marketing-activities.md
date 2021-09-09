@@ -1,6 +1,6 @@
 ---
 title: 探索階層與行銷活動
-description: 了解方案和行銷活動的階層、如何建立行銷方案，以及如何在方案中建立行銷活動。
+description: 在此方案中瞭解方案和行銷活動的階層關係、如何建立行銷方案，以及如何在方案中建立行銷活動。
 feature: Campaigns, Programs
 kt: 3892
 thumbnail: 18465.jpg
@@ -11,9 +11,9 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
 source-git-commit: d63bb82ec0043f09e480f3edd395083943035eea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 51%
 
 ## 其他資源
 
-* [行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)
+* [行銷活動](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=zh-Hant)
