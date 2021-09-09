@@ -1,7 +1,7 @@
 ---
 title: 探索報告
 description: 瞭解各種可用於電子郵件傳遞的開箱即用型報告。
-feature: 報告
+feature: Reporting
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial
@@ -11,8 +11,8 @@ exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '54'
+workflow-type: ht
+source-wordcount: '53'
 ht-degree: 100%
 
 ---
