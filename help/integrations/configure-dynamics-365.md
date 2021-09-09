@@ -1,7 +1,7 @@
 ---
 title: 設定 Microsoft® Dynamics 365 以與 Campaign Standard 整合
 description: 瞭解如何設定 Microsoft® Dynamics 365 以用於 Dynamics 和 Campaign Standard 整合。
-feature: Microsoft CRM 整合
+feature: Microsoft CRM Integration
 kt: 2927
 doc-type: feature video
 role: Admin
@@ -9,9 +9,9 @@ level: Experienced
 activity: setup
 team: PM
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '63'
+ht-degree: 100%
 
 ---
 
