@@ -1,8 +1,8 @@
 ---
 title: 使用異動訊息傳遞的觸發因子 - 概覽
 description: 瞭解如何設定和使用異動訊息傳遞的觸發因子。
-feature: 觸發因子
-topic: 整合
+feature: Triggers
+topic: Integrations
 kt: 6525
 doc-type: article
 role: Admin
@@ -10,8 +10,8 @@ level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '105'
+workflow-type: ht
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
