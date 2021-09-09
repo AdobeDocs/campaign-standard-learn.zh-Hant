@@ -2,7 +2,7 @@
 title: 控制面板 - 概觀
 description: Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、管理 GPG 金鑰或子網域和憑證。
 landing-page-description: 「控制面板」可讓「Campaign」管理員執行管理任務，例如管理 SFTP 儲存、GPG 金鑰或子網域和憑證。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
@@ -10,9 +10,9 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '230'
+ht-degree: 100%
 
 ---
 
@@ -36,11 +36,11 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="將子網域委派至Adobe Campaign（影片）" src="./assets/31390.jpg"/>
+      <img alt="將子網域委派至 Adobe Campaign (影片)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>將子網域委派至Adobe Campaign（影片）</strong>
+    <strong>將子網域委派至 Adobe Campaign (影片)</strong>
     </a>
     </div>
     <p>
