@@ -4,9 +4,9 @@ user-guide-description: 瞭解如何在「控制面板」中監視 Adobe Campaig
 breadcrumb-title: 控制面板教學課程
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 85%
 # Adobe Campaign 控制面板教學課程 {#control-panel}
 
 + [控制面板概覽](/help/control-panel-tutorials/control-panel-overview.md)
-+ [開始使用「控制面板」](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [開始使用控制面板](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
    + [監視伺服器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [新增 IP 範圍至允許清單](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -28,7 +28,7 @@ ht-degree: 85%
 + 執行個體設定 {#instance-settings}
    + GPG 金鑰管理 {#gpg-key-management}
       + [GPG 金鑰管理 - 概覽](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [產生並安裝資料加密所需的GPG金鑰](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [產生並安裝用於資料加密的 GPG 金鑰](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [使用 GPG 金鑰加密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [解密資料](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + 效能監視{#performance-monitoring}
