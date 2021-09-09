@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,21 +25,21 @@ ht-degree: 80%
    + [設定清單](/help/getting-started/configure-a-list.md)
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理行銷活動](/help/getting-started/managing-campaigns.md)
-   + [關於設定檔與閱聽眾](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [關於設定檔與對象](/help/getting-started/understanding-profiles-and-audiences.md)
    + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=zh-Hant)
    + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=zh-Hant)
    + [報告功能簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動裝置行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [與 Adobe Campaign 一同成長](/help/getting-started/growing-with-adobe-campaign.md)
 + 設定檔與閱聽眾 {#profiles-and-audiences}
-   + [建立設定檔和受眾 - 概觀](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [建立設定檔和對象 - 概覽](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 閱聽眾目標 (BETA){#audience-destinations}
       + [概覽](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用統一的區段產生器建立對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [使用「統一區段建立器」建立新的對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流程啟動 Adobe Experience Platform 閱聽眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [變更目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通訊通道 {#communication-channels}
@@ -48,9 +48,9 @@ ht-degree: 80%
       + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
-      + [新增控制組至傳送](/help/communication-channels/email/control-groups.md)
-      + [建立多語言電子郵件或簡訊傳遞](/help/communication-channels/create-multilingual-deliveries.md)
-      + [將現有的電子郵件、簡訊傳送或傳送範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [新增控制組至傳遞](/help/communication-channels/email/control-groups.md)
+      + [建立多語言電子郵件或 SMS 傳遞](/help/communication-channels/create-multilingual-deliveries.md)
+      + [將現有的電子郵件、SMS 傳遞或傳遞範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
@@ -63,7 +63,7 @@ ht-degree: 80%
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教學課程：Android 推播通知快速入門™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
+         + [教學課程：Android™ 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
       + 應用程式內訊息 {#in-app}
          + [應用程式內訊息簡介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -84,8 +84,8 @@ ht-degree: 80%
       + [電子郵件內容範本簡介](/help/designing-content/email-designer/email-content-templates.md)
       + [設定行動裝置檢視](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [預覽您的電子郵件和反垃圾郵件分析](/help/designing-content/email-designer/preview-your-email.md)
-      + [使用現有內容](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [使用Adobe Dreamweaver建立內容](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [使用現有的內容進行作業](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [使用 Adobe Dreamweaver 建立內容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在異動電子郵件設定產品清單](/help/designing-content/product-listings-in-transactional-email.md)
 + 流程和資料管理{#managing-processes-and-data}
    + [建立工作流程](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -96,7 +96,7 @@ ht-degree: 80%
 + 報告{#reporting}
    + [探索報告](/help/getting-started/exploring-reports.md)
    + [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
-   + [根據自訂設定檔屬性建立報表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [根據自訂設定檔屬性建立報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
 + 與其他解決方案整合 {#integrations}
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
@@ -105,26 +105,26 @@ ht-degree: 80%
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
-      + [使用即時事件資料設定交易式訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [設定 Microsoft® Dynamics 365 以與 Campaign Standard 整合](/help/integrations/configure-dynamics-365.md)
 + 系統管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
    + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
-   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
-      + [瞭解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Adobe Experience Platform 資料連接器{#adobe-experience-platform-data-connector}
+      + [瞭解 Adobe Experience Platform 資料連接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [對應體驗事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [映射種子表資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [對應種子表格資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [修改資料對應](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [檢查資料擷取工作的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [檢查資料擷取作業的狀態](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + 態樣規則{#typology-rules}
       + 疲勞管理{#fatigue-management}
          + [建立疲勞規則](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + 隱私權 {#privacy}
    + [概覽](/help/privacy/privacy-overview.md)
-   + [建立隱私權要求的命名空間](/help/privacy/namespaces-for-privacy-requests.md)
-   + [修改隱私權要求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [手動建立及追蹤隱私權要求](/help/privacy/create-and-track-privacy-requests.md)
+   + [建立隱私權請求的命名空間](/help/privacy/namespaces-for-privacy-requests.md)
+   + [修改隱私權請求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [手動建立及追蹤隱私權請求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
-+ [疑難排解Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [疑難排解Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
