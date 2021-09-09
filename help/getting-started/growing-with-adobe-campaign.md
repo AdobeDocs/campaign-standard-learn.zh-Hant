@@ -1,7 +1,7 @@
 ---
 title: 與 Adobe Campaign 一同成長
 description: 瞭解真正跨頻道協調的潛在後續步驟。
-feature: 跨頻道協調
+feature: Cross Channel Orchestration
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
@@ -11,8 +11,8 @@ exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '33'
+workflow-type: ht
+source-wordcount: '30'
 ht-degree: 100%
 
 ---
