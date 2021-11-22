@@ -1,7 +1,7 @@
 ---
 title: 廣播應用程式內訊息
 description: 了解如何設定和使用廣播範本，將目標鎖定在行動應用程式的所有使用者。
-feature: 應用程式內
+feature: In App
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 7%
 
 ---

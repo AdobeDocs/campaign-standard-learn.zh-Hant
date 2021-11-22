@@ -1,7 +1,7 @@
 ---
 title: 建立及編輯登陸頁面
 description: 「了解如何在Adobe Campaign Standard中建立、編輯和測試登錄頁面。」
-feature: 登陸頁面
+feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 

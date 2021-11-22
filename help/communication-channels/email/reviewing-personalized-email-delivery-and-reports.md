@@ -1,7 +1,7 @@
 ---
 title: 檢視電子郵件傳遞和報告
 description: 了解如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard中提供的不同報表。
-feature: 報告
+feature: Reporting
 kt: 3904
 thumbnail: 21389.jpg
 doc-type: tutorial
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 23%
+source-wordcount: '80'
+ht-degree: 22%
 
 ---
 

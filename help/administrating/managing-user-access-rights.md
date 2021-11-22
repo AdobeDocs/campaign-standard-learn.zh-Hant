@@ -1,7 +1,7 @@
 ---
 title: 管理使用者存取權限
 description: 此影片說明如何定義及管理指派給Adobe Campaign中不同使用者的權限。
-feature: 存取管理
+feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 22%
 
 ---
 

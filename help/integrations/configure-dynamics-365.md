@@ -8,13 +8,13 @@ role: Admin
 level: Experienced
 activity: setup
 team: PM
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
-workflow-type: ht
+exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
+source-git-commit: 5b461828208dde679766f966d31a176cabd11b4a
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
 ---
-
 
 # 設定[!DNL Microsoft® Dynamics 365]以與 Campaign Standard 整合 {#configure-microsoft-dynamics-365}
 

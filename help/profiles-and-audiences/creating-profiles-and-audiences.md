@@ -1,7 +1,7 @@
 ---
 title: 建立設定檔和閱聽眾 – 概覽
 description: 了解如何導覽至現有的個人資料，以及如何建立個人資料和受眾。
-feature: 設定檔, 閱聽眾
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 35%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign有兩種類型或設定檔：
 * 已識別的設定檔
 * 測試設定檔
 
-根據一或多個通用標準分組的設定檔稱為&#x200B;**audiences**。
+會呼叫根據一或多個通用准則分組的設定檔 **對象**.
 
 此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和對象。
 

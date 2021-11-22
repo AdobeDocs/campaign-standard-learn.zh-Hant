@@ -1,7 +1,7 @@
 ---
 title: 建立測試設定檔
 description: 了解如何將目標定位為不符合已定義的目標定位准則的收件者，以偵測任何詐用收件者資料庫的行為，或確保電子郵件送達收件匣。
-feature: 測試設定檔
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner, Intermediate
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 25%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 新增 SSL 憑證
 description: 了解如何新增SSL憑證來保護您的子網域。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 36%
+source-wordcount: '189'
+ht-degree: 35%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 了解如何新增SSL憑證來保護您的子網域。
 
-## 訪問[!UICONTROL Control Panel]子網域管理
+## 存取 [!UICONTROL Control Panel] 子網域管理
 
 若要 [!UICONTROL Control Panel] 存取子網域管理，請前往：
 
-* [Experience Cloud首頁](https://experience.adobe.com/#/home) >  [!UICONTROL Solution picker]: [!DNL Campaign] >卡 **[!UICONTROL Control Panel]** 片>子 [!UICONTROL **網域與憑**] 證
+* [Experience Cloud首頁](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** 卡片> [!UICONTROL **子網域與憑證**] 卡片
 
    或
 * 直接從 URL：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -33,11 +33,11 @@ ht-degree: 36%
 
 新增 SSL 憑證需要三個步驟：
 
-### 步驟1:生成[!UICONTROL Certificate Signing Requests]
+### 步驟1:產生 [!UICONTROL Certificate Signing Requests]
 
-購買SSL憑證需要[!UICONTROL Certificate Signing Request](CSR)。 必須為您打算保護的執行個體和子網域產生。
+A [!UICONTROL Certificate Signing Request] (CSR)是購買SSL憑證的必要條件。 必須為您打算保護的執行個體和子網域產生。
 
-以下影片說明如何在[!UICONTROL Control Panel]中產生[!UICONTROL Certificate Signing Request]。
+以下影片說明如何產生 [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 

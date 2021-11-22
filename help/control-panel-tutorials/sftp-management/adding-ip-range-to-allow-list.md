@@ -1,7 +1,7 @@
 ---
 title: 新增IP範圍至允許清單
 description: 了解如何將IP位址範圍新增至允許清單。
-feature: 控制面板
+feature: Control Panel
 kt: 6429
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ team: PM
 exl-id: b93ff670-a1a7-41d2-923b-c7c09d4d7c37
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 5%
+source-wordcount: '83'
+ht-degree: 3%
 
 ---
 

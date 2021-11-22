@@ -1,7 +1,7 @@
 ---
 title: 解密資料
 description: 了解如何建立公開金鑰，並將其匯入及安裝至Campaign執行個體，以解密資料。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 70%
+source-wordcount: '84'
+ht-degree: 75%
 
 ---
 

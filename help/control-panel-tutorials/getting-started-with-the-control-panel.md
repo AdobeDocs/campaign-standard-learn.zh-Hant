@@ -1,7 +1,7 @@
 ---
-title: 開始使用「控制面板」
-description: 了解如何存取控制面板，以及使用控制面板的先決條件。
-feature: 控制面板
+title: 開始使用控制面板
+description: 瞭解如何存取控制面板，以及使用控制面板的先決條件。
+feature: Control Panel
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
@@ -11,24 +11,24 @@ team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 41%
+source-wordcount: '206'
+ht-degree: 75%
 
 ---
 
-# 開始使用[!UICONTROL Control Panel] {#control-panel}
+# 開始使用 [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >Adobe Campaign 文件中的「[!UICONTROL whitelist]」及「[!UICONTROL blacklist]」用詞，已由「[!UICONTROL allowlist]及「[!UICONTROL denylist]」取代。產品UI、選項名稱、內部程式碼和教學課程影片中可能仍會出現這些詞語。 這些用詞將在未來的「控制面板」版本被取代。
 
-[!UICONTROL Control Panel]可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依執行個體管理[!DNL SFTP]儲存、管理[!DNL GPG]金鑰或[!UICONTROL subdomains]和[!UICONTROL certificates]。
+此 [!UICONTROL Control Panel] 可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如管理 [!DNL SFTP] 按實例儲存，管理 [!DNL GPG] 鍵，或 [!UICONTROL subdomains] 和 [!UICONTROL certificates].
 
-了解如何存取控制面板，以及使用控制面板的先決條件。
+瞭解如何存取控制面板，以及使用控制面板的先決條件。
 
-## 訪問[!UICONTROL Control Panel]
+## 存取 [!UICONTROL Control Panel]
 
-若要存取「控制面板」，請前往「Experience Cloud首頁」：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+若要存取「控制面板」，請前往 Experience Cloud 首頁：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)：
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -45,7 +45,7 @@ ht-degree: 41%
 
 ### 確認 [!DNL IMS Org ID]
 
-以下影片說明您可以在何處查詢執行個體的[!DNL IMS org ID]。
+以下影片說明您可以在何處查閱執行個體的 [!DNL IMS org ID]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

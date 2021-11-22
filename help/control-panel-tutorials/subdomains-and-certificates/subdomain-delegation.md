@@ -1,7 +1,7 @@
 ---
 title: 完全子網域委派
 description: '了解如何將子網域委派至Adobe Campaign。 '
-feature: 子網域和憑證
+feature: Subdomains and Certificates
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 64%
+source-wordcount: '86'
+ht-degree: 66%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 64%
 
 Adobe Campaign [!UICONTROL Control Panel] 可讓您將子網域完全委派給 Adobe Campaign。
 
-## 訪問[!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## 存取 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 若要在 [!UICONTROL Subdomain Management] 存取 [!UICONTROL Control Panel]，請前往：
 

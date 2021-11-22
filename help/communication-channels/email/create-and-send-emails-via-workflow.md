@@ -1,7 +1,7 @@
 ---
 title: 透過工作流程建立並傳送電子郵件
 description: 了解如何透過工作流程建立及傳送電子郵件。
-feature: 電子郵件
+feature: Email
 kt: 4319
 thumbnail: 31465.jpg
 role: User
@@ -12,7 +12,7 @@ team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 60%
 
 ---

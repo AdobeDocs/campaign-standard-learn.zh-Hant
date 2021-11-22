@@ -1,7 +1,7 @@
 ---
 title: 新增控制組至傳送
 description: 瞭解如何為傳送定義控制組，以及如何在傳送後擷取指派給控制組的設定檔。
-feature: 控制組
+feature: Control Groups
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---

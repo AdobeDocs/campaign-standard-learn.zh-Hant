@@ -1,7 +1,7 @@
 ---
-title: 檢查資料擷取工作的狀態
+title: 檢查資料擷取作業的狀態
 description: 了解如何檢查狀態並修改資料對應。
-feature: 人員核心服務整合
+feature: People Core Service Integration
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -11,18 +11,18 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 23%
 
 ---
 
-# 檢查資料擷取工作的狀態
+# 檢查資料擷取作業的狀態
 
 >[!NOTE]
 >
 >此功能為測試版，可能會不時更新和修改，恕不另行通知。
 >
->如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
+>請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
 了解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取至Adobe Experience Platform。
 

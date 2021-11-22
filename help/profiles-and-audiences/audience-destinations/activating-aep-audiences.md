@@ -1,7 +1,7 @@
 ---
 title: 在工作流程啟動 Adobe Experience Platform 閱聽眾
 description: 此影片說明如何使用「讀取對象」活動，在工作流程中啟用「資料服務查詢對象」。
-feature: 人員核心服務整合
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,20 +12,20 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 
-# 在行銷工作流程[!UICONTROL Adobe Experience Platform Audiences]的工作流程中啟用Adobe Experience Platform對象
+# 在工作流程啟用Adobe Experience Platform對象 [!UICONTROL Adobe Experience Platform Audiences] 在行銷工作流程中
 
 >[!NOTE]
 >
 >此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
->如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
+>請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-此影片說明如何使用[!UICONTROL Read Audience]活動，在工作流程中啟動[!UICONTROL Data Services Query Audience]。
+本影片說明如何啟用 [!UICONTROL Data Services Query Audience] 在工作流程中，使用 [!UICONTROL Read Audience] 活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 

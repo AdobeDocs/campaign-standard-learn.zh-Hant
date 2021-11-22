@@ -1,7 +1,7 @@
 ---
-title: 產生並安裝資料加密所需的GPG金鑰
+title: 產生並安裝用於資料加密的 GPG 金鑰
 description: 瞭解如何在指定的 Campaign 執行個體產生和安裝公開/私用金鑰組，以加密傳出資料。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 5188
 thumbnail: 36386.jpg
@@ -11,12 +11,12 @@ team: PM
 exl-id: ff5a2d83-d38c-47d2-a3ae-e07d8cab13eb
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 69%
+source-wordcount: '79'
+ht-degree: 88%
 
 ---
 
-# 產生並安裝資料加密所需的GPG金鑰
+# 產生並安裝用於資料加密的 GPG 金鑰
 
 瞭解如何在指定的 Campaign 執行個體產生和安裝公開/私用金鑰組，以加密傳出資料。
 

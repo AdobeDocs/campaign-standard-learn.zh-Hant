@@ -1,7 +1,7 @@
 ---
 title: 預測性參與計分
 description: 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
-feature: 預測性參與計分
+feature: Predictive Engagement Scoring
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Experienced
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 65%
+source-wordcount: '213'
+ht-degree: 66%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 65%
 >[!CAUTION]
 >這項功能無法立即在產品中使用。此實作需要 Adobe Consulting 參與。若要進一步了解，請洽詢您的Adobe代表。
 
-[!UICONTROL Predictive engagement scoring] 預測收件者與訊息互動的機率，以及在下次傳送電子郵件後七天內選擇退出（取消訂閱）的機率。根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。模型也提供風險百分位數排名，讓客戶了解特定客戶與其他客戶的排名。
+[!UICONTROL Predictive engagement scoring] 預測收件者與訊息互動的機率，以及在下次傳送電子郵件後七天內選擇退出（取消訂閱）的機率。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。模型也提供風險百分位數排名，讓客戶了解特定客戶與其他客戶的排名。
 
 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
 

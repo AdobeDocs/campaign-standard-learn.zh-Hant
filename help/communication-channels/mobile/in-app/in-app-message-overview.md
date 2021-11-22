@@ -1,7 +1,7 @@
 ---
 title: 應用程式內訊息簡介
 description: 了解如何向使用者呈現情境相關的應用程式內訊息，以回應客戶在行動應用程式內的即時行為。
-feature: 應用程式內
+feature: In App
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,47 +11,47 @@ role: User
 level: Beginner
 source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '728'
 ht-degree: 11%
 
 ---
 
-# [!UICONTROL In-App]訊息簡介 {#introduction}
+# 簡介 [!UICONTROL In-App] messages {#introduction}
 
-當使用者在行動應用程式內處於作用中狀態時， [!UICONTROL In-App Messaging]通道可讓您顯示訊息。 此通道要求將移動應用程式與[!UICONTROL Adobe Experience Platform SDK]整合。
+此 [!UICONTROL In-App Messaging] 通道可讓您在使用者於行動應用程式內處於作用中狀態時顯示訊息。 此通道要求將行動應用程式與 [!UICONTROL Adobe Experience Platform SDK].
 
-本教學課程說明設定行動屬性、[!UICONTROL In-App Messaging]通道的[!UICONTROL Launch]擴充功能，以及如何在Adobe Campaign Standard中準備、自訂和傳送[!UICONTROL In-App]訊息。 這些連結會導向每個醒目提示的主題的教學課程影片。
+本教學課程說明設定行動屬性所需的步驟， [!UICONTROL Launch] 的擴充功能 [!UICONTROL In-App Messaging] 通道，以及如何準備、自訂和傳送 [!UICONTROL In-App] 訊息。 這些連結會導向每個醒目提示的主題的教學課程影片。
 
 ## 先決條件 {#prerequisites}
 
-1. 請務必存取&#x200B;**[!UICONTROL In-App]**&#x200B;通道。 如果您無法存取這些通道，請聯絡您的帳戶團隊。
-1. 確認您的&#x200B;**user**&#x200B;在Adobe Campaign Standard和[!UICONTROL Launch]中具有必要的&#x200B;**權限**。
+1. 請務必存取 **[!UICONTROL In-App]** 頻道。 如果您無法存取這些通道，請聯絡您的帳戶團隊。
+1. 確認您的 **使用者** 有必要 **權限** 在Adobe Campaign Standard和 [!UICONTROL Launch].
 
-   1. 在Adobe Campaign Standard中，確認IMS使用者是[!UICONTROL Standard User]和[!UICONTROL Administrator]群組的一部分。
+   1. 在Adobe Campaign Standard中，確認IMS使用者是 [!UICONTROL Standard User] 和 [!UICONTROL Administrator] 群組。
 
-      此步驟可讓使用者登入Adobe Campaign Standard、導覽至「Experience PlatformSDK」行動應用程式頁面，以及檢視您在[!UICONTROL Launch]中建立的行動應用程式屬性。
+      此步驟可讓使用者登入Adobe Campaign Standard、導覽至「Experience PlatformSDK行動應用程式」頁面，以及檢視您在中建立的行動應用程式屬性 [!UICONTROL Launch].
 
-   1. 在[!UICONTROL Launch]中，確認您的IMS使用者屬於[!UICONTROL Launch]產品設定檔。 此步驟允許用戶登錄[!UICONTROL Launch]以建立和查看屬性。 在產品設定檔中，不應設定公司或屬性的權限，但使用者應仍可登入。
+   1. 在 [!UICONTROL Launch]，請確定您的IMS使用者是 [!UICONTROL Launch] 產品設定檔。 此步驟可讓使用者登入 [!UICONTROL Launch] 來建立和檢視屬性。 在產品設定檔中，不應設定公司或屬性的權限，但使用者應仍可登入。
 
 1. 在Adobe Experience Platform Launch:
 
    1. 透過建立行動屬性來建立行動應用程式，並使用Experience PlatformSDK測試您的行動應用程式。
-   1. 安裝行動應用程式的&#x200B;**Adobe Campaign Standard**&#x200B;擴充功能。
+   1. 安裝 **Adobe Campaign Standard** 擴充功能。
 
-如需擴充功能的詳細資訊，請參閱檔案中的[在AdobeLaunch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard)中設定Campaign Standard擴充功能。
+如需擴充功能的詳細資訊，請參閱 [在Campaign Standard啟動中設定Adobe擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 中。
 
-## 設定[!UICONTROL In-App]訊息的步驟 {#steps-to-set-up}
+## 設定步驟 [!UICONTROL In-App] messages {#steps-to-set-up}
 
 1. [使用 Adobe Experience Platform SDK 設定行動應用程式](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
-1. [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)。
+1. [設定事件](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## 建立、管理和發佈[!UICONTROL In-App]傳遞 {#create-manage-publish}
+## 建立、管理和發佈 [!UICONTROL In-App] 傳遞 {#create-manage-publish}
 
-您可以按一下首頁的&#x200B;**[!UICONTROL Create an In-App Message]**&#x200B;卡片從[!UICONTROL Marketing Activities]建立一次應用程式內傳送，或在工作流程](/help/communication-channels/mobile/in-app/in-app-activity.md)中建立應用程式內傳送。[
+您可以按一下 **[!UICONTROL Create an In-App Message]** 來自首頁的資訊卡，從 [!UICONTROL Marketing Activities]或 [在工作流程中建立應用程式內傳送](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
 設定傳送時，您有三個選項可選擇不同傳送範本，以鎖定使用者：
 
-1. [**廣播應用程式內訊**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 息，將目標鎖定在行動應用程式的所有使用者。
+1. [**廣播應用程式內訊息**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 定位行動應用程式的所有使用者。
 
    此訊息類型可讓您傳送訊息給行動應用程式的所有使用者（目前或未來），即使他們在Adobe Campaign中沒有現有的設定檔亦然。 因此，自訂訊息時無法個人化，因為Adobe Campaign中不一定有使用者設定檔。
 
@@ -67,7 +67,7 @@ ht-degree: 11%
 
 ## 報告您的應用程式內傳遞 {#report}
 
-傳送發佈後，您可以[報告應用程式內傳送](/help/communication-channels/mobile/in-app/in-app-reporting.md)。
+傳送發佈後，您可以 [應用程式內傳遞報告](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
 ## 其他資源
 

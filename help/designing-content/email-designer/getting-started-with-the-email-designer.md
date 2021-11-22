@@ -1,7 +1,7 @@
 ---
 title: 電子郵件設計工具快速入門
 description: 了解電子郵件設計工具的一般功能，以及如何從草稿開始設計電子郵件。
-feature: 電子郵件設計
+feature: Email Design
 kt: 2391
 thumbnail: 25912.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 59%
+source-wordcount: '42'
+ht-degree: 61%
 
 ---
 

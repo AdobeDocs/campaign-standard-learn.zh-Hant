@@ -1,7 +1,7 @@
 ---
 title: 建立多語言電子郵件或簡訊傳送
 description: '了解如何簡化傳送多語言行銷活動的操作複雜性。 '
-feature: 電子郵件、簡訊
+feature: Email, SMS
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---

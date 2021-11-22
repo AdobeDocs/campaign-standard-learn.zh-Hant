@@ -1,7 +1,7 @@
 ---
-title: 使用統一的區段產生器建立對象
+title: 使用「統一區段建立器」建立新的對象
 description: 了解如何使用「統一的區段產生器」建立受眾
-feature: 人員核心服務整合
+feature: People Core Service Integration
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
@@ -12,24 +12,24 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '210'
+ht-degree: 12%
 
 ---
 
-# 使用統一的區段產生器建立對象
+# 使用「統一區段建立器」建立新的對象
 
 >[!NOTE]
 >
 >此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
->如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
+>請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-Adobe Campaign Standard可讓您使用Adobe Experience Cloud [即時客戶設定檔](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)中的資料，透過Adobe Experience Platform [!UICONTROL Unified Segment Builder]來建立對象。
+Adobe Campaign Standard可讓您使用來自Adobe Experience Cloud的資料來建立對象 [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) 使用Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-您可以透過[!UICONTROL Audiences ]模組直接在Adobe Campaign Standard中存取[!UICONTROL Unified Segment Builder]。 它可讓您直接在[!UICONTROL Audiences]清單檢視中管理這些對象，您可以直接在Adobe Campaign介面中編輯或建立Adobe Experience Platform對象
+您可以存取 [!UICONTROL Unified Segment Builder] 直接在Adobe Campaign Standard中 [!UICONTROL Audiences ] 模組。 它可讓您直接在 [!UICONTROL Audiences] 清單檢視，您可在此直接從Adobe Experience Platform介面編輯或建立Adobe Campaign對象
 
-以下影片說明如何在Adobe Campaign Standard內使用[!UICONTROL Unified Segment Builder]建立新受眾。
+以下影片說明如何使用 [!UICONTROL Unified Segment Builder] 在Adobe Campaign Standard。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 

@@ -1,7 +1,7 @@
 ---
 title: 使用現有的內容
 description: 了解如何從網站擷取您的創意內容，並將其載入電子郵件設計工具中。
-feature: 電子郵件設計
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---

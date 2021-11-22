@@ -1,7 +1,7 @@
 ---
 title: 使用 Adobe Dreamweaver 建立內容
 description: 了解啟用Dreamweaver整合的必要條件，以及如何使用Dreamweaver為Adobe Campaign Standard建立和編輯內容。
-feature: 電子郵件設計
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 76%
+source-wordcount: '173'
+ht-degree: 77%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->這項功能需要名為 **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 擴充功能。您可從 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下載擴充功能。如需安裝的詳細資訊，請參閱[Dreamweaver的Campaign擴充功能](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html)。
+>這項功能需要名為 **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 擴充功能。您可從 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下載擴充功能。有關安裝的詳細資訊，請參見 [適用於Dreamweaver的Campaign擴充功能](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 影片說明如何啟用 Dreamweaver 整合，以及如何使用 Dreamweaver 建立和編輯用於 Adobe Campaign Standard 的內容。
 

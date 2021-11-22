@@ -2,7 +2,7 @@
 user-guide-title: Adobe Campaign Standard - Android 推播通知快速入門手冊
 user-guide-description: 本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知以及在 Android 應用程式中接收這些通知的步驟。
 source-git-commit: 1b2e9a48c4e48fe07c3114976dc8c3a57ed8a1c4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

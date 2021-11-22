@@ -1,30 +1,30 @@
 ---
-title: 第 5 步 – 傳播通知
-description: 在本部分，我們將使用Android Notification Manager來傳播從Adobe Campaign收到的訊息。Firebase
-feature: 推播
+title: 步驟 5 – 傳播通知
+description: 在此部分，我們將使用Android Notification Manager.Firebase傳播從Adobe Campaign收到的訊息
+feature: Push
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 2%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
-# 新增服務以傳送通知
+# 添加要發送通知的服務
 
-在本部分，我們將使用[!DNL Android Notification Manager]傳播從Adobe Campaign收到的消息。 [!DNL Notification manager] 用於通知用戶發生的事件。這就是您告訴使用者背景發生了什麼：
+在此部分，我們將使用 [!DNL Android Notification Manager]. [!DNL Notification manager] 用於通知使用者發生的事件。
+這是您告訴使用者背景發生了什麼事的方式：
 
-* 啟動[!DNL Android Studio]
-* 開啟&#x200B;*[!DNL ACSPushTutorial]*&#x200B;專案
+* Launch [!DNL Android Studio]
+* 開啟 *[!DNL ACSPushTutorial]* 專案
 * 展開專案結構
-* 按一下右鍵包資料夾([!DNL com.example.acspushtutorial])和[!DNL New ->Java Class]
-* 將此類命名為&#x200B;*[!DNL MyService]* ，並確保其擴展[!DNL FirebaseMessagingService]
-* 在此類中建立&#x200B;*[!DNL sendNotification]*&#x200B;方法。 在此方法中，您需要使用[!DNL NotificationCompat.Builder]物件來設定通知的內容和頻道。 若要顯示通知，請呼叫[!DNL NotificationManagerCompat.notify()]，並傳遞通知的唯一ID和[!DNL NotificationCompat.Builder.build()]結果。
+* 以滑鼠右鍵按一下套件資料夾([!DNL com.example.acspushtutorial])和 [!DNL New ->Java Class]
+* 為此類命名 *[!DNL MyService]* 並確保它能延伸 [!DNL FirebaseMessagingService]
+* 建立 *[!DNL sendNotification]* 方法。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 物件。 若要顯示通知，請呼叫 [!DNL NotificationManagerCompat.notify()]，會為通知及其結果傳遞唯一ID [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -91,9 +91,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## 修改[!DNL AndroidManifest.xml]
+## 修改 [!DNL AndroidManifest.xml]
 
-將已建立的服務添加到[!DNL AndroidManifest.xml]。 最終[!DNL AndroidManifest.xml]應如下所示：
+將已建立的服務新增至 [!DNL AndroidManifest.xml]. 最後 [!DNL AndroidManifest.xml] 應如下所示：
 
 <!--
 Removed `{.line-numbers}` below
@@ -137,4 +137,4 @@ Removed `{.line-numbers}` below
 
 ## 執行應用程式
 
-按一下工具列上的&#x200B;**綠色箭頭**&#x200B;或[!DNL Run]選單，以執行應用程式。
+按一下 **綠色箭頭** 或 [!DNL Run] 功能表。

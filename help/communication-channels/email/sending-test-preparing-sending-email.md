@@ -1,7 +1,7 @@
 ---
 title: 傳送測試、準備及傳送電子郵件
 description: 「了解如何傳送測試電子郵件、準備，然後傳送電子郵件傳送。 」
-feature: '電子郵件  '
+feature: Email
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 18%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 

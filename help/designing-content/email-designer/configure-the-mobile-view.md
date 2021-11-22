@@ -1,7 +1,7 @@
 ---
 title: 在電子郵件設計工具中設定行動檢視
 description: 「了解如何個別編輯行動顯示的所有樣式選項，微調電子郵件的回應式設計。」
-feature: 電子郵件設計
+feature: Email Design
 kt: 2423
 thumbnail: 25919.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# 在[!UICONTROL Email Designer]中設定行動檢視 {#configure-the-mobile-view}
+# 在 [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 此影片說明如何分別編輯行動顯示的所有樣式選項，以微調電子郵件的回應式設計。
 

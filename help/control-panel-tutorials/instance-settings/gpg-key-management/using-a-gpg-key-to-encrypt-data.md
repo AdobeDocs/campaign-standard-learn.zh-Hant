@@ -1,7 +1,7 @@
 ---
-title: 使用GPG金鑰加密資料
+title: 使用 GPG 金鑰加密資料
 description: 瞭解如何使用安裝在控制面板的 GPG 金鑰匯出資料。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 5688
 thumbnail: 36380.jpg
@@ -11,12 +11,12 @@ team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 62%
+source-wordcount: '59'
+ht-degree: 84%
 
 ---
 
-# 使用GPG金鑰加密資料
+# 使用 GPG 金鑰加密資料
 
 瞭解如何使用安裝在控制面板的 GPG 金鑰匯出資料。
 
