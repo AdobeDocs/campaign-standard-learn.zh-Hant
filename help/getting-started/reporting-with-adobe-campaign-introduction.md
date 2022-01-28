@@ -10,9 +10,9 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 此影片簡介 Adobe Campaign Standard 的報告功能
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
-
-## 其他資源：
-
-* [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
-* [使用自訂設定檔屬性建立動態報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)

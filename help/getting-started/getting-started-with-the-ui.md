@@ -10,9 +10,9 @@ team: TM
 exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ ht-degree: 100%
 本影片說明 Adobe Campaign Standard 使用者介面的概觀，簡介其主要功能與核心功能性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
-
-## 其他資源
-
-* [關於介面](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html?lang=zh-Hant)
-* [介面說明](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html?lang=zh-Hant)

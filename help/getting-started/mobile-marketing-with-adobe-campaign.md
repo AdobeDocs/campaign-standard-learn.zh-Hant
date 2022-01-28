@@ -10,9 +10,9 @@ team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: User, Developer
 level: Beginner
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 此影片說明哪些 Adobe Campaign Standard 功能可以支援您的行動行銷策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
-
-## 其他資源：
-
-* [使用 Adobe Campaign 的應用程式內傳訊](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [簡訊傳遞](/help/communication-channels/mobile/sms/sms-delivery.md)
