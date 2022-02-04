@@ -1,7 +1,7 @@
 ---
-title: 設定檔替代 — 使用目標設定檔測試電子郵件訊息
-description: 了解如何使用設定檔替代功能測試您的電子郵件訊息。
-feature: Email
+title: 配置檔案替代 — 使用目標配置檔案Test電子郵件
+description: 瞭解如何使用配置檔案替換功能test電子郵件。
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 76%
+source-wordcount: '167'
+ht-degree: 67%
 
 ---
 
@@ -31,8 +31,4 @@ ht-degree: 76%
 >
 >此功能可以讓您將個人資料傳送至外部電子郵件地址。請記住，在Campaign Standard 執行隱私權要求 (GDPR和CCPA) 不會在外部執行該要求。
 
-## 其他資源：
-
-* [使用目標設定檔測試訊息 (文檔)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [設計 A/B 測試電子郵件](/help/communication-channels/email/a-b-testing.md)
-* [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+請參閱產品文檔以瞭解有關 [使用目標配置檔案測試消息](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
