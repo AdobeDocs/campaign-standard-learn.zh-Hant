@@ -1,6 +1,6 @@
 ---
-title: 建立多語言電子郵件或簡訊傳送
-description: '了解如何簡化傳送多語言行銷活動的操作複雜性。 '
+title: 建立多語言電子郵件或SMS傳遞
+description: '瞭解如何簡化發送多語言活動的操作複雜性。 '
 feature: Email, SMS
 kt: 1277
 thumbnail: 23252
@@ -10,21 +10,17 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 96b56f9914f84fc9cd424d93d0f93038599a2b3e
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 1%
+source-wordcount: '98'
+ht-degree: 0%
 
 ---
 
-# 建立多語言電子郵件或簡訊傳送
+# 建立多語言電子郵件或SMS傳遞
 
-Adobe Campaign可讓您簡化傳送多語言行銷活動的操作複雜性。 電子郵件傳送和SMS傳送都可設定為多語言，讓您能夠根據設定檔的偏好語言傳送電子郵件或SMS。
+Adobe Campaign使您能夠簡化發送多語言活動的操作複雜性。 電子郵件傳遞和SMS傳遞都可以設定為多語言，這允許您根據配置檔案的首選語言發送電子郵件或SMS。
 
-此影片說明如何以電子郵件電子報範例，根據範本建立多語言傳送。 影片中示範的方法適用於電子郵件和簡訊傳送。
+此視頻介紹如何基於電子郵件新聞簡報示例的模板建立多語言交付。 視頻中演示的方法適用於電子郵件和簡訊發送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
-
-## 其他資源
-
-* [建立多語言電子郵件（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
