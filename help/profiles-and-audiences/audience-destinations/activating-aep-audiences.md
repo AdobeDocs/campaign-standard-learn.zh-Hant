@@ -1,6 +1,6 @@
 ---
 title: 在工作流程啟動 Adobe Experience Platform 閱聽眾
-description: 此影片說明如何使用「讀取對象」活動，在工作流程中啟用「資料服務查詢對象」。
+description: 此視頻介紹如何使用「讀取訪問群體」活動在工作流中激活Data Services查詢受眾。
 feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
@@ -10,34 +10,25 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
-# 在工作流程啟用Adobe Experience Platform對象 [!UICONTROL Adobe Experience Platform Audiences] 在行銷工作流程中
+# 在工作流中激活Adobe Experience Platform受眾 [!UICONTROL Adobe Experience Platform Audiences] 在市場營銷工作流中
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能為Beta版，並且需要頻繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基於Adobe Experience Platform，需要特定配置。
 >
->請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實施此功能。
 
-本影片說明如何啟用 [!UICONTROL Data Services Query Audience] 在工作流程中，使用 [!UICONTROL Read Audience] 活動。
+此視頻說明如何激活 [!UICONTROL Data Services Query Audience] 使用 [!UICONTROL Read Audience] 的子菜單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
-*在工作流程中啟用Adobe Experience Platform對象（02:37分鐘）*
+*在工作流中激活Adobe Experience Platform受眾（02:37分鐘）*
 
-## 其他資源
-
-文件:
-
-* [將Adobe Experience Platform 閱聽眾獲取至 Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-影片資源：
-
-* [使用「統一區段產生器」在Adobe Campaign Standard中建立對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [變更平台對象傳送作業的目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+請參閱有關如何 [吸引Adobe Experience Platform觀眾加入競選](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
