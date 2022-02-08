@@ -10,22 +10,17 @@ team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
 role: User
 level: Beginner
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 99f144fa2c6d892a6b1fde4e434fe75145367313
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 44%
+source-wordcount: '61'
+ht-degree: 45%
 
 ---
 
 # 建立電子郵件傳遞 {#create-an-email-delivery}
 
-您可以從促銷活動、Adobe Campaign首頁或 [!UICONTROL Marketing Activity] 清單。 您也可以從工作流程建立並傳送單一傳送和循環寄送的電子郵件。
+您可以從市場活動、Adobe Campaign首頁或 [!UICONTROL Marketing Activity] 清單框。 您還可以從工作流建立和發送單發電子郵件和定期電子郵件。
 
 了解如何從首頁建立電子郵件傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
-
-## 其他資源
-
-* [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-* [建立電子郵件（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)
