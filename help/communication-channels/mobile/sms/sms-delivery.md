@@ -10,21 +10,17 @@ team: DOC
 exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 role: User
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: e3feeb07e6bf21862a043d0484595ac848d2803b
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 19%
+source-wordcount: '73'
+ht-degree: 20%
 
 ---
 
 # 建立 SMS 傳送{#creating-a-sms-delivery}
 
-了解如何在Adobe Campaign Standard中建立簡訊傳送。 您也可以使用SMS傳送活動，在工作流程中設定SMS傳送。
+瞭解如何在Adobe Campaign Standard建立SMS交付。 您還可以使用SMS傳遞活動配置工作流中的SMS發送。
 
-SMS傳送活動可用來自動傳送SMS。 此活動的設定與視訊中所述一次性傳送的設定相同。
+SMS傳遞活動用於自動發送SMS。 此活動的配置與視頻中描述的一次性傳遞的配置相同。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12)
-
-## 其他資源
-
-* [簡訊傳送](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/sms-delivery.html?lang=en)
