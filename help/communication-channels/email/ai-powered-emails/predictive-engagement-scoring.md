@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -22,20 +22,10 @@ ht-degree: 66%
 由 [!UICONTROL Journey AI] 提供，[!DNL Adobe Campaign] 可以根據歷史參與量度，分析並預測開放率、最佳傳送時間和可能的流失率。
 
 >[!CAUTION]
->這項功能無法立即在產品中使用。此實作需要 Adobe Consulting 參與。若要進一步了解，請洽詢您的Adobe代表。
+>這項功能無法立即在產品中使用。此實作需要 Adobe Consulting 參與。如欲瞭解更多資訊，請聯繫您的Adobe代表。
 
-[!UICONTROL Predictive engagement scoring] 預測收件者與訊息互動的機率，以及在下次傳送電子郵件後七天內選擇退出（取消訂閱）的機率。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。模型也提供風險百分位數排名，讓客戶了解特定客戶與其他客戶的排名。
+[!UICONTROL Predictive engagement scoring] 預測收件人與郵件進行接觸的可能性，以及在下一封電子郵件發送後的七天內選擇退出（取消訂閱）的可能性。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。該模型還為客戶提供風險百分位等級，以便他們瞭解某個客戶相對於其他客戶的等級。
 
 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## 其他資源
-
-教學課程：
-
-* [預測性傳送時間最佳化](predictive-send-time-optimization.md)
-
-文件：
-
-* [使用 AI 支援電子郵件最佳化設計與傳送](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
