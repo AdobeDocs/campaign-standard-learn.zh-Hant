@@ -1,6 +1,6 @@
 ---
 title: 管理服務與訂閱
-description: 了解如何建立服務及管理訂閱。
+description: 瞭解如何建立服務和管理訂閱。
 feature: Subscriptions
 kt: 1815
 thumbnail: 24673.jpg
@@ -10,31 +10,25 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: e8bc68272747d824e0978d603f3a5ba2fe9806cf
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 37%
+source-wordcount: '114'
+ht-degree: 43%
 
 ---
 
 # 管理服務與訂閱{#managing-services-and-subscriptions}
 
-Adobe Campaign可讓您透過一組服務來建立和管理電子報和跨通道通訊。訊息只能傳送給訂閱服務（選擇加入）的設定檔。 建立訊息時，會使用專用篩選器來識別這些設定檔。
+Adobe Campaign允許您通過一組服務建立和管理新聞稿和跨渠道通信。只能將消息發送到訂閱了該服務的配置檔案（選擇加入）。 建立訊息時，會使用專用篩選器來識別這些設定檔。
 
 您可以設定訂閱機制，讓客戶有機會訂閱這些服務，尤其是透過電子郵件及登錄頁面訂閱的客戶。
 
 每項服務都隨附：
 
-* 訂閱（選擇加入）和取消訂閱（選擇退出）機制。
-* 訂閱及/或取消訂閱確認機制。
+* 訂閱(opt-in)和取消訂閱(opt-out)機制。
+* 訂閱和/或取消訂閱確認機制。
 * 訂閱歷史記錄。
 
-此影片會示範如何建立服務及管理其訂閱。
+此視頻顯示了如何建立服務和管理其訂閱。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
-
-## 其他資源
-
-* [訂閱服務](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en)
-* [建立服務](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html?lang=en)
-* [監控訂閱](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html?lang=en)
