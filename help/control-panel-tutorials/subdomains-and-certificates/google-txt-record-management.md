@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 92%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 92%
 以下影片說明如何使用 [!UICONTROL Campaign Control Panel]，將 [!DNL Google]TXT 網站驗證記錄新增至您用來傳送電子郵件至 GMAIL 位址的所有子網域。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## 其他資源：
-
-* [文件](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)

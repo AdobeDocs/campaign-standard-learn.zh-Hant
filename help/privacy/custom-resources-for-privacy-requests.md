@@ -1,6 +1,6 @@
 ---
-title: 設定 Adobe Campaign Standard (ACS) 以要求隱私權時，修改自訂資源
-description: 設定 Adobe Campaign Standard (ACS) 以處理隱私權請求時，您必須確保在刪除設定檔時，會刪除連結至設定檔的任何自訂資料。此影片會說明如何修改自訂資源，以便符合此需求。
+title: 為隱私請求設定Adobe Campaign Standard時修改自定義資源
+description: 設定 Adobe Campaign Standard 以處理隱私權要求時，您必須確保在刪除設定檔時，會刪除連結至設定檔的任何自訂資料。此影片會說明如何修改自訂資源，以便符合此需求。
 feature: Privacy Tools
 kt: 1243
 thumbnail: 23326.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,6 +29,4 @@ ht-degree: 100%
 >
 > 若要檢查您的版本，請按一下&#x200B;**?** 圖示並選取「關於」，即可檢查自己的版本資訊。
 
-## 其他資源
-
-* [Campaign 的一般隱私權指引](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hant)
+另請參閱 [市場活動的一般隱私准則](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hant)

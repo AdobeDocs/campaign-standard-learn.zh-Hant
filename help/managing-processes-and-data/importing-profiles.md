@@ -1,6 +1,6 @@
 ---
 title: 使用工作流程匯入設定檔
-description: 了解如何使用工作流程匯入設定檔資料。
+description: 瞭解如何使用工作流導入配置檔案資料。
 feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
@@ -10,25 +10,17 @@ team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 26%
+source-wordcount: '54'
+ht-degree: 18%
 
 ---
 
 # 使用工作流程匯入設定檔{#import-profiles-with-a-workflow}
 
-您可以從檔案收集資料以處理及/或將其匯入Adobe Campaign資料庫。
+您可以從檔案收集資料以處理它和/或將其導入Adobe Campaign資料庫。
 
-本影片說明如何使用 [!UICONTROL Data Management] 匯入設定檔資料的工作流程中的活動。
+此視頻說明如何使用 [!UICONTROL Data Management] 要導入配置檔案資料的工作流中的活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
-
-## 其他資源
-
-**產品文件:**
-* [傳輸檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
-* [載入檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
-* [更新資料](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
-* [開始使用流程和資料管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)

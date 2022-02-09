@@ -1,6 +1,6 @@
 ---
 title: 應用程式內訊息簡介
-description: 了解如何向使用者呈現情境相關的應用程式內訊息，以回應客戶在行動應用程式內的即時行為。
+description: 瞭解如何根據客戶在移動應用程式中的即時行為向用戶呈現上下文相關的應用內消息。
 feature: In App
 kt: 1911
 doc-type: feature video
@@ -9,72 +9,62 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 11%
+source-wordcount: '629'
+ht-degree: 10%
 
 ---
 
-# 簡介 [!UICONTROL In-App] messages {#introduction}
+# 簡介 [!UICONTROL In-App] 消息 {#introduction}
 
-此 [!UICONTROL In-App Messaging] 通道可讓您在使用者於行動應用程式內處於作用中狀態時顯示訊息。 此通道要求將行動應用程式與 [!UICONTROL Adobe Experience Platform SDK].
+的 [!UICONTROL In-App Messaging] 通道允許您在用戶在移動應用程式中處於活動狀態時顯示消息。 此渠道要求移動應用程式與 [!UICONTROL Adobe Experience Platform SDK]。
 
-本教學課程說明設定行動屬性所需的步驟， [!UICONTROL Launch] 的擴充功能 [!UICONTROL In-App Messaging] 通道，以及如何準備、自訂和傳送 [!UICONTROL In-App] 訊息。 這些連結會導向每個醒目提示的主題的教學課程影片。
+本教程介紹設定移動屬性所需的步驟， [!UICONTROL Launch] 擴展 [!UICONTROL In-App Messaging] 渠道，以及如何準備、自定義和發送 [!UICONTROL In-App] Adobe Campaign Standard。 這些連結指向每個突出顯示主題的視頻教程。
 
-## 先決條件 {#prerequisites}
+## 必要條件 {#prerequisites}
 
-1. 請務必存取 **[!UICONTROL In-App]** 頻道。 如果您無法存取這些通道，請聯絡您的帳戶團隊。
-1. 確認您的 **使用者** 有必要 **權限** 在Adobe Campaign Standard和 [!UICONTROL Launch].
+1. 確保您可以訪問 **[!UICONTROL In-App]** 頻道。 如果您無法存取這些通道，請聯絡您的帳戶團隊。
+1. 驗證 **用戶** 有必要 **權限** 在Adobe Campaign Standard [!UICONTROL Launch]。
 
-   1. 在Adobe Campaign Standard中，確認IMS使用者是 [!UICONTROL Standard User] 和 [!UICONTROL Administrator] 群組。
+   1. 在Adobe Campaign Standard，確保IMS用戶是 [!UICONTROL Standard User] 和 [!UICONTROL Administrator] 組。
 
-      此步驟可讓使用者登入Adobe Campaign Standard、導覽至「Experience PlatformSDK行動應用程式」頁面，以及檢視您在中建立的行動應用程式屬性 [!UICONTROL Launch].
+      此步驟允許用戶登錄到Adobe Campaign Standard，導航到Experience PlatformSDK移動應用頁面，並查看您在中建立的移動應用屬性 [!UICONTROL Launch]。
 
-   1. 在 [!UICONTROL Launch]，請確定您的IMS使用者是 [!UICONTROL Launch] 產品設定檔。 此步驟可讓使用者登入 [!UICONTROL Launch] 來建立和檢視屬性。 在產品設定檔中，不應設定公司或屬性的權限，但使用者應仍可登入。
+   1. 在 [!UICONTROL Launch]，確保您的IMS用戶是 [!UICONTROL Launch] 產品配置檔案。 此步驟允許用戶登錄到 [!UICONTROL Launch] 建立和查看屬性。 在產品配置檔案中，不應對公司或屬性設定任何權限，但用戶仍應能夠登錄。
 
 1. 在Adobe Experience Platform Launch:
 
-   1. 透過建立行動屬性來建立行動應用程式，並使用Experience PlatformSDK測試您的行動應用程式。
-   1. 安裝 **Adobe Campaign Standard** 擴充功能。
+   1. 通過建立移動屬性並使用Experience PlatformSDK測試移動應用來建立移動應用。
+   1. 安裝 **Adobe Campaign Standard** 移動應用程式的擴展。
 
-如需擴充功能的詳細資訊，請參閱 [在Campaign Standard啟動中設定Adobe擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 中。
+有關擴展的詳細資訊，請參閱 [在Campaign Standard啟動中配置Adobe擴展](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 的上界。
 
-## 設定步驟 [!UICONTROL In-App] messages {#steps-to-set-up}
+## 設定步驟 [!UICONTROL In-App] 消息 {#steps-to-set-up}
 
 1. [使用 Adobe Experience Platform SDK 設定行動應用程式](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
-1. [設定事件](/help/communication-channels/mobile/in-app/configure-events.md).
+1. [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)。
 
-## 建立、管理和發佈 [!UICONTROL In-App] 傳遞 {#create-manage-publish}
+## 建立、管理和發佈 [!UICONTROL In-App] 交貨 {#create-manage-publish}
 
-您可以按一下 **[!UICONTROL Create an In-App Message]** 來自首頁的資訊卡，從 [!UICONTROL Marketing Activities]或 [在工作流程中建立應用程式內傳送](/help/communication-channels/mobile/in-app/in-app-activity.md).
+您可以通過按一下 **[!UICONTROL Create an In-App Message]** 從首頁， [!UICONTROL Marketing Activities]或 [在工作流中建立In-App交付](/help/communication-channels/mobile/in-app/in-app-activity.md)。
 
-設定傳送時，您有三個選項可選擇不同傳送範本，以鎖定使用者：
+在設定交付時，您可以通過從不同的交付模板中進行選擇來確定用戶的目標：
 
-1. [**廣播應用程式內訊息**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 定位行動應用程式的所有使用者。
+1. [**廣播應用內消息**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 針對移動應用的所有用戶。
 
-   此訊息類型可讓您傳送訊息給行動應用程式的所有使用者（目前或未來），即使他們在Adobe Campaign中沒有現有的設定檔亦然。 因此，自訂訊息時無法個人化，因為Adobe Campaign中不一定有使用者設定檔。
+   此消息類型允許您向移動應用程式的所有用戶（當前或將來）發送消息，即使他們在Adobe Campaign沒有現有的配置檔案。 因此，在自定義消息時不可能進行個性化，因為用戶配置檔案不一定在Adobe Campaign。
 
-1. 根據行動應用程式設定檔鎖定所有使用者。
+1. 根據移動應用配置檔案瞄準所有用戶。
 
-   此訊息類型可讓您鎖定在Adobe Campaign中具有行動設定檔的行動應用程式的所有已知或匿名使用者。 此訊息類型僅能使用非個人和非敏感屬性進行個人化，而且不需要 Mobile SDK 與 Adobe Campaign 的應用程式內訊息服務之間的安全交握。因此，個人化策略是以您從使用者與裝置的互動中了解到的資訊為基礎。 例如，將目標定位為在過去一週中啟動應用程式超過五次的所有使用者。
+   此消息類型使您能夠將在Adobe Campaign具有移動配置檔案的移動應用的所有已知或匿名用戶作為目標。 此訊息類型僅能使用非個人和非敏感屬性進行個人化，而且不需要 Mobile SDK 與 Adobe Campaign 的應用程式內訊息服務之間的安全交握。所以，個性化策略是基於你從用戶與設備的交互中學到的關於用戶的資訊。 例如，針對所有在上週發佈了5次以上App的用戶。
 
 1. [**根據其 Campaign 設定檔定位使用者**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
 
-   此訊息類型可讓您定位已訂閱您行動應用程式的Adobe Campaign設定檔（CRM設定檔）。 此訊息可透過Adobe Campaign中所有可用的設定檔屬性個人化。 它需要Mobile SDK與Campaign應用程式內訊息服務之間的安全交握，以確保只有授權使用者才會使用包含個人和敏感資訊的訊息。
+   此消息類型使您能夠將訂閱您的移動應用程式的Adobe Campaign配置檔案（CRM配置檔案）作為目標。 該消息可通過Adobe Campaign的所有可用配置檔案屬性進行個性化。 它要求移動軟體開發工具包與市場活動的In-App消息服務之間的安全握手，以確保只有授權用戶才使用包含個人和敏感資訊的消息。
 
-此範本對於支援跨管道協調使用案例很實用，因為您已在其他管道（例如電子郵件或推播）上鎖定使用者。 然後，您會根據他們的回應，想要透過應用程式內訊息與他們互動。
+此模板對支援跨渠道業務流程使用案例非常有用，在這些案例中，您已經針對了其他渠道（如電子郵件或推送）的用戶。 然後，根據他們的回應，您希望讓他們使用In-App消息。
 
-## 報告您的應用程式內傳遞 {#report}
+## 報告您的In-App交付 {#report}
 
-傳送發佈後，您可以 [應用程式內傳遞報告](/help/communication-channels/mobile/in-app/in-app-reporting.md).
-
-## 其他資源
-
-* [應用程式內報表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
-* [設定行動屬性](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience Platform SDK設定行動應用程式](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
-* [準備和傳送應用程式內訊息](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [自訂應用程式內訊息](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [在工作流程中傳送應用程式內訊息](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)
-* [啟用生命週期量度](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)
+發佈交貨後，您可以 [有關您的應用內交付的報告](/help/communication-channels/mobile/in-app/in-app-reporting.md)。

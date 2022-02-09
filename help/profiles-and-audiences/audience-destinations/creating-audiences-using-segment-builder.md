@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -34,10 +34,3 @@ Adobe Campaign Standard允許您使用來自Adobe Experience Cloud的資料構�
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
 *如何使用統一段生成器在Adobe Campaign Standard建立受眾（最小02:47）*
-
-有關詳細資訊，請參閱產品文檔：
-
-* [即時客戶概要資訊概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-* [段生成器使用手冊](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-
-

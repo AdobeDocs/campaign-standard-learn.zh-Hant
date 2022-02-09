@@ -8,8 +8,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
+recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 100%
@@ -67,7 +68,7 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
     <strong>連結到 SFTP 伺服器</strong>
-     </a>
+    </a>
     </div>
     <p>
     <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>

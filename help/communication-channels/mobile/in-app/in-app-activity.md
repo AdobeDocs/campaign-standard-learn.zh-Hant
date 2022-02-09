@@ -1,6 +1,6 @@
 ---
 title: 在工作流程建立應用程式內傳遞
-description: 了解如何使用應用程式內傳送活動來自動傳送應用程式內訊息給在工作流程中計算的目標對象。
+description: 瞭解如何使用應用程式內傳遞活動自動將應用程式內消息發送到工作流中計算的目標受眾。
 feature: In App
 kt: 2500
 thumbnail: 26226.jpg
@@ -10,23 +10,17 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
-# 建立 [!UICONTROL In-App] 在工作流程內傳送
+# 建立 [!UICONTROL In-App] 在工作流中交貨
 
-應用程式內傳遞活動可用來自動傳送 [!UICONTROL In-App] 訊息傳送給在相同工作流程中計算的目標對象。
+應用內傳遞活動用於自動發送 [!UICONTROL In-App] 向同一工作流中計算的目標受眾發送消息。
 
-了解如何使用應用程式內傳送活動來自動傳送應用程式內訊息給在工作流程中計算的目標對象。
+瞭解如何使用應用程式內傳遞活動自動將應用程式內消息發送到工作流中計算的目標受眾。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
-
-## 其他資源
-
-* [準備和傳送應用程式內訊息（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [自訂應用程式內訊息（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [在工作流程中傳送應用程式內訊息（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)

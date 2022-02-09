@@ -1,6 +1,6 @@
 ---
 title: 電子郵件設計工具概觀
-description: 了解電子郵件設計工具的一般功能，以及如何從草稿開始設計電子郵件。
+description: 瞭解電子郵件設計器的一般功能以及如何從頭設計電子郵件。
 feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
@@ -9,8 +9,9 @@ activity: use
 team: TM
 exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
 role: User, Developer
+recommendations: noDisplay
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 86%

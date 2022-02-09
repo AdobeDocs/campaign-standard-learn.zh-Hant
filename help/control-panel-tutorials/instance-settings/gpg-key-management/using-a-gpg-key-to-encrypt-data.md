@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 84%
+source-wordcount: '40'
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,3 @@ ht-degree: 84%
 瞭解如何使用安裝在控制面板的 GPG 金鑰匯出資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
-
-## 其他資源：
-
-* [GPG 金鑰管理 (影片)](./gpg-key-management-overview.md)
-* [GPG 金鑰管理 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
