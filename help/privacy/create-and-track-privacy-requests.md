@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Campaign 可讓您根據 GDPR 和 CCPA 等隱私權法案，以建立 PII 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-有關 [市場活動的一般隱私准則](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=zh-Hant)。
+請參閱產品文件，深入瞭解有關 [Campaign 一般隱私權指引](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=zh-Hant)的資訊。
