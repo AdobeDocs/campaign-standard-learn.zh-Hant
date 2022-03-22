@@ -6,10 +6,10 @@ version: Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-standard-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.zh-Hant
 index: true
 source-git-commit: 809ca48418ecbad061dd288c4b39428a14382a10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
