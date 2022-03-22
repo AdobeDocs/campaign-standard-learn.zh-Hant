@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -121,4 +121,4 @@ ht-degree: 98%
    + [修改隱私權請求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權請求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
-+ [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
