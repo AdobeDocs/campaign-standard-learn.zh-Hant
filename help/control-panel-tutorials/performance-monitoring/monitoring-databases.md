@@ -10,9 +10,9 @@ activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 89%
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-有關詳細資訊，請參閱產品文檔 [資料庫監視](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=zh-Hant#performance-monitoring)
+請參閱產品文件，深入瞭解有關[資料庫監視](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=zh-Hant#performance-monitoring)的資訊
