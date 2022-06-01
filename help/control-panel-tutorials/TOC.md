@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign 控制面板教學課程
 user-guide-description: 瞭解如何在「控制面板」中監視 Adobe Campaign 執行個體的主要資產以及執行管理任務。
 breadcrumb-title: 控制面板教學課程
 index: true
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 96%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 100%
    + [產生 SSH 金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連接到 SFTP 伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 子網域和憑證{#subdomains-and-certificates}
-   + [完整子網域委派 (測試版)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [使用 CNAME (測試版) 委派子網域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [完全子網域委派](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [使用CNAME委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [新增 SSL 憑證](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 記錄管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 執行個體設定 {#instance-settings}
