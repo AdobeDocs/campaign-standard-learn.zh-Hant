@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 100%
+source-wordcount: '565'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 100%
       + [將現有的電子郵件、SMS 傳遞或傳遞範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
       + AI 支援電子郵件 {#journey-ai}
          + [預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [預測性參與度評分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -122,3 +121,6 @@ ht-degree: 100%
    + [手動建立及追蹤隱私權請求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
 + [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
++ 戰略與思想領導{#strategy}
+   + [最大限度地提高電子郵件投資回報率和最佳實踐，以實現用戶重新參與](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
