@@ -11,9 +11,9 @@ team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監控關鍵資產並�
 
    *瞭解如何使用「控制面板」中的 CNAME 來設定和提交子網域。*
 
-查看 [發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant) 的子菜單。
+請參閱最新產品發行的[版本注意事項](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant)以獲得更多資訊。
 
 ## 員工精選
 
