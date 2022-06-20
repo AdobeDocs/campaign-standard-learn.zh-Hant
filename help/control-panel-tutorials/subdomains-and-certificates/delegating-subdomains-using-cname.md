@@ -9,9 +9,9 @@ activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
 source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
