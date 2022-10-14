@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard 教學課程 - 概覽
-description: Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和跨管道執行的環境。 本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
@@ -8,23 +8,23 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '308'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign Standard – 概觀
 
-Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和跨管道執行的環境。 本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
 
 ## 新增功能
 
-* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
 
-* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
 
@@ -46,11 +46,11 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=zh-Hant">
       <img alt="控制面板（影片）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en">    <strong>控制面板（影片）</strong>
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=zh-Hant">    <strong>控制面板（影片）</strong>
     </a>
     </div>
     <p>
@@ -62,7 +62,7 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
       <img alt="教學課程：Android 推播通知快速入門" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant">
     <strong>教學課程：Android™ 推播通知快速入門</strong>
     </a>
     </div>
