@@ -12,20 +12,20 @@ role: User
 level: Beginner
 source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 37%
 
 ---
 
 # 建立設定檔和閱聽眾 – 概覽
 
-Adobe Campaign有兩種類型或配置檔案：
+Adobe Campaign有兩種類型或設定檔：
 
-* 已識別的配置檔案
+* 已識別的設定檔
 * 測試設定檔
 
-調用根據一個或多個公共標準分組的配置檔案 **觀眾**。
+會呼叫根據一或多個通用准則分組的設定檔 **對象**.
 
-此視頻介紹如何導航到現有配置檔案以及如何在Adobe Campaign Standard建立配置檔案和觀眾。
+此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
