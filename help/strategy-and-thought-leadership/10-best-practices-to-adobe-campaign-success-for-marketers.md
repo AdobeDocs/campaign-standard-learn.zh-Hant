@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Christian以下分享他的最佳實踐，幫助Adobe Campaign從業人員解鎖
 
 ## 10.盡可能靈活
 
-市場繼續變化，並以越來越快的速度前進。 鼓勵您的行銷活動團隊盡可能保持輕鬆和敏捷，對於競爭並繼續滿足不斷增長的客戶期望至關重要。 [35%的數位行銷領導者認為，最大的挑戰來自於其組織內部](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-在三個平台上進行交叉培訓，並增進您對資料流、結構或其他Adobe解決方案的了解，有助於完成此工作，或為行銷活動制定應急計畫。 請主題專家使用主要工具。 然後，使用二級和三級工具查看跨通道。 這可為您的行銷操作模型帶來彈性。 利用三種工具，可大幅降低您的專業知識和產出。 這種思維模式可以以多種方式實現，但對靈活性和規劃的總體承諾對於實現短期和長期成功至關重要。
+市場繼續變化，並以越來越快的速度前進。 鼓勵您的行銷活動團隊盡可能保持輕鬆和敏捷，對於競爭並繼續滿足不斷增長的客戶期望至關重要。 [35%的數位行銷領導者認為，最大的挑戰來自於其組織內部](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). 為達此目的，請在幾個平台上進行交叉訓練，增進您對資料流程、結構或其他Adobe解決方案的了解，並為行銷活動建立應急計畫。 這種思維模式可以以多種方式實現，但對靈活性和規劃的總體承諾對於實現短期和長期成功至關重要。
