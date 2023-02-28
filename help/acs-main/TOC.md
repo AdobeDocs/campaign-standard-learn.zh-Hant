@@ -5,7 +5,7 @@ breadcrumb-title: Campaign Standard 教學課程
 source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
 workflow-type: tm+mt
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
 + [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思惟領導力{#strategy}
-   + [Adobe Campaign成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
+   + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
    + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
