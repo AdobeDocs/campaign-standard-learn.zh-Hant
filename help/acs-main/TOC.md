@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
+source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '570'
 ht-degree: 99%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 99%
    + 電子郵件 {#email}
       + [建立電子郵件](/help/communication-channels/email/create-email-from-homepage.md)
       + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [傳送證明](/help/communication-channels/email/send-a-proof.md)
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
       + [新增控制組至傳遞](/help/communication-channels/email/control-groups.md)
