@@ -7,26 +7,30 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
 # Adobe Campaign Standard – 概觀
 
-Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 
 ## 新增功能
 
-* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
+* **[排程訊息](/help/communication-channels/email/schedule-messages.md)**
 
-   *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
+   *了解如何排程電子郵件傳送。*
 
-* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
+* **[傳送證明](/help/communication-channels/email/send-a-proof.md)**
 
-   *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
+   *了解如何先測試電子郵件訊息，再傳送給最終收件者。*
+
+* **[Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *了解10個最佳實務，協助Adobe Campaign從業人員充份運用並加速數位消費者轉型，為客戶提供更佳的體驗。*
 
 ## 員工精選
 
