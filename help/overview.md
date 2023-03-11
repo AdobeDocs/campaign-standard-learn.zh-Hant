@@ -7,16 +7,18 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 84%
+source-wordcount: '286'
+ht-degree: 83%
 
 ---
 
 # Adobe Campaign Standard – 概觀
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -31,6 +33,11 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 * **[Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)**
 
    *了解10個最佳實務，協助Adobe Campaign從業人員充份運用並加速數位消費者轉型，為客戶提供更佳的體驗。*
+
+</div>
+
+
+<div id="events-section">
 
 ## 員工精選
 
@@ -77,6 +84,4 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 </tr>
 </table>
 
-## 其他資源
-
-* [文件](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hant)
+</div>
