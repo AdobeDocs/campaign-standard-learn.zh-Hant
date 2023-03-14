@@ -2,7 +2,7 @@
 title: 最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務
 description: 了解如何最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件促銷活動的整體成功。
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -104,7 +104,7 @@ ht-degree: 3%
 
 以下是簡單表格，可協助您在稽核期間：
 
-![訂閱者狀態](assets/subscriber-status.png)
+![訂閱者狀態](/help/assets/subscriber-status.png)
 
 例如，如果您每天傳送電子郵件給客戶，客戶應已在上個月內與其中一封電子郵件互動，以便被視為主動與參與。 相反地，如果您每月傳送電子郵件給客戶，而客戶在9到14個月內未進行互動，則可視為非作用中。
 
