@@ -7,7 +7,7 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
+source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 83%
@@ -36,8 +36,14 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 </div>
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
-<div id="events-section">
+<div id="staff-picks-section">
 
 ## 員工精選
 
