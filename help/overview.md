@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 * **[排程訊息](/help/communication-channels/email/schedule-messages.md)**
 
-   *了解如何排程電子郵件傳送。*
+   *了解如何排程電子郵件傳遞。*
 
 * **[傳送證明](/help/communication-channels/email/send-a-proof.md)**
 
@@ -32,7 +32,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 * **[Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *了解10個最佳實務，協助Adobe Campaign從業人員充份運用並加速數位消費者轉型，為客戶提供更佳的體驗。*
+   *了解十大最佳實務，協助 Adobe Campaign 從業人員充分發揮並加速消費者數位轉型，並向客戶提供更佳體驗。*
 
 </div>
 
