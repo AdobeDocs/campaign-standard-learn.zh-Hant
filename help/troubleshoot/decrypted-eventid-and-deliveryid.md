@@ -6,7 +6,7 @@ level: Beginner, Experienced
 type: Troubleshooting
 kt: 8432
 exl-id: da53e9ce-2175-4158-a318-914e71050754
-source-git-commit: 184cd4469cd6872534d65c26fc5de08b4146c542
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 瞭解如何在 Campaign Standard 中取得解密的事件 ID 和傳遞 ID。
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335989?quality=12&learn=on)
