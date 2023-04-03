@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何在 Experience Cloud 中設定觸發因子。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
