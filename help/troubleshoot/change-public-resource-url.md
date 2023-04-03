@@ -6,9 +6,9 @@ level: Beginner, Experienced
 type: Troubleshooting
 kt: 8420
 exl-id: a36ea881-2230-48df-b0cc-08ae3573f7f8
-source-git-commit: 184cd4469cd6872534d65c26fc5de08b4146c542
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 瞭解如何將公用資源 URL 從 http 變更為 https。
 
->[!VIDEO](https://video.tv.adobe.com/v/335973?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335973?quality=12&learn=on)
