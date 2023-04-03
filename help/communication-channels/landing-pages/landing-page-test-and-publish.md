@@ -10,7 +10,7 @@ team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 27%
@@ -21,4 +21,4 @@ ht-degree: 27%
 
 此影片說明如何測試登錄頁面及如何發佈。
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12&learn=on)

@@ -10,7 +10,7 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 32%
@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports] 是彈性的自由格式環境，可
 
 了解如何建立報表。
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12&learn=on)
 
 ## 額外資源
 

@@ -10,7 +10,7 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 瞭解如何為您的 [!UICONTROL control group] 定義 [!UICONTROL delivery]，以及如何在傳送 [!UICONTROL delivery] 後，擷取指派給 [!UICONTROL control group] 的設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&learn=on)

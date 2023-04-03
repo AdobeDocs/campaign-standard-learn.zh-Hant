@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 23%
@@ -26,9 +26,9 @@ ht-degree: 23%
 
 了解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取至Adobe Experience Platform。
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 
-## 其他資源
+## 額外資源
 
 * [映射定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [映射啟動](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

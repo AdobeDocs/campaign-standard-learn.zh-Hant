@@ -10,7 +10,7 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 7%
@@ -23,7 +23,7 @@ ht-degree: 7%
 
 了解如何從網站擷取您的創意內容，並將其載入電子郵件設計工具中。
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
 ## 讓現有HTML內容相容 {#making-existing-html-content-compatible}
 
