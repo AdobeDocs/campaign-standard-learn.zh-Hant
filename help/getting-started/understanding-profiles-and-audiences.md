@@ -10,7 +10,7 @@ team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '43'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 本影片說明概念，以及如何建立設定檔和閱聽眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&learn=on)
