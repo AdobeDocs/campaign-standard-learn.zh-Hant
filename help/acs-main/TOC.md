@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [外部訊號活動](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 資料管理活動 {#data-management-activities}
       + [外部 API 活動](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ 報告{#reporting}
++ 報告和監視 {#reporting}
    + [探索報告](/help/getting-started/exploring-reports.md)
    + [建立動態報告](/help/reporting/creating-a-dynamic-report.md)
    + [根據自訂設定檔屬性建立報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
+   + [監視傳遞](/help/reporting/monitor-a-delivery.md)
 + 與其他解決方案整合 {#integrations}
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 使用異動訊息的觸發因子 {#triggers}
