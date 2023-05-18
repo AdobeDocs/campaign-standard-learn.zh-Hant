@@ -2,7 +2,7 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: 19ce1d39823df5f60305445c6ad7583c23b845da
+source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 98%
@@ -126,6 +126,6 @@ ht-degree: 98%
 + [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思惟領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
-   + [行銷人員疑難排解](/help/strategy/troubleshooting-for-marketers)
+   + [行銷人員疑難排解](/help/strategy/troubleshooting-for-marketers.md)
    + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
