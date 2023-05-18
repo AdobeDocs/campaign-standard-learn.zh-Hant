@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 1%
@@ -80,9 +80,9 @@ ht-degree: 1%
 
 1. 在主要和排除項目中使用相同的欄位名稱，並將該欄位作為ID使用
 
-或
+   或
 
-2. 使用JOINS排除方法來根據要排除記錄的欄位選擇。
+1. 使用JOINS排除方法來根據要排除記錄的欄位選擇。
 
 ![常見欄位資料集錯誤 — 解決方案 ](/help/assets/kt-13256/dataset-error-solution.png)
 
