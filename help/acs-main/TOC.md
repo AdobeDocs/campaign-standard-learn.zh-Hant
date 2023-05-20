@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 98%
+source-wordcount: '585'
+ht-degree: 96%
 
 ---
 
@@ -95,6 +95,7 @@ ht-degree: 98%
    + [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
    + [監視傳遞](/help/reporting/monitor-a-delivery.md)
 + 與其他解決方案整合 {#integrations}
+   + [將目標與市場活動整合](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 使用異動訊息的觸發因子 {#triggers}
       + [概覽](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
@@ -126,6 +127,6 @@ ht-degree: 98%
 + [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思惟領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
-   + [行銷人員疑難排解](/help/strategy/troubleshooting-for-marketers.md)
+   + [面向營銷人員的故障排除](/help/strategy/troubleshooting-for-marketers.md)
    + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
