@@ -1,6 +1,6 @@
 ---
 title: 步驟 5 – 傳播通知
-description: 在此部分，我們將使用Android Notification Manager.Firebase傳播從Adobe Campaign收到的訊息
+description: 在本部分，我們將使用Android Notification Manager傳播從Adobe Campaign接收的消息。Firebase
 feature: Push
 kt: 4829
 doc-type: tutorial
@@ -10,21 +10,21 @@ exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 添加要發送通知的服務
+# 添加服務以發送通知
 
-在此部分，我們將使用 [!DNL Android Notification Manager]. [!DNL Notification manager] 用於通知使用者發生的事件。
-這是您告訴使用者背景發生了什麼事的方式：
+在本部分，我們將使用 [!DNL Android Notification Manager]。 [!DNL Notification manager] 用於通知用戶發生的事件。
+這就是您如何告訴用戶，背景中發生了一些事情：
 
-* Launch [!DNL Android Studio]
-* 開啟 *[!DNL ACSPushTutorial]* 專案
-* 展開專案結構
-* 以滑鼠右鍵按一下套件資料夾([!DNL com.example.acspushtutorial])和 [!DNL New ->Java Class]
-* 為此類命名 *[!DNL MyService]* 並確保它能延伸 [!DNL FirebaseMessagingService]
-* 建立 *[!DNL sendNotification]* 方法。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 物件。 若要顯示通知，請呼叫 [!DNL NotificationManagerCompat.notify()]，會為通知及其結果傳遞唯一ID [!DNL NotificationCompat.Builder.build()].
+* 啟動 [!DNL Android Studio]
+* 開啟 *[!DNL ACSPushTutorial]* 項目
+* 展開項目結構
+* 按一下右鍵包資料夾([!DNL com.example.acspushtutorial]) [!DNL New ->Java Class]
+* 將此類命名為 *[!DNL MyService]* 確保它延長 [!DNL FirebaseMessagingService]
+* 建立 *[!DNL sendNotification]* 中的設定。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 的雙曲餘切值。 要顯示通知，請撥打 [!DNL NotificationManagerCompat.notify()]，為通知和結果傳遞唯一ID [!DNL NotificationCompat.Builder.build()]。
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,7 +93,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## 修改 [!DNL AndroidManifest.xml]
 
-將已建立的服務新增至 [!DNL AndroidManifest.xml]. 最後 [!DNL AndroidManifest.xml] 應如下所示：
+將建立的服務添加到 [!DNL AndroidManifest.xml]。 決賽 [!DNL AndroidManifest.xml] 應如下所示：
 
 <!--
 Removed `{.line-numbers}` below
@@ -135,6 +135,6 @@ Removed `{.line-numbers}` below
 </manifest>
 ```
 
-## 執行應用程式
+## 運行應用
 
-按一下 **綠色箭頭** 或 [!DNL Run] 功能表。
+通過按一下 **綠色箭頭** 或 [!DNL Run] 的子菜單。

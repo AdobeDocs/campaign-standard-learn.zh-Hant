@@ -1,6 +1,6 @@
 ---
-title: 在電子郵件設計工具中設定行動檢視
-description: 「了解如何個別編輯行動顯示的所有樣式選項，微調電子郵件的回應式設計。」
+title: 在電子郵件設計器中配置移動視圖
+description: 「瞭解如何通過單獨編輯移動顯示的所有樣式選項來微調電子郵件的響應設計。」
 feature: Email Design
 kt: 2423
 thumbnail: 25919.jpg
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 在 [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
-此影片說明如何分別編輯行動顯示的所有樣式選項，以微調電子郵件的回應式設計。
+此視頻介紹如何通過單獨編輯移動顯示的所有樣式選項來微調電子郵件的響應設計。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)

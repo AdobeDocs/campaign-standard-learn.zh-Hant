@@ -1,6 +1,6 @@
 ---
-title: 建立報表式自訂設定檔屬性
-description: 了解如何根據自訂設定檔屬性建立報表。
+title: 建立基於報告的自定義配置檔案屬性
+description: 瞭解如何根據自定義配置檔案屬性建立報告。
 feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
@@ -19,9 +19,9 @@ ht-degree: 13%
 
 # 根據自訂設定檔屬性建立報告
 
-Adobe Campaign [!UICONTROL Dynamic Reports] 是彈性的自由格式環境，您可在其中納入自訂設定檔屬性，以探索資料。 它可讓您以任何組合方式結合維度、量度和時間範圍，提供無限制的劃分和比較。
+Adobe Campaign [!UICONTROL Dynamic Reports] 是一個靈活的自由形式環境，您可以在其中通過包括自定義配置檔案屬性來瀏覽資料。 它允許您將維度、度量和時間範圍以任意組合方式組合，並可進行無限次的細分和比較。
 
-此影片說明如何根據自訂設定檔屬性建立報表。
+此視頻說明如何根據自定義配置檔案屬性建立報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12&learn=on)
 

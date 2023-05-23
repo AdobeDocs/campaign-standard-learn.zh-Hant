@@ -1,6 +1,6 @@
 ---
 title: 步驟 3－在您的行動應用程式中註冊擴充功能
-description: 在本部分，我們將添加代碼來註冊UserProfile、Identity、Lifecycle和Signal擴展。
+description: 在本部分，我們將添加代碼以註冊UserProfile、Identity、Lifecycle和Signal擴展。
 feature: Push
 kt: 4827
 doc-type: tutorial
@@ -16,11 +16,11 @@ ht-degree: 11%
 
 # 步驟 3－在您的行動應用程式中註冊擴充功能
 
-在本部分，我們將新增程式碼，以註冊「使用者設定檔」、「身分」、「生命週期」和「訊號」擴充功能。 這些擴充功能是 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). 我們也需如下列程式碼中所示，註冊Adobe Campaign Standard擴充功能。
+在本部分中，我們將添加用於註冊用戶配置檔案、身份、生命週期和信號擴展的代碼。 這些擴展是 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)。 我們還需要註冊以下代碼所示的Adobe Campaign Standard分機。
 
-在 [!DNL Android] 工作室。 刪除MainApp中的整個代碼 **除了第一行，它是您的包語句**.
+在中開啟項目 [!DNL Android] 工作室。 刪除MainApp中的整個代碼 **除了第一行是您的包語句**。
 
-將下列程式碼貼入MainApp
+將以下代碼貼上到MainApp
 
 <!--
 Removed `{.line-numbers}` below
@@ -68,6 +68,6 @@ try{
 }
 ```
 
-第32行[!UICONTROL  Launch] 屬性的環境檔案ID。 這可從 [!UICONTROL environment tab] 您的 [!UICONTROL Launch] 屬性。
+32線[!UICONTROL  Launch] 屬性的環境檔案ID。 可以從 [!UICONTROL environment tab] 你 [!UICONTROL Launch] 屬性。
 
-![launch-id](assets/launch-id-property.PNG)
+![啟動ID](assets/launch-id-property.PNG)

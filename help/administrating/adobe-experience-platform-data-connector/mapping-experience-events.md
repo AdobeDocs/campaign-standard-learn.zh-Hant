@@ -1,6 +1,6 @@
 ---
 title: 對應體驗事件
-description: 了解如何對應Adobe Experience Platform(AEP)中的體驗事件
+description: 瞭解如何在Adobe Experience Platform(AEP)映射體驗事件
 feature: People Core Service Integration
 kt: 2832
 thumbnail: 27265.jpg
@@ -19,11 +19,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->此功能目前仍在測試階段，可能會不時更新和修改，恕不另行通知。
+>此功能目前處於試用版，需要頻繁更新和修改，恕不另行通知。
 >
->請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實施此功能。
 
-了解如何對應 [!UICONTROL Experience Events] 在Adobe Experience Platform(AEP)中。
+瞭解如何映射 [!UICONTROL Experience Events] 在Adobe Experience Platform。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12&learn=on)
 

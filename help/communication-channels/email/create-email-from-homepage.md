@@ -19,7 +19,7 @@ ht-degree: 45%
 
 # 建立電子郵件傳遞 {#create-an-email-delivery}
 
-您可以從促銷活動、Adobe Campaign首頁或 [!UICONTROL Marketing Activity] 清單。 您也可以從工作流程建立並傳送單一傳送和循環寄送的電子郵件。
+您可以從市場活動、Adobe Campaign首頁或 [!UICONTROL Marketing Activity] 清單框。 您還可以從工作流建立和發送單發電子郵件和定期電子郵件。
 
 了解如何從首頁建立電子郵件傳遞。
 

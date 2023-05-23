@@ -1,6 +1,6 @@
 ---
 title: 傳送測試、準備及傳送電子郵件
-description: 「了解如何傳送測試電子郵件、準備，然後傳送電子郵件傳送。 」
+description: 「瞭解如何發送test電子郵件、準備併發送電子郵件。 」
 feature: Email, Test Profiles
 kt: 1812
 thumbnail: 24013.jpg
@@ -21,6 +21,6 @@ ht-degree: 31%
 
 # 傳送測試、準備及傳送電子郵件
 
-此影片說明如何在Adobe Campaign Standard(ACS)中傳送測試電子郵件、準備電子郵件，然後傳送電子郵件傳送。
+此視頻介紹如何在Adobe Campaign Standard(ACS)中發送test電子郵件、準備併發送電子郵件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)

@@ -1,6 +1,6 @@
 ---
 title: 變更目標維度
-description: 此影片說明如何在Adobe Campaign Standard主要設定檔表格外變更平台對象傳送作業的目標維度。
+description: 此視頻說明了如何更改在Adobe Campaign Standard主要配置檔案表之外的平台受眾的傳遞的目標維度。
 feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
@@ -21,10 +21,10 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能為Beta版，並且需要頻繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基於Adobe Experience Platform，需要特定配置。
 >
->請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實施此功能。
 
-此影片說明如何變更 [!UICONTROL Platform Audience] 位於Adobe Campaign Standard的主要設定檔表格之外。
+此視頻說明如何更改交貨的目標維度 [!UICONTROL Platform Audience] 位於Adobe Campaign Standard主配置檔案表之外。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

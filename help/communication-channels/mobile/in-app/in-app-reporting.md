@@ -1,6 +1,6 @@
 ---
 title: 報告您的應用程式內傳遞
-description: 了解如何向使用者呈現情境相關的應用程式內訊息，以回應客戶在行動應用程式內的即時行為。
+description: 瞭解如何根據客戶在移動應用程式中的即時行為向用戶呈現上下文相關的In-App消息。
 feature: In App, Reporting
 kt: 2558
 thumbnail: 26412.jpg
@@ -17,8 +17,8 @@ ht-degree: 7%
 
 ---
 
-# 報告 [!UICONTROL In-App] 傳遞 {#in-app-message-reporting}
+# 報告 [!UICONTROL In-App] 交貨 {#in-app-message-reporting}
 
-您可以檢閱 [!UICONTROL In-App] 傳遞相關資料，可借由新增 [!UICONTROL In-App] — 特定量度。 或者，您也可以使用現成可用的 [應用程式內報表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
+您可以查看 [!UICONTROL In-App] 通過添加與交付相關的資料 [!UICONTROL In-App] — 特定度量。 或者，可以使用框外 [應用內報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 測試並發佈登陸頁面
-description: 了解如何測試Adobe Campaign Standard中建置的登錄頁面，以及如何發佈它。
+description: 瞭解如何test在Adobe Campaign Standard內建立的登錄頁以及如何發佈它。
 feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg
@@ -19,6 +19,6 @@ ht-degree: 27%
 
 # 測試並發佈登陸頁面
 
-此影片說明如何測試登錄頁面及如何發佈。
+此視頻說明如何test登錄頁以及如何發佈登錄頁。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12&learn=on)

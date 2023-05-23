@@ -1,6 +1,6 @@
 ---
 title: 檢視電子郵件傳遞和報告
-description: 了解如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard中提供的不同報表。
+description: 瞭解如何查看個性化的電子郵件傳遞，並瀏覽Adobe Campaign Standard提供的不同報告。
 feature: Reporting
 kt: 3904
 thumbnail: 21389.jpg
@@ -19,6 +19,6 @@ ht-degree: 23%
 
 # 檢視電子郵件傳遞和報告
 
-此影片說明如何檢閱個人化電子郵件傳送，並探索Adobe Campaign Standard中提供的不同報表。
+此視頻說明了如何查看個性化的電子郵件傳遞，並探討了在Adobe Campaign Standard提供的不同報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12&learn=on)

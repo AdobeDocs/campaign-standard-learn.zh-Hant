@@ -1,6 +1,6 @@
 ---
-title: 步驟4 — 設定pushidentifier
-description: '**pushIdentifier**是包含推播通知之裝置代號的字串。 此代號與Firebase所傳送的代號相同，會使用MobileCore.setPushIdentifier方法傳遞至SDK。'
+title: 步驟4 — 設定推信器
+description: '**pushIdentifier**是包含用於推送通知的設備令牌的字串。 它與Firebase發送的令牌相同，並使用MobileCore.setPushIdentifier方法傳遞給SDK。'
 feature: Push
 kt: 4828
 doc-type: tutorial
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # 步驟4 — 設定 [!DNL pushidentifier]
 
-此 **[!DNL pushidentifier]** 是字串，其中包含 [!DNL Push] 通知。 它是由傳送的相同Token [!DNL Firebase] 和會透過 [!DNL MobileCore.setPushIdentifier] 方法。
+的 **[!DNL pushidentifier]** 是包含的設備令牌的字串 [!DNL Push] 通知。 它是由 [!DNL Firebase] 並使用 [!DNL MobileCore.setPushIdentifier] 的雙曲餘切值。
 
-在 [!DNL Android™ ]工作室。 刪除 [!DNL MainActivity] **除了第一行，它是您的包語句**.
+在中開啟項目 [!DNL Android™ ]工作室。 刪除中的整個代碼 [!DNL MainActivity] **除了第一行是您的包語句**。
 
-將下列程式碼貼入 [!DNL MainActivity]:
+將以下代碼貼上到 [!DNL MainActivity]:
 
 <!--
 Removed `{.line-numbers}` below
@@ -85,23 +85,23 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## 測試您的應用程式
+## Test你的應用
 
-現在是測試應用程式、再繼續操作的好時機。
+現在是test應用的好時機，然後再繼續操作。
 
-* 按一下綠色箭頭或選取以執行應用程式 **[!DNL Run->Run'app']**.
-* 此 [!DNL Android™] 模擬器應會啟動，而您應會看到應用程式正在執行 [!DNL "Hello World" ]文字。
-* 開啟 [!DNL logcat] 窗口。 搜索「[!DNL Got]」。 您應會看到從 [!DNL Firebase] 寫入記錄檔，如下所示。 後面的長字串[!DNL Got token]「是 [!DNL pushidentifier ]被發送到Adobe Campaign。
+* 通過按一下綠色箭頭或選擇來運行應用程式 **[!DNL Run->Run'app']**。
+* 的 [!DNL Android™] 模擬程式應啟動，您應看到您的應用正在運行 [!DNL "Hello World" ]的子菜單。
+* 開啟 [!DNL logcat] 的子菜單。 搜索「」[!DNL Got]。 您應該看到從 [!DNL Firebase] 寫入日誌，如下所示。 「」之後的長字串[!DNL Got token]」 [!DNL pushidentifier ]被送到Adobe Campaign。
 
-![logcat-token](assets/logcat-got-token.PNG)
+![邏輯標籤](assets/logcat-got-token.PNG)
 
-### 檢查行動應用程式訂閱者
+### 檢查移動應用程式訂閱者
 
-登入您的Adobe Campaign Standard執行個體。
-導覽 **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. 開啟適當的行動應用程式。 標籤 [!UICONTROL Mobile Application Subscribers] 標籤。 您應會看到 [!UICONTROL registration token ]已列出。
+登錄到您的Adobe Campaign Standard實例。
+導航 **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟相應的移動應用程式。 頁籤 [!UICONTROL Mobile Application Subscribers] 頁籤。 你應該看到 [!UICONTROL registration token ]清單。
 
-![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
+![移動應用用戶](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->如果您在 [!UICONTROL Mobile Application Subscribers] 標籤在此停止，然後再繼續。
+>如果在中未看到註冊標籤 [!UICONTROL Mobile Application Subscribers] 頁籤STOP ，然後繼續。

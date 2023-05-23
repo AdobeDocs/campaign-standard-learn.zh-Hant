@@ -1,6 +1,6 @@
 ---
 title: 電子郵件內容範本簡介
-description: 了解如何建立電子郵件內容範本。
+description: 瞭解如何建立電子郵件內容模板。
 feature: Email Design
 kt: 1442
 thumbnail: 23106.jpg
@@ -19,8 +19,8 @@ ht-degree: 14%
 
 # 電子郵件內容範本簡介 {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard提供18個可完全自訂的立即可用回應式電子郵件範本。 這些範本是專為Adobe Campaign Standard建立，易於操控和變更。 這是建立電子郵件的絕佳起點。
+Adobe Campaign Standard提供18個完全可定製的開箱即用、響應迅速的電子郵件模板。 這些模板是專門為Adobe Campaign Standard建立的，易於操作和更改。 它們是建立電子郵件的絕佳起點。
 
-本影片會介紹範本，並說明如何建立您自己的範本。
+此視頻介紹模板並說明如何建立您自己的模板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)

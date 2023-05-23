@@ -1,6 +1,6 @@
 ---
 title: 建立設定檔
-description: 了解如何建立設定檔及如何將其新增至對象。
+description: 瞭解如何建立配置檔案以及如何將其添加到受眾。
 feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
@@ -17,8 +17,8 @@ ht-degree: 8%
 
 ---
 
-# 建立設定檔
+# 建立配置檔案
 
-此影片說明如何建立設定檔，以及如何將其新增至對象。
+此視頻說明了如何建立配置檔案以及如何將其添加到觀眾中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)
