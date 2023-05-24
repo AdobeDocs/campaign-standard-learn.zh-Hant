@@ -1,6 +1,6 @@
 ---
 title: 根據其 Campaign 設定檔定位使用者
-description: 瞭解如何針對已知的移動應用用戶使用CRM配置檔案屬性個性化的消息。
+description: 瞭解如何透過CRM設定檔屬性個人化的訊息鎖定已知的行動應用程式使用者。
 feature: In App
 kt: 1796
 thumbnail: 26200.jpg
@@ -17,10 +17,10 @@ ht-degree: 7%
 
 ---
 
-# 根據用戶 [!DNL Campaign] 輪廓
+# 根據下列專案鎖定使用者： [!DNL Campaign] 設定檔
 
-您可以使用Adobe Campaign Standard提供的CRM配置檔案屬性，將已使用PII（已知移動應用用戶）登錄到具有個性化消息的應用的用戶作為目標。 此模板支援跨渠道業務流程使用案例，在此案例中，您已經根據客戶的響應針對其他渠道（如電子郵件或推送）的客戶，並且您希望再次通過應用內消息與這些客戶接洽。
+您可以使用Adobe Campaign Standard提供的CRM設定檔屬性，以個人化訊息鎖定透過PII （已知行動應用程式使用者）登入應用程式的使用者。 此範本支援跨頻道協調使用案例，在此案例中，您已根據其他頻道（例如電子郵件或推播）的回應鎖定客戶，且您想要透過應用程式內訊息再次與這些客戶互動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
 
-*使用[!UICONTROL Campaign profile template]*
+*使用建立應用程式內訊息[!UICONTROL Campaign profile template]*

@@ -1,6 +1,6 @@
 ---
 title: 建立自訂資源
-description: 瞭解如何建立稱為客戶的自定義資源。
+description: 瞭解如何建立稱為客戶的自訂資源。
 feature: Data Model
 kt: 3000
 thumbnail: 27716.jpg
@@ -17,10 +17,10 @@ ht-degree: 28%
 
 # 建立自訂資源
 
-在此視頻中，我們將建立我們的第一個定製資源，稱為客戶。
+在本影片中，我們將建立第一個稱為客戶的自訂資源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27716?quality=9)
 
 **下一步**
 
-[配置螢幕定義](./configuring-a-screen-definition-for-a-custom-resource.md)
+[設定熒幕定義](./configuring-a-screen-definition-for-a-custom-resource.md)

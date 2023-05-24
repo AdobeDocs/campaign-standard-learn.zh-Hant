@@ -1,6 +1,6 @@
 ---
 title: 使用工作流程匯入設定檔
-description: 瞭解如何使用工作流導入配置檔案資料。
+description: 瞭解如何使用工作流程匯入設定檔資料。
 feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
@@ -19,8 +19,8 @@ ht-degree: 18%
 
 # 使用工作流程匯入設定檔{#import-profiles-with-a-workflow}
 
-您可以從檔案收集資料以處理它和/或將其導入Adobe Campaign資料庫。
+您可以從檔案中收集資料以進行處理及/或將其匯入Adobe Campaign資料庫。
 
-此視頻說明如何使用 [!UICONTROL Data Management] 要導入配置檔案資料的工作流中的活動。
+此影片說明如何使用 [!UICONTROL Data Management] 工作流程中的活動以匯入設定檔資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12&learn=on)

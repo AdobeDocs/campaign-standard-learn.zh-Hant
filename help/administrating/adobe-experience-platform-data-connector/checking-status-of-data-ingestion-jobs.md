@@ -1,6 +1,6 @@
 ---
 title: 檢查資料擷取作業的狀態
-description: 瞭解如何檢查狀態並修改資料映射。
+description: 瞭解如何檢查狀態並修改資料對應。
 feature: People Core Service Integration
 audience: administrator
 kt: 2831
@@ -20,11 +20,11 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->此功能為Beta版，並且需要頻繁更新和修改，恕不另行通知。
+>此功能為測試版，可能會不時更新和修改，恕不另行通知。
 >
->請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實施此功能。
+>請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-瞭解如何檢查資料接收作業的狀態以及資料是否已從Adobe Campaign Standard接收到Adobe Experience Platform。
+瞭解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取到Adobe Experience Platform。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 

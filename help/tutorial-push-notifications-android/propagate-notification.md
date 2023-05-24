@@ -1,6 +1,6 @@
 ---
 title: 步驟 5 – 傳播通知
-description: 在本部分，我們將使用Android Notification Manager傳播從Adobe Campaign接收的消息。Firebase
+description: 在本部分中，我們將使用Android Notification Manager.Firebase傳播從Adobe Campaign收到的訊息
 feature: Push
 kt: 4829
 doc-type: tutorial
@@ -14,17 +14,17 @@ ht-degree: 2%
 
 ---
 
-# 添加服務以發送通知
+# 新增服務以傳送通知
 
-在本部分，我們將使用 [!DNL Android Notification Manager]。 [!DNL Notification manager] 用於通知用戶發生的事件。
-這就是您如何告訴用戶，背景中發生了一些事情：
+在本部分中，我們將使用傳播從Adobe Campaign收到的訊息 [!DNL Android Notification Manager]. [!DNL Notification manager] 用於通知使用者已發生的事件。
+這是您告訴使用者背景中發生某些事情的方式：
 
 * 啟動 [!DNL Android Studio]
-* 開啟 *[!DNL ACSPushTutorial]* 項目
-* 展開項目結構
-* 按一下右鍵包資料夾([!DNL com.example.acspushtutorial]) [!DNL New ->Java Class]
-* 將此類命名為 *[!DNL MyService]* 確保它延長 [!DNL FirebaseMessagingService]
-* 建立 *[!DNL sendNotification]* 中的設定。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 的雙曲餘切值。 要顯示通知，請撥打 [!DNL NotificationManagerCompat.notify()]，為通知和結果傳遞唯一ID [!DNL NotificationCompat.Builder.build()]。
+* 開啟 *[!DNL ACSPushTutorial]* 專案
+* 展開專案結構
+* 以滑鼠右鍵按一下封裝資料夾([!DNL com.example.acspushtutorial])和 [!DNL New ->Java Class]
+* 命名此類別 *[!DNL MyService]* 並確保其延伸 [!DNL FirebaseMessagingService]
+* 建立 *[!DNL sendNotification]* 此類別中的方法。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 物件。 若要顯示通知，請呼叫 [!DNL NotificationManagerCompat.notify()]，向其傳遞通知唯一ID和結果 [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,7 +93,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## 修改 [!DNL AndroidManifest.xml]
 
-將建立的服務添加到 [!DNL AndroidManifest.xml]。 決賽 [!DNL AndroidManifest.xml] 應如下所示：
+將建立的服務新增至 [!DNL AndroidManifest.xml]. 最終版 [!DNL AndroidManifest.xml] 應如下所示：
 
 <!--
 Removed `{.line-numbers}` below
@@ -135,6 +135,6 @@ Removed `{.line-numbers}` below
 </manifest>
 ```
 
-## 運行應用
+## 執行應用程式
 
-通過按一下 **綠色箭頭** 或 [!DNL Run] 的子菜單。
+按一下「 」，執行應用程式 **綠色箭頭** 在工具列上或從 [!DNL Run] 功能表。

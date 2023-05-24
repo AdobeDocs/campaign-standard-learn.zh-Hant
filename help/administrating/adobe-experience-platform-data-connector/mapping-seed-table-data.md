@@ -1,6 +1,6 @@
 ---
 title: 對應種子表格資料
-description: 瞭解如何映射種子資料以及如何與Adobe Experience Platform(AEP)test配置檔案
+description: 瞭解如何對應您的種子資料，以及如何使用Adobe Experience Platform (AEP)測試設定檔
 feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
@@ -19,12 +19,12 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->此功能目前處於試用版，需要頻繁更新和修改，恕不另行通知。
+>此功能目前為測試版，可能會不時更新和修改，恕不另行通知。
 >
->請聯繫 [!UICONTROL Adobe Customer Support] 如果您計畫實施此功能。
+>請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-瞭解如何與Adobe Experience Platform映射種子資料和test配置檔案。
+瞭解如何使用Adobe Experience Platform對應種子資料和測試設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 
-有關 [映射定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 和 [映射激活](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+請參閱產品檔案，深入瞭解 [對應定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 和 [對應啟動](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

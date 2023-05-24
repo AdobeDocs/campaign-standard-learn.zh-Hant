@@ -1,6 +1,6 @@
 ---
 title: 管理使用者存取權限
-description: 此視頻介紹了如何定義和管理分配給Adobe Campaign不同用戶的權限。
+description: 此影片說明如何定義及管理指派給Adobe Campaign中不同使用者的許可權。
 feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
@@ -17,6 +17,6 @@ ht-degree: 18%
 
 # 管理使用者存取權限
 
-此視頻介紹了如何定義和管理分配給Adobe Campaign不同用戶的權限。
+此影片說明如何定義及管理指派給Adobe Campaign中不同使用者的許可權。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12&learn=on)

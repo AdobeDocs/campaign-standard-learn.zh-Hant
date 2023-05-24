@@ -1,6 +1,6 @@
 ---
 title: 步驟 2 – 整合行動裝置 SDK
-description: 在這部分，我們將Android應用與移動軟體開發工具包整合。 將移動軟體開發工具包與Android應用整合
+description: 在本部分中，我們將整合Android應用程式與行動SDK。 將行動SDK與Android應用程式整合的方式
 feature: Push
 kt: 4826
 doc-type: tutorial
@@ -15,17 +15,17 @@ ht-degree: 3%
 
 ---
 
-# 步驟2 — 整合 [!UICONTROL Mobile SDK] 使用Android App
+# 步驟2 — 整合 [!UICONTROL Mobile SDK] 使用Android應用程式
 
-在這部分，我們將 [!DNL Android] 應用 [!UICONTROL Mobile SDK]。 整合 [!UICONTROL mobile SDK] 和 [!DNL Android] app，請執行以下步驟：
+在本部分中，我們將整合 [!DNL Android] 應用程式搭配 [!UICONTROL Mobile SDK]. 若要整合 [!UICONTROL mobile SDK] 使用 [!DNL Android] 應用程式，請遵循下列步驟：
 
-* 開啟 *ACSPush教程* 項目 [!DNL Android Studio]
-* 建立名為 *主應用* 延伸 [!DNL android.app.Application]
-* 此時的項目結構應如下所示
+* 開啟 *ACSPushTutorial* 專案位置 [!DNL Android Studio]
+* 建立名為的新Java類別 *MainApp* 延伸至 [!DNL android.app.Application]
+* 此時您的專案結構應如下所示
 
-![主應用](assets/android-main-app.PNG)
+![main-app](assets/android-main-app.PNG)
 
-* 展開 [!DNL Gradle Scripts] 的子菜單。 按兩下 [!DNL build.gradle] 的下界。 將下列從屬關係貼上到 [!DNL build.gradle] 的子菜單。 您 [!DNL build.gradle] 檔案現在應顯示在下面
+* 展開 [!DNL Gradle Scripts] 資料夾。 按兩下 [!DNL build.gradle] 模組的。 將下列相依性貼到 [!DNL build.gradle] 檔案。 您的 [!DNL build.gradle] 檔案現在應如下所示
 
 <!--
 Removed `{.line-numbers}` below
@@ -37,13 +37,13 @@ implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 ```
 
-![模組級](assets/module-build-gradle.PNG)
+![module-gradle](assets/module-build-gradle.PNG)
 
-* 同步 [!DNL Android] 通過按一下「立即同步」按鈕來同步項目
+* 同步您的 [!DNL Android] 按一下立即同步處理按鈕來同步處理您的專案
 
 ## 修改 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
-開啟 *AndroidManifest.xml* 並將以下2行貼上到manifest元素之後和應用程式元素之前。 這使您的應用程式能夠與外部世界通信
+開啟 *AndroidManifest.xml* 並將下列2行貼到manifest元素之後、應用程式元素之前。 這可讓您的應用程式與外部世界通訊
 
 <!--
 Removed `{.line-numbers}` below
@@ -54,10 +54,10 @@ Removed `{.line-numbers}` below
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-複製應用程式元素中的以下行
+複製應用程式元素中的下列行
 [!DNL android:name=".MainApp"]
-保存 [!DNL AndroidManifest.xml]
-您 [!DNL AndroidManifest.xml] 應該是這樣
+儲存您的 [!DNL AndroidManifest.xml]
+您的 [!DNL AndroidManifest.xml] 應該看起來像這樣
 
 <!--
 Removed `{.line-numbers}` below

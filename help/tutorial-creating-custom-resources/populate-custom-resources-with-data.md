@@ -1,6 +1,6 @@
 ---
-title: 使用資料填充自定義資源
-description: 瞭解如何使用工作流從CSV檔案中使用資料填充自定義資源。
+title: 使用資料填入自訂資源
+description: 瞭解如何使用工作流程，以CSV檔案中的資料填入自訂資源。
 feature: Data Model
 kt: 3003
 thumbnail: 27714.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 使用資料填充自定義資源
+# 使用資料填入自訂資源
 
-瞭解如何使用來自 [!DNL CSV] 檔案。
+瞭解如何使用中的資料填入自訂資源 [!DNL CSV] 使用工作流程建立檔案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
-有關如何通過 [!DNL API]，請參閱文檔： [與自定義資源交互](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html)。
+如需有關如何透過 [!DNL API]，請參閱本檔案： [與自訂資源互動](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).

@@ -1,6 +1,6 @@
 ---
 title: 建立及編輯登陸頁面
-description: 「瞭解如何在Adobe Campaign Standard建立、編輯和test登錄頁。」
+description: 「瞭解如何在Adobe Campaign Standard中建立、編輯和測試登入頁面。」
 feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
@@ -19,10 +19,10 @@ ht-degree: 16%
 
 # 建立及編輯登陸頁面 {#create-and-edit-a-landing-page}
 
-Adobe Campaign允許您構建登錄頁，這些登錄頁是線上表單，可用於捕獲您的受眾資訊、提供服務訂閱、顯示資料和增長資料庫。 登錄頁也可用於獲取或更新現有配置檔案。
+Adobe Campaign可讓您建立登入頁面，這些線上表單可用來擷取對象資訊、提供服務訂閱、顯示資料並擴充資料庫。 登入頁面也可用於取得或更新現有的設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
 
 ## 額外資源
 
-* [建立登錄頁（文檔）](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)
+* [建立登入頁面（檔案）](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)

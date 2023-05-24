@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 717e9c30-939e-4560-b358-96f144009105
-description: 瞭解如何配置登錄頁模板
+description: 瞭解如何設定登入頁面範本
 role: Admin, User
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
@@ -18,8 +18,8 @@ ht-degree: 22%
 
 ---
 
-# 配置 [!UICONTROL landing page template]
+# 設定 [!UICONTROL landing page template]
 
-此視頻說明如何配置 [!UICONTROL landing page] 模板。
+此影片說明如何設定 [!UICONTROL landing page] 範本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12&learn=on)
