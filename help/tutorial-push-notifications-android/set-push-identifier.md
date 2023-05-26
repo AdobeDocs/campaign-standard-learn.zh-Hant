@@ -18,7 +18,7 @@ ht-degree: 0%
 
 此 **[!DNL pushidentifier]** 是字串，其中包含裝置代號 [!DNL Push] 通知。 這是由傳送的相同Token [!DNL Firebase] 和會傳遞至SDK，使用 [!DNL MobileCore.setPushIdentifier] 方法。
 
-在中開啟您的專案 [!DNL Android™ ]工作室。 刪除中的整個程式碼 [!DNL MainActivity] **第一行是您的封裝陳述式除外**.
+在中開啟您的專案 [!DNL Android™ ]工作室。 刪除中的整個程式碼 [!DNL MainActivity] **第一行是封裝陳述式除外**.
 
 將下列程式碼貼入 [!DNL MainActivity]：
 
