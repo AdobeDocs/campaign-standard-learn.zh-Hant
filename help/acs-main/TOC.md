@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '581'
 ht-degree: 96%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 96%
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [教學課程：Android™ 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
       + 應用程式內訊息 {#in-app}
-         + [應用程式內訊息簡介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)
          + [廣播應用程式內訊息](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [根據其 Campaign 設定檔定位使用者](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
