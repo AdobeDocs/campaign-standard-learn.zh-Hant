@@ -10,16 +10,16 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '185'
 ht-degree: 2%
 
 ---
 
 # 設定 [!UICONTROL Events] {#configuring-events}
 
-設定時 [!UICONTROL In-App] 訊息，您必須定義使用者啟動的動作會觸發訊息顯示。 這些動作稱為 [!UICONTROL events]. 三個類別 [!UICONTROL events] 可用： [!UICONTROL Mobile Application events]， [!UICONTROL Life Cycle events]、和 [!UICONTROL Analytics events].
+設定時 [!UICONTROL In-App] 訊息，您必須定義使用者啟動的動作會觸發訊息顯示。 這些動作稱為 [!UICONTROL events]. 三個類別 [!UICONTROL events] 可用： [!UICONTROL Mobile Application events]， [!UICONTROL Life-Cycle events]、和 [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
-## [!UICONTROL Life Cycle events] {#life-cycle-events}
+## [!UICONTROL Life-Cycle events] {#life-cycle-events}
 
 [!UICONTROL Lifecycle events] 是現成可用的 [!UICONTROL events]. 下列專案 [!UICONTROL events] 可用：
 
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->此 [!UICONTROL Lifecycle module] 需要在行動應用程式中設定。 請參閱此處，瞭解更多關於 [如何將生命週期新增至您的應用程式](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>此 [!UICONTROL Lifecycle module] 必須在行動應用程式中設定。 請參閱此處，瞭解更多關於 [如何將生命週期新增至您的應用程式](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
@@ -60,4 +60,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要Adobe Analytics授權。 一旦您擁有 [[!DNL Analytics] 擴充功能已設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 並已新增 [Analytics至應用程式](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，這些事件便可在以下位置取得： [!UICONTROL In-App] ACS中的設定。
+>[!UICONTROL Analytics events] 需要Adobe Analytics授權。 一旦您擁有 [!DNL Analytics] 擴充功能已設定，且已將Analytics新增至您的應用程式，這些事件便可在以下連結中使用： [!UICONTROL In-App] ACS中的設定。
