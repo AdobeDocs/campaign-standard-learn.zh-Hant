@@ -2,7 +2,7 @@
 title: 預測性傳送時間最佳化
 description: 瞭解在 Adobe Campaign 和 Journey AI 模型之間同步資料所需的工作流程。瞭解如何在個別設定檔層級檢視傳送時間分數，以及如何使用傳送時間公式執行電子郵件傳遞。
 feature: Send Time Optimization
-kt: 6274
+jira: KT-6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 
