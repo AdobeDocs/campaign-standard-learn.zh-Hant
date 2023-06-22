@@ -5,13 +5,13 @@ feature: Application Settings
 topic: Integrations
 role: Admin
 level: Intermediate
-kt: 6526
+jira: KT-6526
 thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
