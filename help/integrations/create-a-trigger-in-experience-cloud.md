@@ -3,15 +3,15 @@ title: 在 Experience Cloud 中建立觸發因子
 description: 瞭解如何在 Experience Cloud 中設定觸發因子。
 feature: Triggers
 topic: Integrations
-kt: 6524
+jira: KT-6524
 thumbnail: 332624.jpg
 doc-type: article
 role: Admin
 level: Experienced
 team: TM
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 
