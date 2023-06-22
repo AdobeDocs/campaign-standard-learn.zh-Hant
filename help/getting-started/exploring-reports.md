@@ -2,7 +2,7 @@
 title: 探索報告
 description: 瞭解各種可用於電子郵件傳遞的開箱即用型報告。
 feature: Reporting
-kt: 3906
+jira: KT-3906
 thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
@@ -10,8 +10,8 @@ team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
