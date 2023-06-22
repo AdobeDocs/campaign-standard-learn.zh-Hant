@@ -2,7 +2,7 @@
 title: 將現有的電子郵件、SMS 傳遞或傳遞範本轉換為多語言版本
 description: 瞭解如何將現有的電子郵件、簡訊傳遞或傳遞範本轉換為多語言版本。
 feature: Email, SMS
-kt: 1703
+jira: KT-1703
 thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 28%

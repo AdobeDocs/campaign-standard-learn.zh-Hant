@@ -2,7 +2,7 @@
 title: 建立多語言推播通知
 description: 瞭解如何建立多語言推播通知。
 feature: Push
-kt: 1375
+jira: KT-1375
 thumbnail: 23304.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 33%

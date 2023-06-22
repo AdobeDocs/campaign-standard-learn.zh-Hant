@@ -2,7 +2,7 @@
 title: 建立及編輯登陸頁面
 description: 「瞭解如何在Adobe Campaign Standard中建立、編輯和測試登入頁面。」
 feature: Landing Pages
-kt: 1808
+jira: KT-1808
 thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 16%

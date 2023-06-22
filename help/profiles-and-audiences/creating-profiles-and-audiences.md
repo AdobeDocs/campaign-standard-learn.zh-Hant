@@ -2,7 +2,7 @@
 title: 建立設定檔和閱聽眾 – 概覽
 description: 了解如何導覽至現有的個人資料，以及如何建立個人資料和受眾。
 feature: Profiles, Audiences
-kt: 3899
+jira: KT-3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
@@ -10,7 +10,7 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 37%

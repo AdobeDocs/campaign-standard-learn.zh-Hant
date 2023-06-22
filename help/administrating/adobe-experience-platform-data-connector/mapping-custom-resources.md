@@ -2,13 +2,13 @@
 title: 對應自訂資源
 description: 瞭解如何在Adobe Campaign Standard (ACS)和Adobe Experience Platform (AEP)之間對應不同的資料型別
 feature: People Core Service Integration, Profiles
-kt: 2828
+jira: KT-2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 4%

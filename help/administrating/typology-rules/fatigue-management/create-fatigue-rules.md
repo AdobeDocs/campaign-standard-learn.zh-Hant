@@ -2,13 +2,13 @@
 title: 建立疲勞規則
 description: 本影片說明如何設定型別規則。
 feature: Fatigue Management
-kt: 3446
+jira: KT-3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%

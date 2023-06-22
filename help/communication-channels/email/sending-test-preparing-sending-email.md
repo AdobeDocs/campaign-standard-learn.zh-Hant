@@ -2,7 +2,7 @@
 title: 傳送測試、準備及傳送電子郵件
 description: 「瞭解如何傳送測試電子郵件、準備，然後傳送電子郵件傳遞。 」
 feature: Email, Test Profiles
-kt: 1812
+jira: KT-1812
 thumbnail: 24013.jpg
 doc-type: feature video
 activity: use
@@ -12,7 +12,7 @@ role: User
 level: Beginner
 hidefromtoc: true
 hide: true
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 31%

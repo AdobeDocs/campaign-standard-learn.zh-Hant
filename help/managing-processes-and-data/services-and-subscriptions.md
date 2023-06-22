@@ -2,7 +2,7 @@
 title: 管理服務與訂閱
 description: 瞭解如何建立服務及管理訂閱。
 feature: Subscriptions
-kt: 1815
+jira: KT-1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 43%

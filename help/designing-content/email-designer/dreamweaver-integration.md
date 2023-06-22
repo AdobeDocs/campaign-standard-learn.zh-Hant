@@ -2,7 +2,7 @@
 title: 使用 Adobe Dreamweaver 建立內容
 description: 瞭解啟用Dreamweaver整合的必要條件，以及如何使用Dreamweaver建立和編輯Adobe Campaign Standard的內容。
 feature: Email Design
-kt: 1420
+jira: KT-1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 67%

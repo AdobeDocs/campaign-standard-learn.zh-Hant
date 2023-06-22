@@ -2,7 +2,7 @@
 title: A/B 測試
 description: 瞭解如何設定和傳送A/B測試以測試電子郵件的主旨行。
 feature: A/B Testing
-kt: 3907
+jira: KT-3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 37%

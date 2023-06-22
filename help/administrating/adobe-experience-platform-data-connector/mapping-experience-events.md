@@ -2,13 +2,13 @@
 title: 對應體驗事件
 description: 瞭解如何在Adobe Experience Platform (AEP)中對應體驗事件
 feature: People Core Service Integration
-kt: 2832
+jira: KT-2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 13%

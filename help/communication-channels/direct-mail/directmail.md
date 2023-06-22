@@ -2,7 +2,7 @@
 title: 建立直接郵件
 description: 瞭解如何建立直接郵件。
 feature: Direct Mail
-kt: 1430
+jira: KT-1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
@@ -10,7 +10,7 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

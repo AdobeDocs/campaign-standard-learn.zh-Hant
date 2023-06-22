@@ -2,7 +2,7 @@
 title: 使用現有的內容
 description: 瞭解如何從網站擷取創意內容並將其載入電子郵件設計工具。
 feature: Email Design
-kt: 6295
+jira: KT-6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 7%

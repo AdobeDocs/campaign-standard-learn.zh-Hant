@@ -2,7 +2,7 @@
 title: 使用「統一區段建立器」建立新的對象
 description: 瞭解如何使用統一區段產生器建立受眾
 feature: People Core Service Integration
-kt: 2754
+jira: KT-2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
@@ -10,7 +10,7 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 9%
@@ -27,7 +27,7 @@ ht-degree: 9%
 
 Adobe Campaign Standard可讓您使用Adobe Experience Cloud中的資料建立對象 [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) 藉由使用Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-您可以存取 [!UICONTROL Unified Segment Builder] 直接在Adobe Campaign Standard中透過 [!UICONTROL Audiences ] 模組。 它可讓您直接在中管理這些對象 [!UICONTROL Audiences] 清單檢視，您可以在此處直接從Adobe Campaign介面編輯或建立Adobe Experience Platform對象
+您可以存取 [!UICONTROL Unified Segment Builder] 直接在Adobe Campaign Standard中透過 [!UICONTROL Audiences] 模組。 它可讓您直接在中管理這些對象 [!UICONTROL Audiences] 清單檢視，您可以在此處直接從Adobe Campaign介面編輯或建立Adobe Experience Platform對象
 
 以下影片說明如何使用建立新受眾 [!UICONTROL Unified Segment Builder] 在Adobe Campaign Standard中。
 
