@@ -2,14 +2,14 @@
 title: Android™ 應用程式使用推送通知快速入門
 description: 本教學課程將逐步帶您瞭解從 Adobe Campaign 傳送推送通知以及在 Android™ 應用程式接收這些通知的相關步驟。
 feature: Push
-kt: 3846
+jira: KT-3846
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 
