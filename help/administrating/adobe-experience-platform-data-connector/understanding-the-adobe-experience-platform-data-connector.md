@@ -5,12 +5,12 @@ feature: People Core Service Integration
 jira: KT-2826
 thumbnail: 27304.jpg
 role: User
-level: Advanced
+level: Experienced
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 89f520da0455da693b27c397f95cdabab4552770
+source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 4%
