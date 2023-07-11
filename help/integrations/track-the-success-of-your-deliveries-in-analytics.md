@@ -11,7 +11,7 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
