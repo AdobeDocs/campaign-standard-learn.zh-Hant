@@ -1,7 +1,10 @@
 ---
 user-guide-title: Adobe Campaign Standard – 建立自訂資源教學課程
 user-guide-description: 這個多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
-source-git-commit: 1b2e9a48c4e48fe07c3114976dc8c3a57ed8a1c4
+role: Admin
+level: Beginner
+feature: Data Model
+source-git-commit: fe14b0dc9fbea000ac13f4a538c8e2f5eab38079
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
