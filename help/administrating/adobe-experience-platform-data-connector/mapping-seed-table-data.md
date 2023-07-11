@@ -6,9 +6,11 @@ jira: KT-2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
+role: User
+leavel: Advanced
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: a9a4a952c0c14f881239ef04a61cf7e01316da94
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 8%
