@@ -7,9 +7,11 @@ jira: KT-2831
 thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
+role: User
+leavel: Advanced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: ac4c6f136f8a71c7ef80386032871980b42dd51d
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 23%
