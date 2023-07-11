@@ -5,10 +5,12 @@ feature: Privacy Tools
 jira: KT-1480
 doc-type: feature video
 activity: use
+role: Admin
+level: Advanced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
+source-git-commit: 89f520da0455da693b27c397f95cdabab4552770
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 90%

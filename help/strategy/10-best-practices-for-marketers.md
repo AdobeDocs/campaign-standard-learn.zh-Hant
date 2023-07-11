@@ -2,12 +2,13 @@
 title: Adobe Campaign 成功行銷的十大最佳實務
 description: 了解十大最佳實務，協助 Adobe Campaign 從業人員充分發揮並加速消費者數位轉型，並向客戶提供更佳體驗。
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11779
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%

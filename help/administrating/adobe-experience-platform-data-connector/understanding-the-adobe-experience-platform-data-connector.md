@@ -4,11 +4,13 @@ description: Adobe Experience Platform Data Connector可協助現有客戶，將
 feature: People Core Service Integration
 jira: KT-2826
 thumbnail: 27304.jpg
+role: User
+level: Advanced
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 89f520da0455da693b27c397f95cdabab4552770
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 4%

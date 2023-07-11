@@ -6,9 +6,11 @@ jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
+role: Admin
+level: Advanced
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 89f520da0455da693b27c397f95cdabab4552770
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
