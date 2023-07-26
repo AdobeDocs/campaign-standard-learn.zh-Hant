@@ -10,9 +10,10 @@ thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
-workflow-type: ht
-source-wordcount: '103'
+badgeIntegration: label="整合" type="positive"
+source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---

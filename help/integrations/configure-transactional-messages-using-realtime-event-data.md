@@ -10,9 +10,10 @@ level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
-workflow-type: ht
-source-wordcount: '40'
+badgeIntegration: label="整合" type="positive"
+source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+workflow-type: tm+mt
+source-wordcount: '41'
 ht-degree: 100%
 
 ---
