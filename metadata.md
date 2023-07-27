@@ -9,7 +9,7 @@ mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.zh-Hant
 index: true
 source-git-commit: f19c11812d187b67450eea05d62ada68b4b97bbc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
