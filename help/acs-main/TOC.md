@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷活動協調、即時互動管理和跨通道執行的環境。
 breadcrumb-title: Campaign Standard 教學課程
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: ht
-source-wordcount: '581'
+source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,6 @@ ht-degree: 100%
    + [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
    + [監視傳遞](/help/reporting/monitor-a-delivery.md)
 + 與其他解決方案整合 {#integrations}
-   + [將目標與行銷活動整合](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=zh-Hant)
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 使用異動訊息的觸發因子 {#triggers}
       + [概覽](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
