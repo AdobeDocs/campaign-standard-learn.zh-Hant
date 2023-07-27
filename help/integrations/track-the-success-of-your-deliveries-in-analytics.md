@@ -1,5 +1,5 @@
 ---
-title: 追蹤您在 Adobe Analytics 的傳遞是否成功
+title: 追蹤您在Adobe Analytics中的Campaign Standard傳遞是否成功
 description: 瞭解如何設定 Campaign Standard 與 Analytics 整合。 瞭解如何使用從 Campaign Standard 收到的資料在 Analytics 中建立報告，以及可使用哪些 KPI。
 feature: Application Settings
 topic: Integrations
@@ -11,14 +11,14 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="整合" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 79%
 
 ---
 
-# 追蹤您在 Adobe Analytics 的傳遞是否成功
+# 追蹤您在Adobe Analytics中的Campaign Standard傳遞是否成功
 
 瞭解如何設定 Campaign Standard 與 Analytics 整合。 瞭解如何使用從 Campaign Standard 收到的資料在 Analytics 中建立報告，以及可使用哪些 KPI。
 
