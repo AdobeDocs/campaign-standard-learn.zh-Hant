@@ -1,14 +1,16 @@
 ---
 title: 步驟1 — 建立Android應用程式並設定為使用Firebase雲端通訊
-description: 在本部分中，我們將建立 [!DNL Android] 要接收的應用程式 [!UICONTROL Push notifications] 從Adobe Campaign Standard傳送。 若要接收推播通知，應用程式必須向Google註冊 [!DNL Firebase Cloud Service].
+description: 在本部分中，我們將建立 [!DNL Android] 要接收的應用程式 [!UICONTROL Push notifications] 從Adobe Campaign Standard傳送。 若要接收推播通知，應用程式必須向Google的註冊中心 [!DNL Firebase Cloud Service].
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4825
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 0ad82fb0533ed8fc2a85c2a32c7e54deef14d05a
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 3%
@@ -36,7 +38,7 @@ ht-degree: 3%
    ![android-project-configuration](assets/android-project-configuration.PNG)
 
 6. 接受預設封裝名稱，然後按一下 **[!DNL Finish]** 以建立您的專案。
-7. 您的專案結構應該看起來類似下面的熒幕擷取畫面
+7. 您的專案結構看起來應該類似下列熒幕擷取畫面
 
    ![android-project-structure](assets/android-project-structure.PNG)
 
@@ -49,7 +51,7 @@ ht-degree: 3%
 11. 將應用程式連線至Firebase後，請按一下 **[!UICONTROL Add FCM to your app].**
 12. 按一下&#x200B;**[!UICONTROL Accept Changes]。**
 
-   當您將FCM新增至應用程式時，精靈需要您的許可權才能對專案進行某些變更。
+   將FCM新增至應用程式時，精靈需要您的許可權才能對專案進行某些變更。
 
    ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 
@@ -72,7 +74,7 @@ ht-degree: 3%
 
    ![server-key](assets/firebase-server-key.PNG)
 
-6. 登入您的Adobe Campaign Standard執行個體
+6. 登入Adobe Campaign Standard執行個體
 7. 按一下 **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. 選取適當的 **[!UICONTROL Mobile Application Property].**
 9. 按一下 **[!DNL Android]圖示** 在 **[!UICONTROL Push Channel settings]** 區段。
@@ -82,4 +84,4 @@ ht-degree: 3%
 
 ![推播頻道設定](assets/push-channel-settings.PNG)
 
-總而言之，我們已建立 [!DNL Android App] 並連線 [!DNL Android App] 替換為 [!DNL Firebase]. 接著，我們在Adobe Campaign中透過以下連結行動應用程式： [!DNL Android App] 透過貼上 [!DNL Android] 在Adobe Campaign Standard中連線至行動應用程式的應用程式伺服器金鑰。
+總而言之，我們已建立 [!DNL Android App] 並連線 [!DNL Android App] 替換為 [!DNL Firebase]. 接著，我們在Adobe Campaign中使用以下裝置連線行動應用程式： [!DNL Android App] 藉由貼上 [!DNL Android] 在Adobe Campaign Standard中連線至行動應用程式的應用程式伺服器金鑰。
