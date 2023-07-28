@@ -7,10 +7,10 @@ thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 role: User
-leavel: Advanced
+level: Experienced
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-source-git-commit: a9a4a952c0c14f881239ef04a61cf7e01316da94
+source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 8%
@@ -25,7 +25,7 @@ ht-degree: 8%
 >
 >請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-瞭解如何使用Adobe Experience Platform對應種子資料和測試設定檔。
+瞭解如何使用Adobe Experience Platform對應種子資料及測試設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 

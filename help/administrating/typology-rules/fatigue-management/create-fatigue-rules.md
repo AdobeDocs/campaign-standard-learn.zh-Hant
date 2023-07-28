@@ -7,10 +7,10 @@ thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 role: Admin
-level: Advanced
+level: Experienced
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: 11be65b9bc0dd63344493eb2ca4f86765bf00a66
+source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%

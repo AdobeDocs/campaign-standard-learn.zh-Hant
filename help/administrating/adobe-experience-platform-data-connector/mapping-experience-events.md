@@ -7,10 +7,10 @@ thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 role: User
-leavel: Advanced
+level: Experienced
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-source-git-commit: 3201187cbffddc98a1e015a9138bf7a375ccf6d3
+source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 13%
