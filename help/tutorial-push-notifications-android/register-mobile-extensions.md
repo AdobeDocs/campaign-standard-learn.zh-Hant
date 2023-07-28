@@ -1,13 +1,15 @@
 ---
 title: 步驟 3－在您的行動應用程式中註冊擴充功能
-description: 在本部分中，我們會新增程式碼以註冊UserProfile、身分、生命週期和訊號擴充功能。
+description: 在此部分中，我們會新增程式碼以註冊UserProfile、身分、生命週期和訊號擴充功能。
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 13%
@@ -68,6 +70,6 @@ try{
 }
 ```
 
-第32行，您必須提供[!UICONTROL  Launch] 屬性的環境檔案識別碼。 這可以從以下位置存取： [!UICONTROL environment tab] 的 [!UICONTROL Launch] 屬性。
+第32行，您必須提供[!UICONTROL  Launch] 屬性的環境檔案識別碼。 您可從「 」存取 [!UICONTROL environment tab] 的 [!UICONTROL Launch] 屬性。
 
 ![launch-id](assets/launch-id-property.PNG)
