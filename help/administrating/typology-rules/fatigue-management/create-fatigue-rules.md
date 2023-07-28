@@ -7,10 +7,10 @@ thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 role: Admin
-leavel: Advanced
+level: Advanced
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: c074865b5654a943bcb2293937a3cb546d6d1a16
+source-git-commit: 11be65b9bc0dd63344493eb2ca4f86765bf00a66
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%
@@ -19,7 +19,7 @@ ht-degree: 26%
 
 # 建立 [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] 允許行銷人員設定全球跨頻道商業規則，以自動從行銷活動中排除過度請求的設定檔。
+[!UICONTROL Fatigue rules] 可讓行銷人員設定全球跨頻道商業規則，自動從行銷活動中排除過度請求的設定檔。
 建立 [!UICONTROL fatigue rules]，您需要定義每個設定檔的最大訊息數量，並選取將套用規則的期間。 在準備傳送期間，設定檔會根據已傳送給設定檔的訊息數量，從傳送中排除（如果適用）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
