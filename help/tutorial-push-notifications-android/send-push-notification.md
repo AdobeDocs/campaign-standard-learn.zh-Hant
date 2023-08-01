@@ -4,12 +4,12 @@ description: 第6部分 — 傳送推播通知以測試您的工作
 feature: Push
 jira: KT-4830
 user: Admin
-level: Exprienced
+level: Experienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: 31aceddbd0e740f01d39f430037afa85d41a4c23
+source-git-commit: f4712dcf6dec01867414057346f8501c6e1669ec
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
