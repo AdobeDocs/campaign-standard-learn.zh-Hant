@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Adobe Campaign 為資料掌控者提供三種方法，讓資料掌控者根據�
 
 >[!NOTE]
 >
-> **ACS 19.4的變更：**
+> **ACS 19.4 的變更：**
 > 
-> 此 [Privacy Service整合](https://developer.adobe.com/apis/experienceplatform/gdpr.html) 是您應用於所有存取和刪除要求的方法。 自 19.4 版本以來，不建議使用 Campaign API 和介面來存取和刪除請求。有關 Campaign Standard 已過時和已刪除功能的詳細資訊，請參閱[此頁](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=zh-Hant)。
+> [Privacy Service 整合](https://developer.adobe.com/apis/experienceplatform/gdpr.html)是可讓您用於處理所有存取和刪除請求的方法。 自 19.4 版本以來，不建議使用 Campaign API 和介面來存取和刪除請求。有關 Campaign Standard 已過時和已刪除功能的詳細資訊，請參閱[此頁](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=zh-Hant)。
 >
 >**選擇退出個人資訊銷售 (CCPA)**
 >
