@@ -1,6 +1,6 @@
 ---
 title: 外部訊號活動 — 使用引數呼叫工作流程
-description: 瞭解如何從另一個工作流程開始，以支援更複雜的客戶歷程，同時能夠更好地監控和回應問題。
+description: 瞭解如何從另一個工作流程開始，以支援更複雜的客戶歷程，同時更能監控和回應問題。
 feature: Execution Activity
 jira: KT-2750
 thumbnail: 27249
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # [!UICONTROL External Signal activity]  — 使用引數呼叫工作流程
 
-此 [!UICONTROL External Signal activity] 用於組織和協調不同的流程，這些流程是同一客戶歷程中不同工作流程的一部分。 此活動可從另一個工作流程開始。 此 [!UICONTROL External Signal activity] 可呼叫工作流程，並將引數（例如要鎖定的對象名稱、要匯入的檔案名稱或訊息內容的一部分）從一個工作流程傳遞至另一個工作流程。 它也可以呼叫REST API來與外部系統整合，例如內容管理系統。 使用 **測試** 活動，可在此功能上執行測試。
+此 [!UICONTROL External Signal activity] 用於組織和協調不同的流程，這些流程是同一客戶歷程中不同工作流程的一部分。 此活動可從另一個工作流程開始。 此 [!UICONTROL External Signal activity] 可呼叫工作流程，並將引數（例如要鎖定的對象名稱、要匯入的檔案名稱，或訊息內容的一部分）從一個工作流程傳遞至另一個工作流程。 它也可以呼叫REST API來與外部系統整合，例如內容管理系統。 使用 **測試** 活動，可針對此功能執行測試。
 
-瞭解如何設定 [!UICONTROL External Signal activity] 若要從外部系統接收引數**請使用外部引數自訂工作流程，並設定結束活動以使用外部引數呼叫工作流程
+瞭解如何設定 [!UICONTROL External Signal activity] 若要接收外部系統**引數、使用外部引數自訂工作流程，以及設定結束活動，以使用外部引數呼叫工作流程
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)

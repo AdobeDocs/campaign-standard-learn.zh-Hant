@@ -1,6 +1,6 @@
 ---
-title: 瞭解Adobe Experience Platform Data Connector
-description: Adobe Experience Platform Data Connector可協助現有客戶，將XTK資料（在Campaign中擷取的資料）對應至Adobe Experience Platform上的Experience Data Model (XDM)資料，以便在Adobe Experience Platform上提供其資料。
+title: 瞭解Adobe Experience Platform資料聯結器
+description: Adobe Experience Platform Data Connector將XTK資料（在Campaign中擷取的資料）對應至Adobe Experience Platform上的Experience Data Model (XDM)資料，協助現有客戶在Adobe Experience Platform上提供其資料。
 feature: People Core Service Integration
 jira: KT-2826
 thumbnail: 27304.jpg
@@ -21,13 +21,13 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。
+>此功能為測試版，且可能會不時更新和修改，恕不另行通知。
 >
 >請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
 ## 概覽
 
-Adobe Experience Platform [!UICONTROL Data Connector] 透過將XTK資料(在Adobe Campaign中擷取的資料)對應至，協助現有客戶使其資料可在Adobe Experience Platform上使用 [!DNL Experience Data Model] (XDM) Adobe Experience Platform資料。
+Adobe Experience Platform [!UICONTROL Data Connector] 將XTK資料(在Adobe Campaign中擷取的資料)對應至Adobe Experience Platform，協助現有客戶使其資料可在上使用 [!DNL Experience Data Model] (XDM) Adobe Experience Platform上的資料。
 
 聯結器是單向的，會將資料從Adobe Campaign Standard傳送至Adobe Experience Platform。 資料絕不會從Adobe Experience Platform傳送至Adobe Campaign Standard。
 
@@ -41,7 +41,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] 專為瞭解Adobe Campaign
 >
 >現成可用的傳輸 [!UICONTROL subscription events] 不受支援。 要轉移 [!UICONTROL subscription events]，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
 >
->現有 [!UICONTROL experience events] 無法內嵌至Adobe Experience Platform，但正在產生 [!UICONTROL experience events] 會串流至Adobe Experience Platform。
+>現有 [!UICONTROL experience events] 無法擷取至Adobe Experience Platform，但正在產生 [!UICONTROL experience events] 會串流至Adobe Experience Platform。
 
 ## 執行資料對應的重要步驟
 

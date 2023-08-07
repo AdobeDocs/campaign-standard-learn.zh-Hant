@@ -19,6 +19,6 @@ ht-degree: 8%
 
 # 建立設定檔
 
-此影片說明如何建立設定檔，以及如何將其新增至對象。
+此影片說明如何建立設定檔，以及如何將其新增到受眾。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)

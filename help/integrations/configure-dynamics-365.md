@@ -11,7 +11,7 @@ team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 badgeIntegration: label="整合" type="positive"
 source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

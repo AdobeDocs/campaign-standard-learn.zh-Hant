@@ -1,6 +1,6 @@
 ---
 title: 檢視電子郵件傳遞和報告
-description: 瞭解如何檢閱個人化電子郵件傳遞，並探索Adobe Campaign Standard中可用的不同報表。
+description: 瞭解如何檢閱個人化電子郵件傳遞，並探索Adobe Campaign Standard中可用的不同報告。
 feature: Reporting
 jira: KT-3904
 thumbnail: 21389.jpg
@@ -19,6 +19,6 @@ ht-degree: 23%
 
 # 檢視電子郵件傳遞和報告
 
-此影片說明如何檢閱個人化電子郵件傳遞，並探索Adobe Campaign Standard中可用的不同報表。
+本影片說明如何檢閱個人化電子郵件傳遞，並探索Adobe Campaign Standard中可用的不同報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12&learn=on)

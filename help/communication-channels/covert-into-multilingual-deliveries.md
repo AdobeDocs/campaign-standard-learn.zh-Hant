@@ -23,4 +23,4 @@ ht-degree: 28%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
 
-請參閱產品檔案，瞭解更多關於 [建立多語言電子郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+請參閱產品檔案，深入瞭解 [建立多語言電子郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

@@ -19,7 +19,7 @@ ht-degree: 14%
 
 # 電子郵件內容範本簡介 {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard提供18個可完全自訂的立即可用回應式電子郵件範本。 這些範本是專為Adobe Campaign Standard建立的，易於操作和變更。 這是建立電子郵件的絕佳起點。
+Adobe Campaign Standard提供18個可完全自訂的現成回應式電子郵件範本。 這些範本是專為Adobe Campaign Standard建立的，易於操作和變更。 這是建立電子郵件的絕佳起點。
 
 此影片會介紹範本，並說明如何建立自己的範本。
 

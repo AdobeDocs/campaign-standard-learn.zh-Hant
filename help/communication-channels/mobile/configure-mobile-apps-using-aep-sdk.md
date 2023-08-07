@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # 設定行動應用程式，使用 [!UICONTROL Adobe Experience Platform SDK]
 
-若要傳送應用程式內訊息或 [!UICONTROL push notifications] 使用Mobile SDK V5時，行動應用程式必須在以下位置設定： [!UICONTROL Adobe Experience Platform Launch] 並在Adobe Campaign中設定。
+若要傳送應用程式內訊息或 [!UICONTROL push notifications] 使用行動SDK V5時，行動應用程式必須在以下位置設定： [!UICONTROL Adobe Experience Platform Launch] 並在Adobe Campaign中設定。
 
 以下影片示範在Experience Platform Launch中設定行動應用程式所需的步驟：
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->另請參閱 [在中設定您的應用程式 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 詳細檔案以及影片中使用的程式碼範本。
+>另請參閱 [在中設定您的應用程式 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 詳細檔案及影片中使用的程式碼範本。

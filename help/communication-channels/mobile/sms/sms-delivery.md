@@ -19,7 +19,7 @@ ht-degree: 20%
 
 # 建立簡訊傳遞{#creating-a-sms-delivery}
 
-瞭解如何在Adobe Campaign Standard中建立SMS傳送。 您也可以使用SMS傳送活動，在工作流程中設定SMS傳送。
+瞭解如何在Adobe Campaign Standard中建立簡訊傳遞。 您也可以使用SMS傳送活動，在工作流程中設定SMS傳送。
 
 SMS傳送活動用於自動傳送SMS。 此活動的設定與影片中說明的一次性傳送的設定相同。
 

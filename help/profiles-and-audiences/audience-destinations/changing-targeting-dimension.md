@@ -1,6 +1,6 @@
 ---
 title: 變更目標維度
-description: 此影片說明如何在Adobe Campaign Standard主要設定檔表格之外，變更Platform Audience傳送作業的定位維度。
+description: 此影片說明如何在Adobe Campaign Standard主要設定檔表格之外，變更Platform對象傳送作業的定位維度。
 feature: People Core Service Integration
 jira: KT-3739
 thumbnail: 30151.jpg
@@ -21,7 +21,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能為測試版，且可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
 >請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 

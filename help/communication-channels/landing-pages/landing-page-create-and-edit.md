@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # 建立及編輯登陸頁面 {#create-and-edit-a-landing-page}
 
-Adobe Campaign可讓您建立登入頁面，這些線上表單可用來擷取對象資訊、提供服務訂閱、顯示資料並擴充資料庫。 登入頁面也可用於取得或更新現有的設定檔。
+Adobe Campaign可讓您建立登入頁面，這些線上表單可用來擷取對象的相關資訊、提供服務訂閱、顯示資料，以及擴充您的資料庫。 登入頁面也可用來取得或更新現有的設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
 

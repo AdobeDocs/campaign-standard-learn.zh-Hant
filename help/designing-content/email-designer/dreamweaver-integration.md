@@ -27,7 +27,7 @@ ht-degree: 67%
 
 >[!NOTE]
 >
->這項功能需要名為 **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 擴充功能。您可從 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下載擴充功能。如需有關安裝的詳細資訊，請參閱 [Dreamweaver的Campaign擴充功能](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>這項功能需要名為 **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 擴充功能。您可從 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下載擴充功能。如需安裝的詳細資訊，請參閱 [Dreamweaver的Campaign擴充功能](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 影片說明如何啟用 Dreamweaver 整合，以及如何使用 Dreamweaver 建立和編輯用於 Adobe Campaign Standard 的內容。
 
@@ -35,4 +35,4 @@ ht-degree: 67%
 
 *如何在 Adobe Campaign 使用 Dreamweaver 整合 (02:37分鐘)*
 
-請參閱Dreamweaver [Adobe Dreamweaver檔案](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 的相關資訊： [疑難排解Adobe Campaign Dreamweaver安裝](https://helpx.adobe.com/tw/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+請參閱Dreamweaver [Adobe Dreamweaver檔案](https://helpx.adobe.com/tw/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 的相關資訊 [Adobe Campaign Dreamweaver安裝疑難排解](https://helpx.adobe.com/tw/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

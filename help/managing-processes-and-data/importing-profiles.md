@@ -19,7 +19,7 @@ ht-degree: 18%
 
 # 使用工作流程匯入設定檔{#import-profiles-with-a-workflow}
 
-您可以從檔案中收集資料以進行處理及/或將其匯入Adobe Campaign資料庫。
+您可以從檔案中收集資料，以便處理資料和/或將其匯入Adobe Campaign資料庫。
 
 此影片說明如何使用 [!UICONTROL Data Management] 工作流程中的活動以匯入設定檔資料。
 

@@ -1,6 +1,6 @@
 ---
 title: 測試並發佈登陸頁面
-description: 瞭解如何測試內建Adobe Campaign Standard的登入頁面，以及如何發佈該頁面。
+description: 瞭解如何測試內建Adobe Campaign Standard的登入頁面，以及如何發佈。
 feature: Landing Pages
 jira: KT-1813
 thumbnail: 24992.jpg

@@ -12,7 +12,7 @@ team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="整合" type="positive"
 source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 

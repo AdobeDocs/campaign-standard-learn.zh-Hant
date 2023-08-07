@@ -24,15 +24,15 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 * **[排程訊息](/help/communication-channels/email/schedule-messages.md)**
 
-   *了解如何排程電子郵件傳遞。*
+  *了解如何排程電子郵件傳遞。*
 
 * **[傳送證明](/help/communication-channels/email/send-a-proof.md)**
 
-   *了解如何先測試電子郵件訊息，再傳送給最終收件者。*
+  *了解如何先測試電子郵件訊息，再傳送給最終收件者。*
 
 * **[Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *了解十大最佳實務，協助 Adobe Campaign 從業人員充分發揮並加速消費者數位轉型，並向客戶提供更佳體驗。*
+  *了解十大最佳實務，協助 Adobe Campaign 從業人員充分發揮並加速消費者數位轉型，並向客戶提供更佳體驗。*
 
 </div>
 

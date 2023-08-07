@@ -1,6 +1,6 @@
 ---
 title: 監視傳遞
-description: 瞭解訊息記錄檔、工作記錄檔和傳遞記錄檔。
+description: 瞭解訊息記錄檔、工作記錄檔和傳送記錄檔。
 feature: Monitoring
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 27%
 
 # 監視傳遞
 
-瞭解訊息記錄檔、工作記錄檔和傳遞記錄檔。
+瞭解訊息記錄檔、工作記錄檔和傳送記錄檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on)

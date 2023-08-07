@@ -26,6 +26,6 @@ Adobe Campaign有兩種型別或設定檔：
 
 系統會呼叫根據一或多個通用條件分組的設定檔 **對象**.
 
-此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和閱聽眾。
+此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

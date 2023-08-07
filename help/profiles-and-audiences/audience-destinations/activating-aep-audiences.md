@@ -1,6 +1,6 @@
 ---
 title: 在工作流程啟動 Adobe Experience Platform 閱聽眾
-description: 此影片說明如何使用「讀取對象」活動，在工作流程中啟用「資料服務查詢對象」。
+description: 此影片說明如何使用「讀取閱聽眾」活動，在工作流程中啟用「資料服務查詢閱聽眾」。
 feature: People Core Service Integration
 jira: KT-2760
 thumbnail: 27647.jpg
@@ -21,7 +21,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能為測試版，且可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
 >請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 

@@ -21,13 +21,13 @@ ht-degree: 29%
 
 工作流程可用於不同的內容，例如：
 
-* 鎖定目標以管理對象或傳送訊息
+* 定位以管理對象或傳送訊息
 * 資料管理(ETL)來操作資料
 * 將資料匯入Campaign資料庫
 * 技術流程，例如資料庫清理、復原追蹤資訊等。
 
-本影片將展示如何在Adobe Campaign Standard中建立和編輯工作流程。
+本影片說明如何在Adobe Campaign Standard中建立和編輯工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 
-請參閱產品檔案，瞭解更多關於 [建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+請參閱產品檔案，深入瞭解 [建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

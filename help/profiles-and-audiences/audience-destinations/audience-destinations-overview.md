@@ -1,6 +1,6 @@
 ---
 title: 對象目的地 — 概觀
-description: 瞭解如何在Adobe Campaign Standard中使用Adobe Experience Platform對象
+description: 瞭解如何在Adobe Campaign Standard中使用Adobe Experience Platform受眾
 feature: People Core Service Integration
 jira: KT-2755
 thumbnail: null
@@ -20,18 +20,18 @@ ht-degree: 4%
 
 # [!UICONTROL Audience Destinations] (BETA) — 概觀
 
-## 在Adobe Campaign Standard中使用Adobe Experience Platform對象
+## 在Adobe Campaign Standard中使用Adobe Experience Platform受眾
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能為測試版，且可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
 >請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 >
 
-本教學課程說明如何將Adobe Experience Platform的集中式整合設定檔資料用於Adobe Campaign Standard中的行銷活動。
+本教學課程說明如何將Adobe Experience Platform的集中整合式設定檔資料用於Adobe Campaign Standard中的行銷活動。
 
-此 [!UICONTROL Audiences] Adobe Campaign Standard中的模組可讓您使用下列專案的資料建立區段： [Adobe Experience Platform — 資料服務](https://developer.adobe.com/apis/experienceplatform/home/services.html) 位在 [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+此 [!UICONTROL Audiences] Adobe Campaign Standard中的模組可讓您使用來自的資料建立區段 [Adobe Experience Platform — 資料服務](https://developer.adobe.com/apis/experienceplatform/home/services.html) 存留在 [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 下列影片教學課程會引導您完成不同的步驟：
 
