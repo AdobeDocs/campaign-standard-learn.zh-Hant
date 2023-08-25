@@ -10,9 +10,9 @@ level: Experienced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -21,23 +21,11 @@ ht-degree: 100%
 
 Adobe Campaign 為資料掌控者提供三種方法，讓資料掌控者根據隱私權行為，例如 GDPR (一般資料保護規則) 和 CCPA (加州消費者隱私法)，執行 PII 資料的隱私權存取和刪除請求：
 
-* **透過隱私權核心服務整合：**&#x200B;從推送至所有 Experience Cloud 解決方案[!UICONTROL Privacy Service]的隱私權請求，由 Campaign 透過專用工作流程自動處理。若要了解如何從隱私權核心服務建立隱私權要求，請參閱 [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* **透過隱私權核心服務整合：**&#x200B;從推送至所有 Experience Cloud 解決方案[!UICONTROL Privacy Service]的隱私權請求，由 Campaign 透過專用工作流程自動處理。
 
 * **透過 API：** Adobe Campaign 提供 API，允許使用 REST 自動處理隱私權請求
 
 * **透過 Adobe Campaign 介面：**&#x200B;針對每個隱私權請求，資料控制者會在 Adobe Campaign 建立新的隱私權請求
-
->[!NOTE]
->
-> **ACS 19.4 的變更：**
-> 
-> [Privacy Service 整合](https://developer.adobe.com/apis/experienceplatform/gdpr.html)是可讓您用於處理所有存取和刪除請求的方法。 自 19.4 版本以來，不建議使用 Campaign API 和介面來存取和刪除請求。有關 Campaign Standard 已過時和已刪除功能的詳細資訊，請參閱[此頁](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=zh-Hant)。
->
->**選擇退出個人資訊銷售 (CCPA)**
->
-> Campaign 介面及 API 中會提供開箱即用的「CCPA 選擇退出」欄位。
->
-> 您可以檢查您的版本，按一下&#x200B;**?**&#x200B;圖示並選取「關於」，即可檢查自己的版本資訊。
 
 ## 影片教學課程
 
@@ -55,5 +43,5 @@ Adobe Campaign 為資料掌控者提供三種方法，讓資料掌控者根據�
 
 * [Campaign 的一般隱私權指引](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hant#getting-started)
 * [ACS 的 CCPA](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=zh-Hant#privacy-requests)
-* [Adobe Experience Platform 隱私權服務](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* [Adobe Experience Platform 隱私權服務](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hant)
 * [Adobe Campaign Standard REST API 文件](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
