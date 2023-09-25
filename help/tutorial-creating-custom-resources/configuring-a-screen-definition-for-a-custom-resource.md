@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 1d1a11c4-6f87-4ee4-bb75-b86228e72042
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '45'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 瞭解如何設定自訂資源的熒幕定義。
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
 
 **下一步**
 

@@ -10,10 +10,10 @@ team: DOC
 exl-id: a2a816e2-9e6d-4f67-9d4e-c6413eaa81f4
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 8%
+source-wordcount: '38'
+ht-degree: 7%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 8%
 
 此影片說明如何建立設定檔，以及如何將其新增到受眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}

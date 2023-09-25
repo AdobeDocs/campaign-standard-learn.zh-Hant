@@ -10,9 +10,9 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 8%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 8%
 
 以下影片示範在Experience Platform Launch中設定行動應用程式所需的步驟：
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
 
 >[!NOTE]
 >

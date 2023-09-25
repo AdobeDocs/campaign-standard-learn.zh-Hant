@@ -10,10 +10,10 @@ team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 16%
 
 Adobe Campaign可讓您建立登入頁面，這些線上表單可用來擷取對象的相關資訊、提供服務訂閱、顯示資料，以及擴充您的資料庫。 登入頁面也可用來取得或更新現有的設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
 
 ## 額外資源
 

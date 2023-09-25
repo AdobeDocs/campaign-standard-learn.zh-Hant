@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 99%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 設定 Adobe Campaign Standard 以處理隱私權要求時，您必須確保在刪除設定檔時，會刪除連結至設定檔的任何自訂資料。此影片會說明如何修改自訂資源，以便符合此需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
 
 >[!NOTE]
 >

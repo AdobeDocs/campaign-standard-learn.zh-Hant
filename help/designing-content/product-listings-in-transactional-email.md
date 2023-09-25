@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '136'
 ht-degree: 4%
 
 ---
@@ -29,12 +29,12 @@ ht-degree: 4%
 
 ## 步驟1 — 建立事件並發佈
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
 
 ## 步驟2 — 將產品清單新增至異動訊息範本
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
 
 ## 步驟3 — 測試交易式訊息
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}

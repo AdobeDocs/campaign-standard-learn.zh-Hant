@@ -10,9 +10,9 @@ team: TM
 exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此影片說明如何透過單獨編輯行動顯示的所有樣式選項來微調電子郵件的回應式設計。
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}

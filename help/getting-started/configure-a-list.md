@@ -10,10 +10,10 @@ team: DOC
 exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 96%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此影片說明如何在 Adobe Campaign Standard 中變更顯示的欄、順序和清單檢視的排序順序。
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}

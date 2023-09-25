@@ -10,9 +10,9 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 3%
 
 ---
@@ -29,4 +29,4 @@ Adobe Campaign可讓您傳送個人化和分段的 [!UICONTROL push notification
 
 影片說明如何傳送 [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}

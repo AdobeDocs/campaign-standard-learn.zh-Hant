@@ -9,10 +9,10 @@ last-substantial-update: 2023-04-27T00:00:00Z
 jira: KT-11926
 thumbnail: 3415815.jpeg
 exl-id: f44fc9f3-ba89-4059-aa6a-3af9bc68a277
-source-git-commit: 0bc0c1de795bb68be0be4818514e79f05c7d29bc
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 27%
+source-wordcount: '24'
+ht-degree: 25%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 27%
 
 瞭解訊息記錄檔、工作記錄檔和傳送記錄檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}

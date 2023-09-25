@@ -10,10 +10,10 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '30'
+ht-degree: 93%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此影片簡介 Adobe Campaign Standard 的報告功能
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}

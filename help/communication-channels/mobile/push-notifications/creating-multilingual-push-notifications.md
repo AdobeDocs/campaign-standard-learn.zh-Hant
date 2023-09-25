@@ -10,10 +10,10 @@ team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 33%
+source-wordcount: '32'
+ht-degree: 31%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 33%
 
 瞭解如何在Adobe Campaign Standard中建立多語言推播通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}

@@ -10,10 +10,10 @@ team: TM
 exl-id: 45c6fc1b-1276-4f21-97f6-1af3929e0514
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 38%
+source-wordcount: '38'
+ht-degree: 36%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 38%
 
 此影片說明如何預覽您的電子郵件和反垃圾郵件分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}

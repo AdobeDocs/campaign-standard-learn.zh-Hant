@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,6 @@ Adobe Campaign Standard可讓您使用Adobe Experience Cloud中的資料建立�
 
 以下影片說明如何使用建立新受眾 [!UICONTROL Unified Segment Builder] 在Adobe Campaign Standard中。
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *如何使用統一區段產生器在Adobe Campaign Standard中建立受眾（最少02:47）*

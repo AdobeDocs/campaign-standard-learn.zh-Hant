@@ -10,10 +10,10 @@ team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 45%
+source-wordcount: '63'
+ht-degree: 44%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 45%
 
 了解如何從首頁建立電子郵件傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}

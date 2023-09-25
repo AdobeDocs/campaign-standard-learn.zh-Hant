@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 假設您想要傳送個人化的電子郵件電子報。但是，傳送電子報前，同事想先檢視它，並要求提供校樣。您可以使用 [!UICONTROL Profile Substitution] 功能來傳送校樣，因為此功能可以讓您傳送目標設定檔將收到的完全相符的訊息，以傳送校樣。
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 如需詳細資訊，請參閱詳細的 [產品文件](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=zh-Hant)。
 

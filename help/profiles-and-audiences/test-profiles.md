@@ -10,10 +10,10 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 27%
+source-wordcount: '93'
+ht-degree: 26%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 27%
 
 此影片說明如何建立測試設定檔
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}

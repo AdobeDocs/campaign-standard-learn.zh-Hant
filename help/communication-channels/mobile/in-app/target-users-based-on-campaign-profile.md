@@ -10,10 +10,10 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 16%
+source-wordcount: '45'
+ht-degree: 15%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 16%
 
 瞭解如何透過CRM設定檔屬性個人化的訊息鎖定已知的行動應用程式使用者。
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}

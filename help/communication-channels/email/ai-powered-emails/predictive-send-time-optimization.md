@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 瞭解在 Adobe Campaign 和 Journey AI 模型之間同步資料所需的工作流程。瞭解如何在個別設定檔層級檢視傳送時間分數，以及如何使用傳送時間公式執行電子郵件傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 請參閱產品文件以深入了解[使用 AI 支援電子郵件最佳化設計與傳送](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=zh-Hant)

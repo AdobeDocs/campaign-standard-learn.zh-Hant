@@ -10,10 +10,10 @@ role: Admin
 level: Beginner
 team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
-source-git-commit: 54e2e9180bbcd55edba7715f6682daa2695f72ec
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 18%
+source-wordcount: '46'
+ht-degree: 17%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 18%
 
 此影片說明如何定義及管理指派給Adobe Campaign中不同使用者的許可權。
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
