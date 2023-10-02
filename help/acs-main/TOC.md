@@ -4,7 +4,7 @@ user-guide-description: 設計跨通道客戶體驗，並建立視覺化促銷�
 breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
 source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '567'
 ht-degree: 100%
 
