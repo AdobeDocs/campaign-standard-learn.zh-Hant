@@ -11,9 +11,9 @@ team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 source-git-commit: 28c9e55453e51ea5092e634ea7f06aad94636f25
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 在異動訊息傳遞中使用觸發因子前，您需要：
 
 1. [為觸發器設定 Adobe Experience Platform 資料彙集](/help/integrations/configure-launch-for-triggers.md)
-2. [在 Experience Cloud 中建立觸發因子](https://experienceleague.adobe.com/docs/core-services/interface/triggers.html?lang=en)
+2. [在 Experience Cloud 中建立觸發因子](https://experienceleague.adobe.com/docs/core-services/interface/triggers.html?lang=zh-Hant)
 3. [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
 
 在設定觸發因子後，您可](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)使用即時事件資料設定異動訊息[。
