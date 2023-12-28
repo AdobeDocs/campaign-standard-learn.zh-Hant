@@ -9,9 +9,9 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '193'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 An
 ## 必要條件
 
 * 您應該已透過 Adobe Campaign Standard 延伸功能設定啟動屬性。請按照以下線上說明操作。
-   * [教學影片](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+   * [教學課程影片](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [文件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=zh-Hant)
 
 * 請確定 Adobe Campaign Standard 中對應的屬性狀態設為「已設定」。
