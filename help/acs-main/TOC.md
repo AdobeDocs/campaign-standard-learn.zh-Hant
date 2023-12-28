@@ -5,7 +5,7 @@ breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
 source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
 workflow-type: ht
-source-wordcount: '567'
+source-wordcount: '529'
 ht-degree: 100%
 
 ---
@@ -46,16 +46,16 @@ ht-degree: 100%
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
       + [使用目標設定檔測試電子郵件訊息](/help/communication-channels/email/profile-substitution.md)
       + [新增控制組至傳遞](/help/communication-channels/email/control-groups.md)
-      + [建立多語言電子郵件或 SMS 傳遞](/help/communication-channels/create-multilingual-deliveries.md)
-      + [將現有的電子郵件、SMS 傳遞或傳遞範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [建立多語言電子郵件或簡訊傳遞](/help/communication-channels/create-multilingual-deliveries.md)
+      + [將現有的電子郵件、簡訊傳遞或傳遞範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + AI 支援電子郵件 {#journey-ai}
          + [預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [預測性參與度評分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 行動裝置 {#mobile}
-      + SMS{#sms}
-         + [建立 SMS 傳送](/help/communication-channels/mobile/sms/sms-delivery.md)
+      + 簡訊{#sms}
+         + [建立簡訊傳送](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
