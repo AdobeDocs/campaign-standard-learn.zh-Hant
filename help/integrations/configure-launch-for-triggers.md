@@ -12,9 +12,9 @@ hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="整合" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
