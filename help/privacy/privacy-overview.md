@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '226'
+workflow-type: ht
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe Campaign 為資料掌控者提供三種方法，讓資料掌控者根據隱私權行為，例如 GDPR (一般資料保護規則) 和 CCPA (加州消費者隱私法)，執行 PII 資料的隱私權存取和刪除請求：
 
-* **透過隱私權核心服務整合：**&#x200B;從推送至所有 Experience Cloud 解決方案[!UICONTROL Privacy Service]的隱私權請求，由 Campaign 透過專用工作流程自動處理。
+* **透過隱私權核心服務整合：**&#x200B;從 [!UICONTROL Privacy Service] 推播至所有 Experience Cloud 解決方案的隱私權請求，由 Campaign 透過專用工作流程自動處理。
 
 * **透過 API：** Adobe Campaign 提供 API，允許使用 REST 自動處理隱私權請求
 
