@@ -1,9 +1,9 @@
 ---
 user-guide-title: Adobe Campaign Standard 教學課程
-user-guide-description: Adobe Campaign Standard的影片和教學課程
+user-guide-description: Adobe Campaign Standard的影片和教學課程。
 breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
-source-git-commit: e694b637033066142bdb385a4b64243e9518a0ec
+source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
 workflow-type: tm+mt
 source-wordcount: '516'
 ht-degree: 98%
