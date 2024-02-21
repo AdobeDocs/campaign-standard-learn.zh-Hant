@@ -5,9 +5,9 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
-workflow-type: ht
-source-wordcount: '260'
+source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
+workflow-type: tm+mt
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -15,24 +15,6 @@ ht-degree: 100%
 # Adobe Campaign Standard – 概觀
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
-
-<div id="whats-new-section">
-
-## 新增功能
-
-* **[排程訊息](/help/communication-channels/email/schedule-messages.md)**
-
-  *了解如何排程電子郵件傳遞。*
-
-* **[傳送證明](/help/communication-channels/email/send-a-proof.md)**
-
-  *了解如何先測試電子郵件訊息，再傳送給最終收件者。*
-
-* **[Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)**
-
-  *了解十大最佳實務，協助 Adobe Campaign 從業人員充分發揮並加速消費者數位轉型，並向客戶提供更佳體驗。*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
