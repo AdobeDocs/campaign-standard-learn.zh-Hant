@@ -1,6 +1,6 @@
 ---
 title: 建立設定檔和閱聽眾 – 概覽
-description: 了解如何導覽至現有的個人資料，以及如何建立個人資料和受眾。
+description: 了解如何導覽至現有的個人資料，以及如何建立個人資料和對象。
 feature: Profiles, Audiences
 jira: KT-3899
 thumbnail: 18463.jpg
@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
