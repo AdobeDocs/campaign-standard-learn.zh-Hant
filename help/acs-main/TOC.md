@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: Adobe Campaign Standard 影片和教學課程。
 breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
-source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
+source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '517'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # Adobe Campaign Standard 教學課程 {#tutorials}
 
-+ [Adobe Campaign Standard](/help/overview.md)
++ [Adobe Campaign Standard 教學課程](/help/overview.md)
 + 開始使用{#getting-started}
    + [Adobe Campaign Standard 簡介](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [開始使用 UI](/help/getting-started/getting-started-with-the-ui.md)
