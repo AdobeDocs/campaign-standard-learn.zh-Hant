@@ -9,11 +9,11 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 2%
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 2%
 身為過去五年的Adobe Experience Cloud產品資深工程師和客戶專家，我啟用業務使用者： [邁耶](https://www.meijer.com/){target="_blank"}成立於1934年的美國超級中心連鎖店，使用ACS執行複雜的行銷和交易式行銷活動。 我參與的幾個專案包含自訂行銷活動，以儲存個人化的選件和訂單詳細資料、與Adobe Audience Manager整合，以及客戶分析以擷取區段。
 
 
-在使用ACS期間，我遇到一些錯誤，解決這些錯誤會非常耗時且令人沮喪。 瞭解最常見的錯誤，有助於更快速地解決問題，並提高生產力。 以下是我的疑難排解提示，可協助您有效解決類似錯誤。
+在使用ACS的這段時間裡，我遇到一些錯誤，解決這些錯誤會非常耗時且令人沮喪。 瞭解最常見的錯誤，有助於更快速地解決問題，並提高生產力。 以下是我的疑難排解提示，可協助您有效解決類似錯誤。
 
 ## 資料型別不符錯誤
 
-**錯誤代碼:**
+**錯誤碼：**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **原因：**
@@ -44,7 +44,7 @@ ht-degree: 2%
 
 ## 傳遞個人化錯誤
 
-**錯誤代碼:**
+**錯誤碼：**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **原因：**
@@ -53,26 +53,26 @@ ht-degree: 2%
 ![具有調解活動的工作流程](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **解決方案：**
-具有收件者表格的載入檔案中必須有通用ID。 此公用索引鍵會將載入檔案聯結至調解活動中的收件者表格。 電子郵件不可傳送至收件者表格中不存在的記錄，而這需要在工作流程中進行此調解步驟。 這樣做時，您會使用設定檔中的電子郵件ID等識別碼，調解傳入的載入檔案活動。 此 `nms:recipient` 結構描述是指設定檔表格，並使用設定檔調解傳入記錄，以便在電子郵件準備期間使用。
+具有收件者表格的載入檔案中必須有通用ID。 此公用索引鍵會將載入檔案聯結至調解活動中的收件者表格。 電子郵件可能不會傳送至收件者表格中不存在的記錄，這需要在工作流程中進行此調解步驟。 這樣做時，您會使用設定檔中的電子郵件ID之類的識別碼，來調解傳入的載入檔案活動。 此 `nms:recipient` 結構描述是指設定檔表格，並使用設定檔調解傳入記錄，以便在電子郵件準備期間使用。
 
 請參閱調解活動的熒幕擷圖，如下所示。
 
 ![具有調節明細的工作流程](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-進一步瞭解 [調解](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+進一步瞭解 [調解](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## 通用欄位資料集錯誤
 
-**錯誤代碼:**
+**錯誤碼：**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-此問題會在使用時發生 **排除活動** 在ACS工作流程中，當根據ID執行排除時，當主要集和排除集的欄位名稱不同時。
+此問題會在使用時發生 **排除活動** 在ACS工作流程中，根據ID執行排除時，當主要集和排除集的欄位名稱不同時。
 
 
 ![通用欄位資料集錯誤](/help/assets/kt-13256/dataset-error.png)
 
-**解決方案:**
+**解決方案：**
 
 有兩種方式可解決此錯誤：
 
@@ -86,7 +86,7 @@ ht-degree: 2%
 
 ## 欄位名稱捨棄錯誤
 
-**錯誤代碼:**
+**錯誤碼：**
 `XTK-170036 Unable to parse expression 'i__name'`
 
 **原因：**
@@ -97,7 +97,7 @@ ht-degree: 2%
 
 當您手動編輯活動中的運算式名稱時，就會發生這種情況。 此影像顯示運算式修改自 `name `至 `i__name`.
 
-**解決方案:**
+**解決方案：**
 
 您可以透過三種方式解決此錯誤：
 
@@ -109,7 +109,7 @@ ht-degree: 2%
 
 ## 暫存資料表捨棄錯誤 
 
-**錯誤代碼:**
+**錯誤碼：**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **原因：**
