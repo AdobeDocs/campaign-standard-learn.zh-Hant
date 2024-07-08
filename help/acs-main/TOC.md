@@ -4,7 +4,7 @@ user-guide-description: Adobe Campaign Standard 影片和教學課程。
 breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
 ht-degree: 100%
 
@@ -100,7 +100,7 @@ ht-degree: 100%
       + [概覽](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
-      + [在 Campaign Standard 中建立觸發因子事件](/help/integrations/create-a-trigger-event.md)
+      + [在 Campaign Standard 中建立觸發程序事件](/help/integrations/create-a-trigger-event.md)
       + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [設定 Microsoft](/help/integrations/configure-dynamics-365.md)
 + 系統管理 {#administrating}
