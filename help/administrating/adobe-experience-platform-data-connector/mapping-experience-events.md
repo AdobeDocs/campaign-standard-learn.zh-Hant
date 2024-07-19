@@ -12,20 +12,20 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 13%
+source-wordcount: '60'
+ht-degree: 18%
 
 ---
 
-# 對應 [!UICONTROL Experience Events]
+# 對應[!UICONTROL Experience Events]
 
 >[!NOTE]
 >
 >此功能目前為測試版，可能會不時更新和修改，恕不另行通知。
 >
->請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-瞭解如何對應 [!UICONTROL Experience Events] Adobe Experience Platform (AEP)。
+瞭解如何在Adobe Experience Platform (AEP)中對映[!UICONTROL Experience Events]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 

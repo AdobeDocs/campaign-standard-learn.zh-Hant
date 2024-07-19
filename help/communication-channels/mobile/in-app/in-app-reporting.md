@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# 報告您的 [!UICONTROL In-App] 傳遞 {#in-app-message-reporting}
+# 報告您的[!UICONTROL In-App]傳遞 {#in-app-message-reporting}
 
 瞭解如何根據客戶在行動應用程式內的即時行為，向使用者呈現內容相關的應用程式內訊息。
 

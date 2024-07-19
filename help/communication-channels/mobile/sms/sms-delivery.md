@@ -1,6 +1,6 @@
 ---
-title: 建立 SMS 傳送
-description: 瞭解如何建立 SMS 傳送。
+title: 建立簡訊傳送
+description: 瞭解如何建立簡訊傳送。
 feature: SMS
 jira: KT-1819
 thumbnail: 25265.jpg
@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 20%
+ht-degree: 22%
 
 ---
 

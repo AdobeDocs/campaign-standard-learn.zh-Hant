@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 17%
 
 您可以從檔案中收集資料，以便處理資料和/或將其匯入Adobe Campaign資料庫。
 
-此影片說明如何使用 [!UICONTROL Data Management] 工作流程中的活動以匯入設定檔資料。
+此影片說明如何在工作流程中使用[!UICONTROL Data Management]活動來匯入設定檔資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

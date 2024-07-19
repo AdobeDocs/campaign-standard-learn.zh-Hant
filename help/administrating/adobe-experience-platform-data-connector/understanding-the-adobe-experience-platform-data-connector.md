@@ -12,8 +12,8 @@ team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -23,25 +23,25 @@ ht-degree: 4%
 >
 >此功能為測試版，且可能會不時更新和修改，恕不另行通知。
 >
->請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
 ## 概覽
 
-Adobe Experience Platform [!UICONTROL Data Connector] 將XTK資料(在Adobe Campaign中擷取的資料)對應至Adobe Experience Platform，協助現有客戶使其資料可在上使用 [!DNL Experience Data Model] (XDM) Adobe Experience Platform上的資料。
+Adobe Experience Platform [!UICONTROL Data Connector]將XTK資料(在Adobe Experience Platform中擷取的資料)對應至Adobe Experience Platform上的[!DNL Experience Data Model] (XDM)資料，協助現有客戶使其資料可在Adobe Campaign上使用。
 
 聯結器是單向的，會將資料從Adobe Campaign Standard傳送至Adobe Experience Platform。 資料絕不會從Adobe Experience Platform傳送至Adobe Campaign Standard。
 
-Adobe Experience Platform [!UICONTROL Data Connector] 專為瞭解Adobe Campaign Standard的資料工程師所設計 [!UICONTROL custom resources] 並瞭解客戶的整體資料結構應如何在Adobe Experience Platform中。
+Adobe Experience Platform [!UICONTROL Data Connector]是專為瞭解Adobe Campaign Standard [!UICONTROL custom resources]，並瞭解客戶整體資料結構描述應如何存在於Adobe Experience Platform中的資料工程師所設計。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
-*這部影片會概略介紹Adobe Experience Platform [!UICONTROL Data Connector] （09:35分鐘）*
+*此影片概述Adobe Experience Platform [!UICONTROL Data Connector] （09:35分鐘）*
 
 >[!NOTE]
 >
->現成可用的傳輸 [!UICONTROL subscription events] 不受支援。 要轉移 [!UICONTROL subscription events]，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
+>不支援現成可用的[!UICONTROL subscription events]傳輸。 若要傳輸[!UICONTROL subscription events]，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
 >
->現有 [!UICONTROL experience events] 無法擷取至Adobe Experience Platform，但正在產生 [!UICONTROL experience events] 會串流至Adobe Experience Platform。
+>無法將現有的[!UICONTROL experience events]擷取到Adobe Experience Platform，但進行中產生的[!UICONTROL experience events]會串流到Adobe Experience Platform。
 
 ## 執行資料對應的重要步驟
 

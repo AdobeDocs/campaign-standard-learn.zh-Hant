@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# 建立 [!UICONTROL In-App] 工作流程中的傳遞
+# 在工作流程中建立[!UICONTROL In-App]傳遞
 
 瞭解如何使用應用程式內傳送活動，以自動傳送應用程式內訊息給在工作流程中計算的目標對象。
 

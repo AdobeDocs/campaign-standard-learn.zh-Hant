@@ -13,7 +13,7 @@ level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 72%
+ht-degree: 73%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 72%
 >[!CAUTION]
 >這項功能無法立即在產品中使用。此實作需要 Adobe Consulting 參與。若要進一步了解，請洽詢您的 Adobe 代表。
 
-[!UICONTROL Predictive engagement scoring] 預測收件者與訊息互動的可能性，以及在下次傳送電子郵件後7天內選擇退出（取消訂閱）的可能性。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。該模型也提供風險百分位數排名，讓客戶瞭解特定客戶與其他客戶的排名。
+[!UICONTROL Predictive engagement scoring]預測收件者與訊息互動的可能性，以及在下次傳送電子郵件後7天內選擇退出（取消訂閱）的可能性。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。該模型也提供風險百分位數排名，讓客戶瞭解特定客戶與其他客戶的排名。
 
 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
 

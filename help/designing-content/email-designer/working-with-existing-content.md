@@ -1,6 +1,6 @@
 ---
 title: 使用現有的內容
-description: 瞭解如何從網站擷取您的創意內容並將其載入電子郵件設計工具。
+description: 瞭解如何從網站擷取您的創意內容，並將其載入電子郵件Designer。
 feature: Email Design
 jira: KT-6295
 thumbnail: 25926.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 7%
 
 ## 從URL匯入內容
 
-瞭解如何從網站擷取您的創意內容並將其載入電子郵件設計工具。
+瞭解如何從網站擷取您的創意內容，並將其載入電子郵件Designer。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
 ## 讓現有的HTML內容相容 {#making-existing-html-content-compatible}
 
-電子郵件設計工具需要特定標籤，必須套用這些標籤，才能讓標準HTML內容上傳至Adobe Campaign時完全相容且可編輯。
+電子郵件Designer需要特定標籤，必須套用這些標籤，才能讓標準HTML內容上傳至Adobe Campaign時完全相容且可編輯。
 
 您可以在下列連結下找到詳細檔案：
 
-[將HTML內容轉換為電子郵件設計工具範本](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[將HTML內容轉換為電子郵件Designer範本](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

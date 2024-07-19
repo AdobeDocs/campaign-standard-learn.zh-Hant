@@ -13,13 +13,13 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 44%
+ht-degree: 47%
 
 ---
 
 # 建立電子郵件傳遞 {#create-an-email-delivery}
 
-您可以從行銷活動、Adobe Campaign首頁或在 [!UICONTROL Marketing Activity] 清單。 您也可以從工作流程建立並傳送單一傳送和循環傳送電子郵件。
+您可以從行銷活動、Adobe Campaign首頁或[!UICONTROL Marketing Activity]清單中建立獨立的電子郵件傳遞。 您也可以從工作流程建立並傳送單一傳送和循環傳送電子郵件。
 
 了解如何從首頁建立電子郵件傳遞。
 

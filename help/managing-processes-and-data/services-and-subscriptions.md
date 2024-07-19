@@ -13,15 +13,15 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 43%
+ht-degree: 22%
 
 ---
 
 # 管理服務與訂閱{#managing-services-and-subscriptions}
 
-Adobe Campaign可讓您透過一組服務來建立和管理電子報和跨頻道通訊。訊息只能傳送給訂閱服務（選擇加入）的設定檔。 建立訊息時，會使用專用篩選器來識別這些設定檔。
+Adobe Campaign可讓您透過一組服務來建立和管理電子報和跨頻道通訊。 訊息只能傳送給訂閱服務（選擇加入）的設定檔。 建立訊息時，會使用專用篩選器來識別這些設定檔。
 
-您可以設定訂閱機制，讓客戶有機會訂閱這些服務，尤其是透過電子郵件及登錄頁面訂閱的客戶。
+您可以設定訂閱機制，讓客戶有機會訂閱這些服務，尤其是透過電子郵件及登入頁面。
 
 每項服務都隨附：
 

@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 
-# 設定 [!UICONTROL product listings] 在異動電子郵件中
+# 在異動電子郵件中設定[!UICONTROL product listings]
 
 您可以設定具有產品清單的重定位電子郵件，在設計電子郵件時未知這些產品。 這些產品可在執行階段從裝載中新增。 例如，您可以自動傳送放棄購物車電子郵件，列出使用者放棄之前購物車中的所有產品，並附上每個產品的影像、價格及連結。
 
-以下影片說明設定所需的步驟 [!UICONTROL product listings] 在 [!UICONTROL transactional emails].
+以下影片說明在[!UICONTROL transactional emails]中設定[!UICONTROL product listings]所需的步驟。
 
 >[!NOTE]
 >

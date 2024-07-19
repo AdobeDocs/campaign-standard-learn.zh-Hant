@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 22%
+source-wordcount: '94'
+ht-degree: 30%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 22%
 >
 >此功能為測試版，且可能會不時更新和修改，恕不另行通知。
 >
->請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
 瞭解如何檢查資料擷取工作的狀態，以及資料是否已從Adobe Campaign Standard擷取到Adobe Experience Platform。
 

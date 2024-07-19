@@ -12,23 +12,23 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
-# 建立 [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# 建立[!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-此 [!UICONTROL Direct Mail] 通道可讓您擷取分段收件者清單，以傳送至機構或上傳至SFTP伺服器。
+[!UICONTROL Direct Mail]通道可讓您擷取要傳送至機構或上傳至SFTP伺服器的分段收件者清單。
 
-此影片說明如何設定 [!UICONTROL Direct Mail] 傳遞，以及為了能夠將設定檔新增到 [!UICONTROL Direct Mail] 傳遞。
+此影片說明如何設定[!UICONTROL Direct Mail]傳遞，以及需要哪些設定才能將設定檔新增到[!UICONTROL Direct Mail]傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
-## 建立 [!UICONTROL Direct Mail] 在工作流程中
+## 在工作流程中建立[!UICONTROL Direct Mail]
 
-頻道可從首頁和工作流程檢視中使用，以定義一致性的跨頻道行銷策略。 以下範例工作流程包含 [!UICONTROL Direct Mail activity].
+頻道可從首頁和工作流程檢視中使用，以定義一致性的跨頻道行銷策略。 下列範例工作流程包含[!UICONTROL Direct Mail activity]。
 
 ![工作流程影像](/help/assets/direct_mail_examplewf.png)
 
-請參閱產品檔案以深入瞭解 [關於直接郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+請參閱產品檔案以進一步瞭解[直接郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 28%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 28%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-請參閱產品檔案，深入瞭解 [建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+請參閱產品檔案以取得有關[建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)的詳細資訊

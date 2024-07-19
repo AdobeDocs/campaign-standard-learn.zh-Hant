@@ -1,5 +1,5 @@
 ---
-title: 在電子郵件設計工具中設定行動裝置檢視
+title: 在電子郵件Designer中設定行動裝置檢視
 description: 「瞭解如何透過單獨編輯行動顯示的所有樣式選項來微調電子郵件的回應式設計。」
 feature: Email Design
 jira: KT-2423
@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 在中設定行動裝置檢視 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# 在[!UICONTROL Email Designer]中設定行動裝置檢視 {#configure-the-mobile-view}
 
 此影片說明如何透過單獨編輯行動顯示的所有樣式選項來微調電子郵件的回應式設計。
 

@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 13%
+source-wordcount: '80'
+ht-degree: 15%
 
 ---
 
 # 根據自訂設定檔屬性建立報告
 
-Adobe Campaign的 [!UICONTROL Dynamic Reports] 是有彈性的自由格式環境，您可以在其中加入自訂設定檔屬性來探索資料。 它可讓您結合任何組合的維度、量度和時間範圍，並具備無限制的劃分和比較。
+Adobe Campaign的[!UICONTROL Dynamic Reports]是彈性的自由格式環境，您可以在其中加入自訂設定檔屬性來探索資料。 它可讓您結合任何組合的維度、量度和時間範圍，並具備無限制的劃分和比較。
 
 此影片說明如何根據自訂設定檔屬性建立報告。
 
