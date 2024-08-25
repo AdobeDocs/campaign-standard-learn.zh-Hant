@@ -12,8 +12,8 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 50%
+source-wordcount: '160'
+ht-degree: 49%
 
 ---
 

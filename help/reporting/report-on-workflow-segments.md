@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 20%
+source-wordcount: '76'
+ht-degree: 18%
 
 ---
 

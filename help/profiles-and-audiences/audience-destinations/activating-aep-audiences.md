@@ -1,5 +1,5 @@
 ---
-title: 在工作流程啟動 Adobe Experience Platform 閱聽眾
+title: 在工作流程啟動 Adobe Experience Platform 客群
 description: 此影片說明如何使用「讀取閱聽眾」活動，在工作流程中啟用「資料服務查詢閱聽眾」。
 feature: People Core Service Integration
 jira: KT-2760
@@ -14,8 +14,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 

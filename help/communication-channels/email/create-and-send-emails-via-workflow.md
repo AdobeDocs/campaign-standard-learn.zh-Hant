@@ -12,8 +12,8 @@ team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 53%
+source-wordcount: '65'
+ht-degree: 52%
 
 ---
 

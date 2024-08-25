@@ -34,6 +34,6 @@ Adobe Campaign Standard中的「對象」模組可讓您使用Adobe Experience P
 
 下列影片教學課程會引導您完成不同的步驟：
 
-1. [使用「統一區段建立器」建立新的對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [使用「統一客戶細分工具」建立新的客群](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [在行銷工作流程啟動Experience Platform對象](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [變更平台對象傳送作業的定位維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

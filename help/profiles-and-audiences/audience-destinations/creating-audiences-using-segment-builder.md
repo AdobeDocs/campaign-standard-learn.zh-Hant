@@ -1,5 +1,5 @@
 ---
-title: 使用「統一區段建立器」建立新的對象
+title: 使用「統一客戶細分工具」建立新的客群
 description: 瞭解如何使用統一區段產生器建立受眾
 feature: People Core Service Integration
 jira: KT-2754
@@ -14,12 +14,12 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '160'
+ht-degree: 10%
 
 ---
 
-# 使用「統一區段建立器」建立新的對象
+# 使用「統一客戶細分工具」建立新的客群
 
 >[!NOTE]
 >

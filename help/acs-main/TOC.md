@@ -20,22 +20,22 @@ ht-degree: 100%
    + [設定清單](/help/getting-started/configure-a-list.md)
    + [探索階層與行銷活動](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理行銷活動](/help/getting-started/managing-campaigns.md)
-   + [關於設定檔與對象](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [關於輪廓與客群](/help/getting-started/understanding-profiles-and-audiences.md)
    + [建立電子郵件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=zh-Hant)
    + [建立工作流程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=zh-Hant)
    + [報告功能簡介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 進行行動裝置行銷](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [與 Adobe Campaign 一同成長](/help/getting-started/growing-with-adobe-campaign.md)
-+ 設定檔與閱聽眾 {#profiles-and-audiences}
-   + [建立設定檔和對象 - 概覽](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
++ 輪廓與客群 {#profiles-and-audiences}
+   + [建立輪廓和客群 - 概覽](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [建立設定檔](/help/profiles-and-audiences/creating-a-profile.md)
    + [建立測試設定檔](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入設定檔](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 閱聽眾目標 (BETA){#audience-destinations}
+   + 客群目標 (BETA){#audience-destinations}
       + [概覽](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用「統一區段建立器」建立新的對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [在工作流程啟動 Adobe Experience Platform 閱聽眾](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [使用「統一客戶細分工具」建立新的客群](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [在工作流程啟動 Adobe Experience Platform 客群](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [變更目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通訊通道 {#communication-channels}
    + 電子郵件 {#email}
