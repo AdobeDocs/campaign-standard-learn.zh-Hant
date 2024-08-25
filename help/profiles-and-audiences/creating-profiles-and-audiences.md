@@ -1,6 +1,6 @@
 ---
-title: 建立設定檔和閱聽眾 – 概覽
-description: 了解如何導覽至現有的個人資料，以及如何建立個人資料和對象。
+title: 建立輪廓和客群 – 概覽
+description: 了解如何導覽至現有的輪廓，以及如何建立輪廓和客群。
 feature: Profiles, Audiences
 jira: KT-3899
 thumbnail: 18463.jpg
@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 39%
+source-wordcount: '69'
+ht-degree: 37%
 
 ---
 
-# 建立設定檔和閱聽眾 – 概覽
+# 建立輪廓和客群 – 概覽
 
 Adobe Campaign有兩種型別或設定檔：
 
