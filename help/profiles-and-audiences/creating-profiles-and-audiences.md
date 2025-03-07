@@ -1,6 +1,6 @@
 ---
 title: 建立輪廓和客群 – 概覽
-description: 了解如何導覽至現有的輪廓，以及如何建立輪廓和客群。
+description: 了解如何導覽至現有的設定檔，以及如何建立設定檔和客群。
 feature: Profiles, Audiences
 jira: KT-3899
 thumbnail: 18463.jpg
@@ -22,7 +22,7 @@ ht-degree: 37%
 Adobe Campaign有兩種型別或設定檔：
 
 * 已識別的設定檔
-* 測試設定檔
+* 測試輪廓
 
 根據一或多個共同條件分組的設定檔稱為&#x200B;**對象**。
 
