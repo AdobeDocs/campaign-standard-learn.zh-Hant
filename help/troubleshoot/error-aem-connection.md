@@ -17,4 +17,4 @@ ht-degree: 100%
 
 瞭解如何解決服務「nms:delivery」的「GetAEMContentList」錯誤，同時從 Campaign Standard 連結到Experience Manager。
 
->[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436888?learn=on&captions=chi_hant){transcript=true}

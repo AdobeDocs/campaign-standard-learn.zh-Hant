@@ -23,4 +23,4 @@ ht-degree: 100%
 
 瞭解如何在 Experience Cloud 中設定觸發因子。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446149?learn=on&captions=chi_hant){transcript=true}

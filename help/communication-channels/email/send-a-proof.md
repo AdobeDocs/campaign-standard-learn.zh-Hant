@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何先測試電子郵件訊息，再傳送給最終收件者。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446230/?learn=on&captions=chi_hant){transcript=true}

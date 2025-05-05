@@ -17,4 +17,4 @@ ht-degree: 100%
 
 瞭解如何在 Campaign Standard 中取得解密的事件 ID 和傳遞 ID。
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437898?learn=on&captions=chi_hant){transcript=true}

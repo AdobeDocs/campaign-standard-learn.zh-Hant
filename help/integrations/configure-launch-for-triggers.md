@@ -26,4 +26,4 @@ ht-degree: 0%
 >
 > 請注意，Platform Launch 現在是 Adobe Experience Platform 的標記功能。 其可在 **Adobe Experience Platform 資料彙集**&#x200B;下方找到。
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454027?learn=on&captions=chi_hant){transcript=true}

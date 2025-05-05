@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解如何在 Campaign Standard 中建立觸發因子事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446420?learn=on&captions=chi_hant){transcript=true}

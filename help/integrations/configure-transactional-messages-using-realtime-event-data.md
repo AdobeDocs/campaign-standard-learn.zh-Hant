@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解如何使用引動因素提供的即時事件資料來設定異動訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450213?learn=on&captions=chi_hant){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 瞭解如何疑難排解在 Campaign Standard 中檢視設定檔時發生的技術錯誤。
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436607?learn=on&captions=chi_hant){transcript=true}
