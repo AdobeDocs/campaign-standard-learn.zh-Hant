@@ -70,6 +70,6 @@ try{
 }
 ```
 
-第32行，您必須提供[!UICONTROL  Launch]屬性的環境檔案識別碼。 您可從[!UICONTROL Launch]屬性的[!UICONTROL environment tab]存取此專案。
+第32行，您必須提供[!UICONTROL &#x200B; Launch]屬性的環境檔案識別碼。 您可從[!UICONTROL Launch]屬性的[!UICONTROL environment tab]存取此專案。
 
 ![啟動識別碼](assets/launch-id-property.PNG)

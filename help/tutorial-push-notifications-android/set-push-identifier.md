@@ -100,7 +100,7 @@ MobileCore.lifecyclePause();
 ### 檢查行動應用程式訂閱者
 
 登入您的Adobe Campaign Standard執行個體。
-瀏覽**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟適當的行動應用程式。 以Tab鍵前往[!UICONTROL Mobile Application Subscribers]標籤。 您應該會看到[!UICONTROL registration token]已列出。
+瀏覽&#x200B;**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟適當的行動應用程式。 以Tab鍵前往[!UICONTROL Mobile Application Subscribers]標籤。 您應該會看到[!UICONTROL registration token]已列出。
 
 ![行動應用程式訂閱者](assets/mobile-application-subscribers.PNG)
 
