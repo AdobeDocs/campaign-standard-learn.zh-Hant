@@ -33,4 +33,4 @@ ht-degree: 6%
 
 *在工作流程啟動Adobe Experience Platform對象（02:37分鐘）*
 
-請參閱產品檔案，瞭解如何[將Adobe Experience Platform對象內嵌至Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+請參閱產品檔案，瞭解如何[將Adobe Experience Platform對象內嵌至Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=zh-Hant)

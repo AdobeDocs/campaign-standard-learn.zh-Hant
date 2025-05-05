@@ -27,4 +27,4 @@ Adobe Campaign的[!UICONTROL Dynamic Reports]是彈性的自由格式環境，�
 
 ## 額外資源
 
-* [關於報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [關於報告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=zh-Hant)

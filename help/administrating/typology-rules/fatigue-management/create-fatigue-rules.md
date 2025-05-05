@@ -28,4 +28,4 @@ ht-degree: 26%
 
 ## 額外資源
 
-* [疲勞規則（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [疲勞規則（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=zh-Hant)

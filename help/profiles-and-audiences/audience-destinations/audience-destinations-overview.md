@@ -30,7 +30,7 @@ ht-degree: 6%
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 >
 
-Adobe Campaign Standard中的「對象」模組可讓您使用Adobe Experience Platform的[[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)中的資料來建立區段。
+Adobe Campaign Standard中的「對象」模組可讓您使用Adobe Experience Platform的[[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=zh-Hant)中的資料來建立區段。
 
 下列影片教學課程會引導您完成不同的步驟：
 

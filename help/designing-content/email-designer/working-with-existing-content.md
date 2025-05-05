@@ -31,4 +31,4 @@ ht-degree: 8%
 
 您可以在下列連結下找到詳細檔案：
 
-[將HTML內容轉換為電子郵件Designer範本](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[將HTML內容轉換為電子郵件Designer範本](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=zh-Hant)

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ![工作流程影像](/help/assets/direct_mail_examplewf.png)
 
-請參閱產品檔案以進一步瞭解[直接郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+請參閱產品檔案以進一步瞭解[直接郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=zh-Hant)

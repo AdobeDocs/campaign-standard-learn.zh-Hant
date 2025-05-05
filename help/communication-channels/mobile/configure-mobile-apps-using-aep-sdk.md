@@ -28,4 +28,4 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->請參閱[在[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)中設定您的應用程式，以取得詳細檔案以及視訊中使用的程式碼範本。
+>請參閱[在[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=zh-Hant)中設定您的應用程式，以取得詳細檔案以及視訊中使用的程式碼範本。

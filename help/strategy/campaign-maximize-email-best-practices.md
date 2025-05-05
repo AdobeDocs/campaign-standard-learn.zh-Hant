@@ -140,4 +140,4 @@ ht-degree: 0%
 
 若要回顧本文章及實作重新參與策略的即時示範，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心瞭解更多策略和思想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心瞭解更多策略和思想領導力。

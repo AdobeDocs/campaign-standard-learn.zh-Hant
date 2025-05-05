@@ -30,4 +30,4 @@ ht-degree: 32%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-請參閱產品檔案以取得有關[建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)的詳細資訊
+請參閱產品檔案以取得有關[建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=zh-Hant)的詳細資訊
