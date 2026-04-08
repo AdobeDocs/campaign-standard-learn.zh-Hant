@@ -7,7 +7,7 @@ type: Troubleshooting
 jira: KT-8432
 exl-id: da53e9ce-2175-4158-a318-914e71050754
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 瞭解如何在 Campaign Standard 中取得解密的事件 ID 和傳遞 ID。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437898?learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}

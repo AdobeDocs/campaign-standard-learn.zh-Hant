@@ -10,15 +10,15 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '184'
+workflow-type: ht
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # 建立自訂資源 – 簡介
 
-[!DNL Adobe Campaign] 隨附預先定義的資料模型，其中資料會透過不同資源加以定義。[!DNL Campaign] 可讓使用者擴充現有資源或建立新資源。
+[!DNL Adobe Campaign] 隨附事先定義好的資料模型，其中會透過不同資源定義資料。[!DNL Campaign]可讓使用者擴充現有資源，或是建立新的資源。
 
 這個多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
 已學習如何：
@@ -49,6 +49,6 @@ ht-degree: 100%
 
 [建立自訂資源](./creating-a-custom-resource.md)
 
-## 其他資源
+## 額外資源
 
-[自訂資源（文件）](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html?lang=zh-Hant)
+[自訂資源 (文件)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html?lang=zh-Hant)

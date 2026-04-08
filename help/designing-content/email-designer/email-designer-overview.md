@@ -12,7 +12,7 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # [!UICONTROL Email Designer] 概觀
 
-它可 [!UICONTROL Email Designer] 讓您快速輕鬆地以視覺化方式建立個人化電子郵件，而不需編寫程式代碼，以協助縮放電子郵件的建立。它可以讓您建立電子郵件內容和電子郵件內容範本。它可以與簡單電子郵件、交易電子郵件、A/B 測試電子郵件、多語言電子郵件和循環電子郵件相容。
+它可 [!UICONTROL Email Designer] 讓您快速輕鬆地以視覺化方式建立個人化電子郵件，而不需編寫程式代碼，以協助縮放電子郵件的建立。 它可以讓您建立電子郵件內容和電子郵件內容範本。 它可以與簡單電子郵件、交易電子郵件、A/B 測試電子郵件、多語言電子郵件和循環電子郵件相容。
 
 此影片提供您 Adobe Campaign Standard [!UICONTROL Email Designer] 的功能與使用情形的高層級概觀。
 

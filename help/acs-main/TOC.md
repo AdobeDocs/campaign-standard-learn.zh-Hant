@@ -4,9 +4,9 @@ user-guide-description: Adobe Campaign Standard 影片和教學課程。
 breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '604'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 91%
    + [建立測試輪廓](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流程匯入輪廓](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 對象目標(BETA){#audience-destinations}
+   + 對象目的地 (Beta){#audience-destinations}
       + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [使用「統一客戶細分工具」建立新的客群](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流程啟動 Adobe Experience Platform 客群](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -50,7 +50,7 @@ ht-degree: 91%
       + [將現有的電子郵件、簡訊傳遞或傳遞範本轉換為多語言版本](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [檢視電子郵件傳遞和報告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [透過工作流程建立並傳送電子郵件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + AI支援電子郵件 {#journey-ai}
+      + AI 支援的電子郵件 {#journey-ai}
          + [預測性傳送時間最佳化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [預測性參與度評分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 行動 {#mobile}
@@ -59,7 +59,7 @@ ht-degree: 91%
       + 推播通知 {#push}
          + [建立推播通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [建立多語言推播通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教學課程：Android™ 推播通知快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
+         + [教學課程：使用 Android™ 版推送通知，快速入門](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant)
       + 應用程式內訊息 {#in-app}
          + [設定事件](/help/communication-channels/mobile/in-app/configure-events.md)
          + [廣播應用程式內訊息](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
@@ -72,7 +72,7 @@ ht-degree: 91%
       + [建立及編輯登陸頁面](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [測試並發佈登陸頁面](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [設定登陸頁面範本](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ 設計並個人化內容 {#designing-content}
++ 設計並將內容個人化 {#designing-content}
    + 電子郵件 Designer{#email-designer}
       + [概觀](/help/designing-content/email-designer/email-designer-overview.md)
       + [開始使用電子郵件設計工具](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -94,20 +94,20 @@ ht-degree: 91%
    + [根據自訂輪廓屬性建立報告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根據工作流程區段建立報告](/help/reporting/report-on-workflow-segments.md)
    + [監視傳遞](/help/reporting/monitor-a-delivery.md)
-+ 與其他解決方案整合 {#integrations}
++ 整合入其他解決方案 {#integrations}
    + [追蹤您在 Adobe Analytics 的傳遞是否成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + 使用異動訊息的觸發因子 {#triggers}
+   + 針對交易型訊息，使用觸發程序 {#triggers}
       + [概觀](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中建立觸發程序事件](/help/integrations/create-a-trigger-event.md)
       + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [設定 Microsoft](/help/integrations/configure-dynamics-365.md)
-+ 管理 {#administrating}
+   + [設定 Microsoft® Dynamics 365，以便整合入 Campaign Standard](/help/integrations/configure-dynamics-365.md)
++ 系統管理 {#administrating}
    + [管理使用者存取權限](/help/administrating/managing-user-access-rights.md)
    + [建立自訂資源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hant)
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
-   + Adobe Experience Platform資料聯結器 {#adobe-experience-platform-data-connector}
+   + Adobe Experience Platform 資料連接器 {#adobe-experience-platform-data-connector}
       + [瞭解 Adobe Experience Platform 資料連接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [對應體驗事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
@@ -123,9 +123,9 @@ ht-degree: 91%
    + [修改隱私權請求的自訂資源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手動建立及追蹤隱私權請求](/help/privacy/create-and-track-privacy-requests.md)
    + [執行隱私權請求](/help/privacy/execute-privacy-requests.md)
-+ [疑難排解Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
-+ 策略與思維領導力{#strategy}
++ [疑難排解 Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hant)
++ 策略與思惟領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
    + [行銷人員疑難排解](/help/strategy/troubleshooting-for-marketers.md)
    + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
+   + [傳遞能力最佳做法指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)

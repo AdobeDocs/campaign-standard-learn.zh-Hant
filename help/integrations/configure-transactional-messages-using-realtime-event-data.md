@@ -12,7 +12,7 @@ team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
 badgeIntegration: label="整合" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解如何使用引動因素提供的即時事件資料來設定異動訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450213?learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
