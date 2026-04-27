@@ -6,7 +6,7 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 # 疑難排解 Adobe Campaign Standard {#troubleshooting}
 
-+ [概覽](/help/troubleshoot/overview.md)
-+ [檢視設定檔時出現技術錯誤](/help/troubleshoot/technical-error-while-viewing-profile.md)
++ [概觀](/help/troubleshoot/overview.md)
++ [檢視輪廓時出現技術錯誤](/help/troubleshoot/technical-error-while-viewing-profile.md)
 + [連線 Experience Manager 時發生錯誤](/help/troubleshoot/error-aem-connection.md)
 + [將公用資源 URL 從 http 變更為 https](/help/troubleshoot/change-public-resource-url.md)
 + [取得解密的事件 ID 和傳遞 ID](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)

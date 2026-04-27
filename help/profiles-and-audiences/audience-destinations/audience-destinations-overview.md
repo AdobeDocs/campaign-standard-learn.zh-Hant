@@ -12,9 +12,9 @@ level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '131'
 ht-degree: 6%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 6%
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 >
 
-Adobe Campaign Standard中的「對象」模組可讓您使用Adobe Experience Platform的[[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=zh-Hant)中的資料來建立區段。
+Adobe Campaign Standard中的「對象」模組可讓您使用Adobe Experience Platform的[[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)中的資料來建立區段。
 
 下列影片教學課程會引導您完成不同的步驟：
 

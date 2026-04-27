@@ -1,6 +1,6 @@
 ---
 title: 在工作流程啟動 Adobe Experience Platform 客群
-description: 此影片說明如何使用「讀取閱聽眾」活動，在工作流程中啟用「資料服務查詢閱聽眾」。
+description: This video explains how to activate the Data Services Query Audience within a workflow by using the 'Read audience' activity.
 feature: People Core Service Integration
 jira: KT-2760
 thumbnail: 27647.jpg
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
-# 在行銷工作流程的工作流程[!UICONTROL Adobe Experience Platform Audiences]中啟動Adobe Experience Platform對象
+# Activate Adobe Experience Platform audiences in a workflow [!UICONTROL Adobe Experience Platform Audiences] in a Marketing Workflow
 
 >[!NOTE]
 >
@@ -27,10 +27,10 @@ ht-degree: 6%
 >
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-此影片說明如何使用[!UICONTROL Read Audience]活動在工作流程中啟動[!UICONTROL Data Services Query Audience]。
+This video explains how to activate the [!UICONTROL Data Services Query Audience] within a workflow by using the [!UICONTROL Read Audience] activity.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
-*在工作流程啟動Adobe Experience Platform對象（02:37分鐘）*
+*Activate an Adobe Experience Platform audience in a workflow (02:37 min)*
 
-請參閱產品檔案，瞭解如何[將Adobe Experience Platform對象內嵌至Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=zh-Hant)
+See the product documentation on how to [ingest Adobe Experience Platform audiences into Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
