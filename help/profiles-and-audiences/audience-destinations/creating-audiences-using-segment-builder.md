@@ -11,8 +11,7 @@ exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 9%
@@ -27,7 +26,7 @@ ht-degree: 9%
 >
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-Adobe Campaign Standard可讓您使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]，利用Adobe Experience Cloud [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=zh-Hant)中的資料來建立對象。
+Adobe Campaign Standard可讓您使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]，利用Adobe Experience Cloud [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)中的資料來建立對象。
 
 您可以透過[!UICONTROL Audiences]模組直接在Adobe Campaign Standard中存取[!UICONTROL Unified Segment Builder]。 它可讓您直接在[!UICONTROL Audiences]清單檢視中管理這些對象，讓您直接從Adobe Campaign介面編輯或建立Adobe Experience Platform對象
 
