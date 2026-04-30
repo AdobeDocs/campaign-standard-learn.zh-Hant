@@ -1,10 +1,10 @@
 ---
-source-git-commit: 52676e3625c3c39b525992edf1ebbb5b2249b9b9
-workflow-type: ht
-source-wordcount: '10'
-ht-degree: 100%
+source-git-commit: 4d65cd82abafa3510559c387dc9ab0af7928dfc3
+workflow-type: tm+mt
+source-wordcount: '7'
+ht-degree: 0%
 
 ---
-# campaign-standard-learn.en
+# 已封存
 
-Campaign 協作教學課程和賦能素材
+此存放庫已移轉至<https://github.com/Adobe-Enterprise-Docs/campaign-standard-learn.en>。
