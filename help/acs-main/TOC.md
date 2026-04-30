@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign Standard 教學課程
 user-guide-description: Adobe Campaign Standard 影片和教學課程。
 breadcrumb-title: Campaign Standard 教學課程
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [使用工作流程匯入輪廓](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服務與訂閱](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 對象目的地 (Beta){#audience-destinations}
-      + [概觀](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用「統一客戶細分工具」建立新的客群](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [在工作流程啟動 Adobe Experience Platform 客群](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [變更目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[總覽](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[使用「統一區段產生器」建立對象](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[在工作流程啟動Adobe Experience Platform對象](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[變更目標維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通訊管道 {#communication-channels}
    + 電子郵件 {#email}
       + [建立電子郵件](/help/communication-channels/email/create-email-from-homepage.md)
-      + [傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[傳送測試、準備及傳送電子郵件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [排程訊息](/help/communication-channels/email/schedule-messages.md)
       + [傳送校樣](/help/communication-channels/email/send-a-proof.md)
       + [A/B 測試](/help/communication-channels/email/a-b-testing.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + 針對交易型訊息，使用觸發程序 {#triggers}
       + [概觀](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [為觸發因子設定啟動](/help/integrations/configure-launch-for-triggers.md)
-      + [在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[在 Experience Cloud 中建立觸發因子](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中建立觸發程序事件](/help/integrations/create-a-trigger-event.md)
       + [使用即時事件資料設定異動訊息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [設定 Microsoft® Dynamics 365，以便整合入 Campaign Standard](/help/integrations/configure-dynamics-365.md)
