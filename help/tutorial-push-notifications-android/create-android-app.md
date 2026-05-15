@@ -11,8 +11,10 @@ team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 329
@@ -26,7 +28,7 @@ ht-degree: 0%
 
 1. 登入您的[!DNL Firebase]帳戶。
 
-   [!DNL Firebase]是Google的行動平台，可幫助您快速開發高品質的應用程式。 如果您沒有[!DNL Firebase]帳戶，請從這裡](https://firebase.google.com)建立一個[。
+   [!DNL Firebase]是Google的行動平台，可幫助您快速開發高品質的應用程式。 如果您沒有[!DNL Firebase]帳戶，請從這裡[&#128279;](https://firebase.google.com)建立一個。
 
 2. 啟動[!DNL Android Studio]
 3. 按一下&#x200B;**[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project].**
@@ -62,7 +64,7 @@ ht-degree: 0%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[確定您的專案列在 [!DNL Firebase ]主控台中](https://console.firebase.google.com/)
+[確定您的專案列在 [!DNL Firebase &#x200B;]主控台中](https://console.firebase.google.com/)
 
 ## 設定[!UICONTROL Push Channel]設定
 
