@@ -9,16 +9,19 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
+TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 212
 ht-degree: 0%
 
 ---
 
 # 步驟4 — 設定[!DNL pushidentifier]
 
-**[!DNL pushidentifier]**&#x200B;是包含[!DNL Push]通知的裝置權杖的字串。 它與[!DNL Firebase]傳送並使用[!DNL MobileCore.setPushIdentifier]方法傳遞至SDK的Token相同。
+**[!DNL pushidentifier]**&#x200B;是包含[!DNL Push]通知的裝置權杖的字串。 它是由[!DNL Firebase]傳送並使用[!DNL MobileCore.setPushIdentifier]方法傳遞至SDK的相同Token。
 
 在[!DNL Android™]工作室中開啟您的專案。 刪除[!DNL MainActivity] **中的整個程式碼，但第一行是您的封裝陳述式**&#x200B;除外。
 
@@ -100,7 +103,7 @@ MobileCore.lifecyclePause();
 ### 檢查行動應用程式訂閱者
 
 登入您的Adobe Campaign Standard執行個體。
-瀏覽&#x200B;**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟適當的行動應用程式。 以Tab鍵前往[!UICONTROL Mobile Application Subscribers]標籤。 您應該會看到[!UICONTROL registration token]已列出。
+瀏覽**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟適當的行動應用程式。 以Tab鍵前往[!UICONTROL Mobile Application Subscribers]標籤。 您應該會看到[!UICONTROL registration token]已列出。
 
 ![行動應用程式訂閱者](assets/mobile-application-subscribers.PNG)
 

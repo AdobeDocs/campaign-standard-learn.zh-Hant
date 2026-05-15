@@ -10,9 +10,12 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: 273
 ht-degree: 4%
 
 ---
@@ -25,9 +28,9 @@ ht-degree: 4%
 >
 >如果您計畫實作此功能，請聯絡[!UICONTROL Adobe Customer Support]。
 
-## 概覽
+## 概觀
 
-Adobe Experience Platform [!UICONTROL Data Connector]將XTK資料(在Adobe Experience Platform中擷取的資料)對應至Adobe Experience Platform上的[!DNL Experience Data Model] (XDM)資料，協助現有客戶使其資料可在Adobe Campaign上使用。
+Adobe Experience Platform [!UICONTROL Data Connector]將XTK資料（在Adobe Experience Platform中擷取的資料）對應至Adobe Experience Platform上的[!DNL Experience Data Model] (XDM)資料，協助現有客戶使其資料可在Adobe Campaign上使用。
 
 聯結器是單向的，會將資料從Adobe Campaign Standard傳送至Adobe Experience Platform。 資料絕不會從Adobe Experience Platform傳送至Adobe Campaign Standard。
 
