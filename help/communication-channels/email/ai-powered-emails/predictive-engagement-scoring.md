@@ -1,6 +1,6 @@
 ---
 title: 預測性參與計分
-description: 瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
+description: 瞭解如何在個別輪廓層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
 feature: Predictive Engagement Scoring
 jira: KT-6275
 thumbnail: 40470.jpg
@@ -10,9 +10,19 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/Il4SBkPJ0d3IxWAdfoa4N-YR1QJZ6ByXYrWOC-bEQ5g
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 188
 ht-degree: 72%
 
 ---
@@ -22,10 +32,10 @@ ht-degree: 72%
 由 [!UICONTROL Journey AI] 提供，[!DNL Adobe Campaign] 可以根據歷史參與量度，分析並預測開放率、最佳傳送時間和可能的流失率。
 
 >[!CAUTION]
->這項功能無法立即在產品中使用。此實作需要 Adobe Consulting 參與。若要進一步了解，請洽詢您的 Adobe 代表。
+>這項功能無法立即在產品中使用。 此實作需要 Adobe Consulting 參與。 若要進一步了解，請洽詢您的 Adobe 代表。
 
-[!UICONTROL Predictive engagement scoring]預測收件者與訊息互動的可能性，以及在下次傳送電子郵件後7天內選擇退出（取消訂閱）的可能性。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。該模型也提供風險百分位數排名，讓客戶瞭解特定客戶與其他客戶的排名。
+[!UICONTROL Predictive engagement scoring]預測收件者與訊息互動的可能性，以及在下次傳送電子郵件後7天內選擇退出（取消訂閱）的可能性。 根據脫離、中度或低度的具體風險，這些機率進一步被分成若干貯體。 該模型也提供風險百分位數排名，讓客戶瞭解特定客戶與其他客戶的排名。
 
-瞭解如何在個別設定檔層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
+瞭解如何在個別輪廓層級檢視參與分數、使用分數來定位參與的使用者並抑制疲勞的使用者，以及如何建立樣態規則來管理客戶疲勞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}

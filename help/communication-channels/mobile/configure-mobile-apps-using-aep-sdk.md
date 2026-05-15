@@ -10,17 +10,23 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/TovG-0gCuO1pWtxjkAWKs4-UB02fv4PHGZwDukymdRI
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 9%
+source-wordcount: 108
+ht-degree: 8%
 
 ---
 
-
 # 使用[!UICONTROL Adobe Experience Platform SDK]設定行動應用程式
 
-若要使用Mobile SDK V5傳送應用程式內訊息或[!UICONTROL push notifications]，行動應用程式必須在[!UICONTROL Adobe Experience Platform Launch]中設定並在Adobe Campaign中設定。
+若要使用Mobile SDK V5傳送應用程式內訊息或[!UICONTROL push notifications]，必須在[!UICONTROL Adobe Experience Platform Launch]中設定行動應用程式，並在Adobe Campaign中設定。
 
 以下影片示範在Experience Platform Launch中設定行動應用程式所需的步驟：
 

@@ -1,20 +1,25 @@
 ---
-title: Adobe Campaign Standard 教學課程 - 概覽
-description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+title: Adobe Campaign Standard 教學課程 - 概觀
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。 本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
+TQID: https://experienceleague.adobe.com/FenvZrMwYIQxSWeycBD9F-3pc-669812tnwzhMUxb5k
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: 251
+ht-degree: 92%
 
 ---
 
 # Adobe Campaign Standard 教學課程
 
-Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。 本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -31,15 +36,15 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 <tr>
   <td>
     <a href="./communication-channels/email/profile-substitution.md"> 
-      <img alt="設定檔替代 - 使用目標設定檔測試電子郵件訊息（影片）" src="./assets/substitution_tab.png"/>
+      <img alt="輪廓替代 - 使用目標輪廓測試電子郵件訊息 (影片)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">
-    <strong>設定檔替代 - 使用目標設定檔測試電子郵件訊息（影片）</strong>
+    <strong>設定檔替代 — 使用目標設定檔測試電子郵件訊息（影片）</strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何以設定檔將收到的同一個訊息呈現來傳送校樣，以供檢視。</em>
+    <em>瞭解如何以輪廓將收到的同一個訊息呈現來傳送校樣，以供檢視。</em>
     <p>
   </td>
    <td>
@@ -47,7 +52,8 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
       <img alt="控制面板（影片）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=zh-Hant">    <strong>控制面板（影片）</strong>
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=zh-Hant">
+    <strong>控制面板（影片）</strong>
     </a>
     </div>
     <p>
@@ -60,7 +66,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hant">
-    <strong>教學課程：Android™ 推播通知快速入門</strong>
+    <strong>教學課程： Android推播通知快速入門™</strong>
     </a>
     </div>
     <p>

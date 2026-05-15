@@ -10,9 +10,16 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '212'
+TQID: https://experienceleague.adobe.com/QLA8aB3Oqq0yGG-SnNBi9T6UHgA10IEesedmH5WlBLY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 212
 ht-degree: 100%
 
 ---
@@ -29,6 +36,6 @@ ht-degree: 100%
 >
 >從 19.4 開始，Campaign 介面及 API 中會提供「CCPA 選擇退出」欄位。 對於 19.3 版，您必須在 Adobe Campaign Standard 中建立此 > 欄位，才能使用此資訊。 如需詳細資訊，請參閱[詳細文件](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=zh-Hant#privacy-requests)。
 >
-> 若想檢查版本，請按一下 **？**&#x200B;請在介面右上方，選擇 [關於]。
+> 若想檢查版本，請按一下 **？** 請在介面右上方，選擇 [關於]。
 
 另請參閱 [ Campaign 一般隱私權指引](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hant)

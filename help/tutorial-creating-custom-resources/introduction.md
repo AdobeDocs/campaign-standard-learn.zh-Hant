@@ -9,16 +9,28 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/e5P--uy0Qe1gz80G9Wq3L-Ino6wsfILUm-TnlEWsxCg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: b12f6872-9271-4369-85e5-86969a0b99a2
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 198
+ht-degree: 87%
 
 ---
 
 # 建立自訂資源 – 簡介
 
-[!DNL Adobe Campaign] 隨附事先定義好的資料模型，其中會透過不同資源定義資料。[!DNL Campaign]可讓使用者擴充現有資源，或是建立新的資源。
+[!DNL Adobe Campaign] 隨附預先定義的資料模型，其中資料會透過不同資源加以定義。 [!DNL Campaign] 可讓使用者擴充現有資源或建立新資源。
 
 這個多部分教學課程將逐步引導您完成建立及連結自訂資源所需的步驟。
 已學習如何：
@@ -40,10 +52,10 @@ ht-degree: 100%
 
 本教學課程說明如何：
 
-步驟1 – [建立自訂資源](./creating-a-custom-resource.md)
-步驟2 – [設定螢幕定義](./configuring-a-screen-definition-for-a-custom-resource.md)
-步驟3 – [連結自訂資源](./linking-custom-resources.md)
-步驟4 – [使用資料填入自訂資源](./populate-custom-resources-with-data.md)
+步驟1 - [建立自訂資源](./creating-a-custom-resource.md)
+步驟2 - [設定熒幕定義](./configuring-a-screen-definition-for-a-custom-resource.md)
+步驟3 - [連結自訂資源](./linking-custom-resources.md)
+步驟4 - [使用資料填入自訂資源](./populate-custom-resources-with-data.md)
 
 ## 開始教學課程
 

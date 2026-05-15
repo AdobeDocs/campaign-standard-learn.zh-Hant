@@ -10,14 +10,23 @@ team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/aFIvcwojHjHdsV4OW63aQIzs4lK3oo5ddAi1L5axQCY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 12%
+source-wordcount: 92
+ht-degree: 13%
 
 ---
 
-# 根據自訂設定檔屬性建立報告
+# 根據自訂輪廓屬性建立報告
 
 Adobe Campaign的[!UICONTROL Dynamic Reports]是彈性的自由格式環境，您可以在其中加入自訂設定檔屬性來探索資料。 它可讓您結合任何組合的維度、量度和時間範圍，並具備無限制的劃分和比較。
 

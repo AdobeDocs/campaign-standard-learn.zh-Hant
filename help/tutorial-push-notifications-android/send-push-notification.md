@@ -9,9 +9,12 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: f4712dcf6dec01867414057346f8501c6e1669ec
+TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 148
 ht-degree: 2%
 
 ---
@@ -26,9 +29,9 @@ ht-degree: 2%
 * 從&#x200B;**[!UICONTROL Associate a Mobile App to a delivery]**&#x200B;下拉式清單中選取適當的行動應用程式，然後按一下&#x200B;**[!UICONTROL Next]**
 * 按一下計數標籤，它應該會傳回大於0的值。 按一下&#x200B;**[!UICONTROL Next]**
 * 提供有意義的[!UICONTROL Message title]和[!UICONTROL Message body]，然後按一下&#x200B;**[!UICONTROL Create]**。
-* 按一下 **[!UICONTROL Prepare]**。準備完成後，請按一下&#x200B;**[!UICONTROL Confirm]**&#x200B;以傳送訊息。
+* 按一下 **[!UICONTROL Prepare]**。 準備完成後，請按一下&#x200B;**[!UICONTROL Confirm]**&#x200B;以傳送訊息。
 
-如果一切順利，您應該會在模擬器中執行Android™應用程式中看到通知
+如果一切順利，您應該會在模擬器中執行™應用程式中看到通知
 
 ## 額外資源
 

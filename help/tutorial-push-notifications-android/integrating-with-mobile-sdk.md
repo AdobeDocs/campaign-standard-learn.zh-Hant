@@ -1,6 +1,6 @@
 ---
 title: 步驟 2 – 整合行動裝置 SDK
-description: 在本節中，我們將整合Android應用程式與行動SDK。 將行動SDK與Android應用程式整合的方式
+description: 在本部分中，我們將整合Android應用程式與行動SDK。 若要整合行動SDK與Android應用程式
 feature: Push
 user: Admin
 level: Experienced
@@ -10,9 +10,14 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
+TQID: https://experienceleague.adobe.com/6WL8yj7aMoS9C6l-HwQZZ3Hg0B2jmNtlmaFnsAi0Ohw
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 164
 ht-degree: 3%
 
 ---
@@ -57,9 +62,9 @@ Removed `{.line-numbers}` below
 ```
 
 複製應用程式元素中的下列行
-[!DNL android:name=".MainApp"]
-儲存您的[!DNL AndroidManifest.xml]
-您的[!DNL AndroidManifest.xml]應如下所示
+[!DNL android:name=&quot;。MainApp&quot;]
+儲存您的 [!DNL AndroidManifest.xml]
+您的[!DNL AndroidManifest.xml]看起來應該像這樣
 
 <!--
 Removed `{.line-numbers}` below
