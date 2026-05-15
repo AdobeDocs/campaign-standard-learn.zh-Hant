@@ -31,4 +31,4 @@ ht-degree: 27%
 
 瞭解訊息記錄檔、工作記錄檔和傳送記錄檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445045/?captions=chi_hant&learn=on){transcript=true}
