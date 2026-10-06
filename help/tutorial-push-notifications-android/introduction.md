@@ -8,16 +8,23 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-TQID: https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw
+TQID: 'https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '217'
 ht-degree: 100%
-
 ---
-
 # Android™ 應用程式使用推送通知快速入門
 
 Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 Android™ 行動裝置。
@@ -27,8 +34,8 @@ Adobe Campaign 可讓您將個人化和分段的推播通知傳送至 iOS 和 An
 ## 先決條件
 
 * 您應該已透過 Adobe Campaign Standard 延伸功能設定啟動屬性。 請按照以下線上說明操作。
-   * [教學課程影片](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
-   * [文件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=zh-Hant)
+  * [教學課程影片](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+  * [文件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=zh-Hant)
 
 * 請確定 Adobe Campaign Standard 中對應的屬性狀態設為「已設定」。
 * [擁有活躍的 Google Firebase 帳戶](https://firebase.google.com)
