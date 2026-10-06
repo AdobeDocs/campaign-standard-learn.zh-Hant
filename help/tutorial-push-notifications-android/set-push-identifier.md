@@ -9,18 +9,29 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+TQID: 'https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Administration
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '216'
 ht-degree: 0%
-
 ---
-
 # 步驟4 — 設定[!DNL pushidentifier]
 
 **[!DNL pushidentifier]**&#x200B;是包含[!DNL Push]通知的裝置權杖的字串。 它是由[!DNL Firebase]傳送並使用[!DNL MobileCore.setPushIdentifier]方法傳遞至SDK的相同Token。
@@ -105,7 +116,7 @@ MobileCore.lifecyclePause();
 ### 檢查行動應用程式訂閱者
 
 登入您的Adobe Campaign Standard執行個體。
-瀏覽&#x200B;**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟適當的行動應用程式。 以Tab鍵前往[!UICONTROL Mobile Application Subscribers]標籤。 您應該會看到[!UICONTROL registration token]已列出。
+瀏覽**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 開啟適當的行動應用程式。 以Tab鍵前往[!UICONTROL Mobile Application Subscribers]標籤。 您應該會看到[!UICONTROL registration token]已列出。
 
 ![行動應用程式訂閱者](assets/mobile-application-subscribers.PNG)
 

@@ -8,28 +8,46 @@ level: Beginner
 jira: KT-11779
 last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-TQID: https://experienceleague.adobe.com/3cS86wQcT-wVfOQwmDzaqg7OJu-rakFrAzAx-gd-DFU
+TQID: 'https://experienceleague.adobe.com/3cS86wQcT-wVfOQwmDzaqg7OJu-rakFrAzAx-gd-DFU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Privacy
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1354
+source-wordcount: '1354'
 ht-degree: 100%
-
 ---
-
 # [!DNL Adobe Campaign] 成功行銷的十大最佳實務
 
 Christian Klimczyk 自稱為「Adobe 控」，擁有 7 年的 [!DNL Adobe Experience Cloud] 專業知識，主要側重於 [!DNL Adobe Campaign]。 Christian 及其團隊以大型 CPG 公司的 Adobe 平台所有者身分，利用 [!DNL Campaign] 跟所有消費者通訊及互動。 他們可跨直接郵件、電子郵件與簡訊/MMS 來協調及管理高法規要求與多頻道消費者行銷活動，順暢無阻。
@@ -55,7 +73,7 @@ Adobe Campaign 是一項彈性工具，可讓您以多種方式執行及協調�
 
 跟您的顧客一樣，您每天都有例行活動。 行銷活動的傳送及協調應符合此節奏。 否則，您可能無法聯絡客戶，因為 [85% 的已傳送郵件未開啟，而 98%的已傳送郵件未獲點進](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 協調及促進跨多個品牌的通訊可能是一項挑戰。 對於訊息與行銷活動執行個體的整體穩定性及力量而言，[密切關注並了解電子郵件的節奏、步調與時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hant)重要性不可小覷。
+例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 協調及促進跨多個品牌的通訊可能是一項挑戰。 對於訊息與行銷活動執行個體的整體穩定性及力量而言，[密切關注並了解電子郵件的節奏、步調與時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)重要性不可小覷。
 
 ## &#x200B;4. 在關鍵時刻，使用個人化功能
 

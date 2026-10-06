@@ -1,6 +1,6 @@
 ---
 title: 步驟1 — 建立Android應用程式並設定為使用Firebase雲端通訊
-description: 在此部分中，我們將建立 [!DNL Android] 應用程式以接收從Adobe Campaign Standard傳送的[!UICONTROL Push notifications]。 若要接收推播通知，應用程式必須向Google的 [!DNL Firebase Cloud Service]註冊。
+description: 在此部分中，我們將建立[!DNL Android]應用程式以接收從Adobe Campaign Standard傳送的[!UICONTROL Push notifications]。 若要接收推播通知，應用程式必須向Google的[!DNL Firebase Cloud Service]註冊。
 feature: Push
 user: Admin
 level: Experienced
@@ -10,25 +10,36 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
+TQID: 'https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Administration
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: '330'
 ht-degree: 0%
-
 ---
-
 # 步驟1 — 建立[!DNL Android]應用程式並設定為使用[!DNL Firebase Cloud Messaging]
 
 在此部分中，您將建立[!DNL Android]應用程式以接收從Adobe Campaign Standard傳送的[!UICONTROL Push notifications]。 若要接收推播通知，應用程式必須向Google的[!DNL Firebase Cloud Service]註冊。
 
 1. 登入您的[!DNL Firebase]帳戶。
 
-   [!DNL Firebase]是Google的行動平台，可幫助您快速開發高品質的應用程式。 如果您沒有[!DNL Firebase]帳戶，請從這裡[&#128279;](https://firebase.google.com)建立一個。
+   [!DNL Firebase]是Google的行動平台，可幫助您快速開發高品質的應用程式。 如果您沒有[!DNL Firebase]帳戶，請從這裡](https://firebase.google.com)建立一個[。
 
 2. 啟動[!DNL Android Studio]
 3. 按一下&#x200B;**[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project].**
@@ -56,15 +67,15 @@ ht-degree: 0%
 11. 在您的應用程式連線到Firebase之後，按一下&#x200B;**[!UICONTROL Add FCM to your app].**
 12. 按一下&#x200B;**[!UICONTROL Accept Changes].**
 
-   將FCM新增至應用程式時，精靈需要您的許可權才能對專案進行某些變更。
+    將FCM新增至應用程式時，精靈需要您的許可權才能對專案進行某些變更。
 
-   ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
+    ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 
 應用程式與Firebase成功整合後，您應會收到如下所示的訊息：
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[確定您的專案列在 [!DNL Firebase &#x200B;]主控台中](https://console.firebase.google.com/)
+[確定您的專案列在 [!DNL Firebase ]主控台中](https://console.firebase.google.com/)
 
 ## 設定[!UICONTROL Push Channel]設定
 

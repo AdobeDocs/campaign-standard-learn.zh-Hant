@@ -6,29 +6,41 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1497
+source-wordcount: '1497'
 ht-degree: 0%
-
 ---
-
 # 電子郵件ROI和讓訂閱者重新參與的最佳實務
 
 電子郵件行銷是培養品牌忠誠度及增加銷售額的重要工具。 但是，由於每天都會收到大量的電子郵件，更不用說他們消費的其他數位內容了，因此您的內容在眾人中脫穎而出非常重要。 而且它必須符合您對象的特殊需求。
@@ -65,27 +77,27 @@ ht-degree: 0%
 * ISP會追蹤您從IP位址傳送的平均值，因此請儘量分配音量，以避免產生紅色旗標和傳送給垃圾訊息
 * 預先設定您的內容行事曆，並為內容作者增加傳送量做好準備
 * 想想您如何排程電子郵件，避免傳送量出現巨大尖峰。 考慮一些策略，例如：
-   * 不是同時傳送爆炸，而是經過幾天
-   * 策略性地規劃一天中收到電子郵件超載的時間，例如上午8點至10點
-   * 如果您無法將它分散在幾天內，請嘗試幾個小時
+  * 不是同時傳送爆炸，而是經過幾天
+  * 策略性地規劃一天中收到電子郵件超載的時間，例如上午8點至10點
+  * 如果您無法將它分散在幾天內，請嘗試幾個小時
 
 ### &#x200B;2. 基礎架構
 
 * 透過使用您自己的電子郵件進行測試，確保電子郵件驗證已正確設定
 * 熟悉跳出處理，並檢查整個ISP的效能
-   * 特定ISP是否有任何潛在問題或區塊？
-   * 在開始傳送大量訊息之前，請先瞭解您的問題，以避免令人不快的意外和不良的行銷活動效能
+  * 特定ISP是否有任何潛在問題或區塊？
+  * 在開始傳送大量訊息之前，請先瞭解您的問題，以避免令人不快的意外和不良的行銷活動效能
 
 ### &#x200B;3. 資料
 
 * 識別所有贏取技術，尤其是您的註冊流程和GDPR。
 * 詢問訂閱者的電子郵件地址時，請儘可能對其透明：
-   * 您將傳送哪些內容（電子報、促銷活動、活動）
-   * 您將傳送多少電子郵件（每日、每週、每月）
+  * 您將傳送哪些內容（電子報、促銷活動、活動）
+  * 您將傳送多少電子郵件（每日、每週、每月）
 
 * 傳送歡迎電子郵件給新訂閱者：
-   * 歡迎電子郵件有助於確保訂閱者不會受到新內容的干擾，不會取消訂閱或標籤為垃圾訊息。
-   * 歡迎電子郵件也是績效的良好指標。 如果他們無法成功傳遞或互動，您就會知道這是效能不佳或資料彙集不佳的徵兆。
+  * 歡迎電子郵件有助於確保訂閱者不會受到新內容的干擾，不會取消訂閱或標籤為垃圾訊息。
+  * 歡迎電子郵件也是績效的良好指標。 如果他們無法成功傳遞或互動，您就會知道這是效能不佳或資料彙集不佳的徵兆。
 
 ### &#x200B;4. 電子郵件管理
 
@@ -112,9 +124,9 @@ ht-degree: 0%
 
 * 您的客戶在客戶生命週期中的階段為何？
 * 他們對您的電子郵件的參與度如何？
-   * 購物籃放棄電子郵件與電子報
-   * 重新啟用電子郵件與銷售啟動
-   * 購物籃放棄電子郵件與新產品上市
+  * 購物籃放棄電子郵件與電子報
+  * 重新啟用電子郵件與銷售啟動
+  * 購物籃放棄電子郵件與新產品上市
 * 您的客戶接收您品牌內容的容量為何？
 * 您的客戶有哪些季節性偏好設定？
 
@@ -156,4 +168,4 @@ ht-degree: 0%
 
 若要回顧本文章及實作重新參與策略的即時示範，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心瞭解更多策略和思想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心瞭解更多策略和思想領導力。
