@@ -43,7 +43,7 @@ ht-degree: 9%
 
 瞭解如何在Adobe Experience Platform (AEP)中對映[!UICONTROL Experience Events]。
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507399?captions=chi_hant&learn=on){transcript=true}
 
 ## 額外資源
 

@@ -35,7 +35,7 @@ ht-degree: 28%
 
 在本影片中，我們將建立第一個稱為客戶的自訂資源。
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507584?captions=chi_hant&learn=on){transcript=true}
 
 **下一步**
 

@@ -37,6 +37,6 @@ ht-degree: 0%
 
 瞭解如何使用工作流程將來自[!DNL CSV]檔案的資料填入自訂資源。
 
->[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507517?captions=chi_hant&learn=on){transcript=true}
 
 如需有關如何透過[!DNL API]填入自訂資源的詳細資訊，請參閱檔案： [與自訂資源互動](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=zh-Hant)。
