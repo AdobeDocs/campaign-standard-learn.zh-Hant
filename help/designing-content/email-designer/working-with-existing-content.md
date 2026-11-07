@@ -41,7 +41,7 @@ ht-degree: 7%
 
 瞭解如何從網站擷取您的創意內容，並將其載入電子郵件Designer。
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507643?captions=chi_hant&learn=on){transcript=true}
 
 ## 讓現有的HTML內容相容 {#making-existing-html-content-compatible}
 

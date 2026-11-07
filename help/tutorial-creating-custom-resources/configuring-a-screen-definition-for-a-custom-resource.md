@@ -35,7 +35,7 @@ ht-degree: 4%
 
 瞭解如何設定自訂資源的熒幕定義。
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507417?captions=chi_hant&learn=on){transcript=true}
 
 **下一步**
 

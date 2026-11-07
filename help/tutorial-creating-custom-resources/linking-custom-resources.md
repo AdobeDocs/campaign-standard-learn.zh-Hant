@@ -35,7 +35,7 @@ ht-degree: 7%
 
 瞭解如何連結兩個自訂資源。
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507589?captions=chi_hant&learn=on){transcript=true}
 
 **下一步**
 
